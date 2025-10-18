@@ -1,0 +1,8 @@
+# .gitignore
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.streamlit/
+.env
+.DS_Store
