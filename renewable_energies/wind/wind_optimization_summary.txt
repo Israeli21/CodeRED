@@ -1,0 +1,94 @@
+================================================================================
+WIND TURBINE LOCATION OPTIMIZATION REPORT
+================================================================================
+
+Analysis Date: 2025-10-18 13:54:29
+Search Region: Texas (26.0° to 36.5° N, -106.5° to -93.5° W)
+Grid Resolution: 50x50 (2500 locations evaluated)
+
+TOP 10 OPTIMAL LOCATIONS:
+--------------------------------------------------------------------------------
+
+Rank #1:
+  Latitude:  26.642857°
+  Longitude: -105.969388°
+  Power Potential: 606.36 m³/s³
+  Mean Wind Speed: 8.76 m/s
+  Distance to Nearest Turbine: 464.3 km
+
+Rank #2:
+  Latitude:  29.642857°
+  Longitude: -96.683673°
+  Power Potential: 604.74 m³/s³
+  Mean Wind Speed: 8.70 m/s
+  Distance to Nearest Turbine: 448.7 km
+
+Rank #3:
+  Latitude:  31.571429°
+  Longitude: -99.336735°
+  Power Potential: 602.72 m³/s³
+  Mean Wind Speed: 8.64 m/s
+  Distance to Nearest Turbine: 454.4 km
+
+Rank #4:
+  Latitude:  29.428571°
+  Longitude: -96.418367°
+  Power Potential: 602.54 m³/s³
+  Mean Wind Speed: 8.84 m/s
+  Distance to Nearest Turbine: 418.0 km
+
+Rank #5:
+  Latitude:  26.428571°
+  Longitude: -105.173469°
+  Power Potential: 600.07 m³/s³
+  Mean Wind Speed: 8.70 m/s
+  Distance to Nearest Turbine: 478.5 km
+
+Rank #6:
+  Latitude:  30.928571°
+  Longitude: -99.602041°
+  Power Potential: 598.73 m³/s³
+  Mean Wind Speed: 8.65 m/s
+  Distance to Nearest Turbine: 489.7 km
+
+Rank #7:
+  Latitude:  27.714286°
+  Longitude: -101.989796°
+  Power Potential: 598.36 m³/s³
+  Mean Wind Speed: 9.03 m/s
+  Distance to Nearest Turbine: 216.8 km
+
+Rank #8:
+  Latitude:  27.928571°
+  Longitude: -105.173469°
+  Power Potential: 598.34 m³/s³
+  Mean Wind Speed: 9.11 m/s
+  Distance to Nearest Turbine: 458.3 km
+
+Rank #9:
+  Latitude:  29.642857°
+  Longitude: -100.663265°
+  Power Potential: 598.21 m³/s³
+  Mean Wind Speed: 8.86 m/s
+  Distance to Nearest Turbine: 361.1 km
+
+Rank #10:
+  Latitude:  27.928571°
+  Longitude: -104.642857°
+  Power Potential: 598.12 m³/s³
+  Mean Wind Speed: 9.04 m/s
+  Distance to Nearest Turbine: 455.7 km
+
+================================================================================
+STATISTICAL SUMMARY
+================================================================================
+Average Power Potential: 284.18 m³/s³
+Maximum Power Potential: 606.36 m³/s³
+Minimum Power Potential: 105.34 m³/s³
+Standard Deviation: 125.51 m³/s³
+
+HIGH-POTENTIAL ZONE (Top 10%):
+  Number of Sites: 250
+  Latitude Range: 26.0000° to 36.5000°
+  Longitude Range: -106.5000° to -93.5000°
+  Average Power Potential: 536.41 m³/s³
