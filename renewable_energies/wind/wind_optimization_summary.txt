@@ -2,11 +2,11 @@
 WIND TURBINE LOCATION OPTIMIZATION REPORT
 ================================================================================
 
-Analysis Date: 2025-10-18 13:54:29
+Analysis Date: 2025-10-18 18:29:41
 Search Region: Texas (26.0° to 36.5° N, -106.5° to -93.5° W)
 Grid Resolution: 50x50 (2500 locations evaluated)
 
-TOP 10 OPTIMAL LOCATIONS:
+TOP 750 OPTIMAL LOCATIONS:
 --------------------------------------------------------------------------------
 
 Rank #1:
@@ -78,6 +78,5186 @@ Rank #10:
   Power Potential: 598.12 m³/s³
   Mean Wind Speed: 9.04 m/s
   Distance to Nearest Turbine: 455.7 km
+
+Rank #11:
+  Latitude:  29.857143°
+  Longitude: -94.826531°
+  Power Potential: 598.12 m³/s³
+  Mean Wind Speed: 9.15 m/s
+  Distance to Nearest Turbine: 448.0 km
+
+Rank #12:
+  Latitude:  30.500000°
+  Longitude: -98.806122°
+  Power Potential: 597.92 m³/s³
+  Mean Wind Speed: 8.60 m/s
+  Distance to Nearest Turbine: 480.3 km
+
+Rank #13:
+  Latitude:  26.857143°
+  Longitude: -95.357143°
+  Power Potential: 597.52 m³/s³
+  Mean Wind Speed: 9.10 m/s
+  Distance to Nearest Turbine: 115.9 km
+
+Rank #14:
+  Latitude:  26.642857°
+  Longitude: -104.112245°
+  Power Potential: 596.25 m³/s³
+  Mean Wind Speed: 9.49 m/s
+  Distance to Nearest Turbine: 373.3 km
+
+Rank #15:
+  Latitude:  32.000000°
+  Longitude: -106.500000°
+  Power Potential: 596.21 m³/s³
+  Mean Wind Speed: 8.62 m/s
+  Distance to Nearest Turbine: 54.8 km
+
+Rank #16:
+  Latitude:  26.214286°
+  Longitude: -98.275510°
+  Power Potential: 595.38 m³/s³
+  Mean Wind Speed: 8.64 m/s
+  Distance to Nearest Turbine: 210.8 km
+
+Rank #17:
+  Latitude:  26.428571°
+  Longitude: -100.928571°
+  Power Potential: 595.38 m³/s³
+  Mean Wind Speed: 9.18 m/s
+  Distance to Nearest Turbine: 55.2 km
+
+Rank #18:
+  Latitude:  30.071429°
+  Longitude: -98.540816°
+  Power Potential: 595.19 m³/s³
+  Mean Wind Speed: 8.48 m/s
+  Distance to Nearest Turbine: 445.6 km
+
+Rank #19:
+  Latitude:  26.642857°
+  Longitude: -100.663265°
+  Power Potential: 595.04 m³/s³
+  Mean Wind Speed: 9.30 m/s
+  Distance to Nearest Turbine: 39.7 km
+
+Rank #20:
+  Latitude:  35.428571°
+  Longitude: -100.397959°
+  Power Potential: 594.96 m³/s³
+  Mean Wind Speed: 8.67 m/s
+  Distance to Nearest Turbine: 261.9 km
+
+Rank #21:
+  Latitude:  29.428571°
+  Longitude: -101.193878°
+  Power Potential: 594.49 m³/s³
+  Mean Wind Speed: 9.18 m/s
+  Distance to Nearest Turbine: 345.8 km
+
+Rank #22:
+  Latitude:  31.785714°
+  Longitude: -100.663265°
+  Power Potential: 594.49 m³/s³
+  Mean Wind Speed: 9.66 m/s
+  Distance to Nearest Turbine: 352.7 km
+
+Rank #23:
+  Latitude:  30.071429°
+  Longitude: -97.214286°
+  Power Potential: 594.36 m³/s³
+  Mean Wind Speed: 9.41 m/s
+  Distance to Nearest Turbine: 511.9 km
+
+Rank #24:
+  Latitude:  30.928571°
+  Longitude: -95.091837°
+  Power Potential: 594.31 m³/s³
+  Mean Wind Speed: 9.09 m/s
+  Distance to Nearest Turbine: 360.2 km
+
+Rank #25:
+  Latitude:  29.428571°
+  Longitude: -95.091837°
+  Power Potential: 594.24 m³/s³
+  Mean Wind Speed: 8.53 m/s
+  Distance to Nearest Turbine: 399.4 km
+
+Rank #26:
+  Latitude:  33.928571°
+  Longitude: -101.459184°
+  Power Potential: 593.69 m³/s³
+  Mean Wind Speed: 8.76 m/s
+  Distance to Nearest Turbine: 143.0 km
+
+Rank #27:
+  Latitude:  26.000000°
+  Longitude: -93.765306°
+  Power Potential: 593.36 m³/s³
+  Mean Wind Speed: 9.20 m/s
+  Distance to Nearest Turbine: 141.6 km
+
+Rank #28:
+  Latitude:  26.214286°
+  Longitude: -95.091837°
+  Power Potential: 593.36 m³/s³
+  Mean Wind Speed: 10.22 m/s
+  Distance to Nearest Turbine: 43.7 km
+
+Rank #29:
+  Latitude:  26.428571°
+  Longitude: -102.255102°
+  Power Potential: 593.36 m³/s³
+  Mean Wind Speed: 9.25 m/s
+  Distance to Nearest Turbine: 187.4 km
+
+Rank #30:
+  Latitude:  27.071429°
+  Longitude: -100.663265°
+  Power Potential: 593.36 m³/s³
+  Mean Wind Speed: 8.89 m/s
+  Distance to Nearest Turbine: 80.3 km
+
+Rank #31:
+  Latitude:  28.357143°
+  Longitude: -95.887755°
+  Power Potential: 593.36 m³/s³
+  Mean Wind Speed: 9.31 m/s
+  Distance to Nearest Turbine: 289.5 km
+
+Rank #32:
+  Latitude:  31.357143°
+  Longitude: -103.581633°
+  Power Potential: 593.36 m³/s³
+  Mean Wind Speed: 8.78 m/s
+  Distance to Nearest Turbine: 233.3 km
+
+Rank #33:
+  Latitude:  30.500000°
+  Longitude: -103.846939°
+  Power Potential: 593.16 m³/s³
+  Mean Wind Speed: 8.49 m/s
+  Distance to Nearest Turbine: 259.0 km
+
+Rank #34:
+  Latitude:  27.285714°
+  Longitude: -94.826531°
+  Power Potential: 592.41 m³/s³
+  Mean Wind Speed: 8.32 m/s
+  Distance to Nearest Turbine: 165.3 km
+
+Rank #35:
+  Latitude:  27.500000°
+  Longitude: -105.173469°
+  Power Potential: 591.88 m³/s³
+  Mean Wind Speed: 8.34 m/s
+  Distance to Nearest Turbine: 491.8 km
+
+Rank #36:
+  Latitude:  26.857143°
+  Longitude: -102.520408°
+  Power Potential: 591.44 m³/s³
+  Mean Wind Speed: 8.41 m/s
+  Distance to Nearest Turbine: 219.5 km
+
+Rank #37:
+  Latitude:  28.142857°
+  Longitude: -101.193878°
+  Power Potential: 591.40 m³/s³
+  Mean Wind Speed: 8.99 m/s
+  Distance to Nearest Turbine: 210.0 km
+
+Rank #38:
+  Latitude:  29.857143°
+  Longitude: -103.051020°
+  Power Potential: 591.32 m³/s³
+  Mean Wind Speed: 9.03 m/s
+  Distance to Nearest Turbine: 363.6 km
+
+Rank #39:
+  Latitude:  26.000000°
+  Longitude: -101.989796°
+  Power Potential: 591.05 m³/s³
+  Mean Wind Speed: 8.40 m/s
+  Distance to Nearest Turbine: 167.0 km
+
+Rank #40:
+  Latitude:  32.642857°
+  Longitude: -93.765306°
+  Power Potential: 590.81 m³/s³
+  Mean Wind Speed: 8.85 m/s
+  Distance to Nearest Turbine: 132.8 km
+
+Rank #41:
+  Latitude:  26.428571°
+  Longitude: -94.030612°
+  Power Potential: 590.10 m³/s³
+  Mean Wind Speed: 8.95 m/s
+  Distance to Nearest Turbine: 131.7 km
+
+Rank #42:
+  Latitude:  27.714286°
+  Longitude: -102.785714°
+  Power Potential: 590.10 m³/s³
+  Mean Wind Speed: 10.80 m/s
+  Distance to Nearest Turbine: 280.2 km
+
+Rank #43:
+  Latitude:  29.000000°
+  Longitude: -94.030612°
+  Power Potential: 589.93 m³/s³
+  Mean Wind Speed: 8.49 m/s
+  Distance to Nearest Turbine: 369.2 km
+
+Rank #44:
+  Latitude:  32.000000°
+  Longitude: -105.704082°
+  Power Potential: 589.73 m³/s³
+  Mean Wind Speed: 8.66 m/s
+  Distance to Nearest Turbine: 20.4 km
+
+Rank #45:
+  Latitude:  28.785714°
+  Longitude: -94.295918°
+  Power Potential: 589.71 m³/s³
+  Mean Wind Speed: 8.81 m/s
+  Distance to Nearest Turbine: 339.1 km
+
+Rank #46:
+  Latitude:  30.928571°
+  Longitude: -101.193878°
+  Power Potential: 589.32 m³/s³
+  Mean Wind Speed: 8.43 m/s
+  Distance to Nearest Turbine: 410.8 km
+
+Rank #47:
+  Latitude:  28.571429°
+  Longitude: -101.193878°
+  Power Potential: 588.64 m³/s³
+  Mean Wind Speed: 8.56 m/s
+  Distance to Nearest Turbine: 254.4 km
+
+Rank #48:
+  Latitude:  29.642857°
+  Longitude: -102.255102°
+  Power Potential: 588.06 m³/s³
+  Mean Wind Speed: 8.38 m/s
+  Distance to Nearest Turbine: 404.6 km
+
+Rank #49:
+  Latitude:  27.714286°
+  Longitude: -101.459184°
+  Power Potential: 587.91 m³/s³
+  Mean Wind Speed: 8.33 m/s
+  Distance to Nearest Turbine: 181.5 km
+
+Rank #50:
+  Latitude:  26.214286°
+  Longitude: -97.744898°
+  Power Potential: 586.49 m³/s³
+  Mean Wind Speed: 8.55 m/s
+  Distance to Nearest Turbine: 261.8 km
+
+Rank #51:
+  Latitude:  26.428571°
+  Longitude: -100.132653°
+  Power Potential: 586.36 m³/s³
+  Mean Wind Speed: 9.22 m/s
+  Distance to Nearest Turbine: 24.7 km
+
+Rank #52:
+  Latitude:  26.642857°
+  Longitude: -95.622449°
+  Power Potential: 586.35 m³/s³
+  Mean Wind Speed: 8.54 m/s
+  Distance to Nearest Turbine: 101.5 km
+
+Rank #53:
+  Latitude:  32.642857°
+  Longitude: -106.234694°
+  Power Potential: 584.77 m³/s³
+  Mean Wind Speed: 8.33 m/s
+  Distance to Nearest Turbine: 76.0 km
+
+Rank #54:
+  Latitude:  36.500000°
+  Longitude: -100.663265°
+  Power Potential: 584.48 m³/s³
+  Mean Wind Speed: 8.83 m/s
+  Distance to Nearest Turbine: 305.0 km
+
+Rank #55:
+  Latitude:  35.642857°
+  Longitude: -102.785714°
+  Power Potential: 584.30 m³/s³
+  Mean Wind Speed: 8.98 m/s
+  Distance to Nearest Turbine: 146.5 km
+
+Rank #56:
+  Latitude:  26.642857°
+  Longitude: -105.173469°
+  Power Potential: 581.88 m³/s³
+  Mean Wind Speed: 8.27 m/s
+  Distance to Nearest Turbine: 478.8 km
+
+Rank #57:
+  Latitude:  28.142857°
+  Longitude: -93.500000°
+  Power Potential: 581.54 m³/s³
+  Mean Wind Speed: 8.32 m/s
+  Distance to Nearest Turbine: 305.4 km
+
+Rank #58:
+  Latitude:  30.714286°
+  Longitude: -105.438776°
+  Power Potential: 580.49 m³/s³
+  Mean Wind Speed: 8.47 m/s
+  Distance to Nearest Turbine: 150.9 km
+
+Rank #59:
+  Latitude:  32.000000°
+  Longitude: -99.602041°
+  Power Potential: 580.39 m³/s³
+  Mean Wind Speed: 8.39 m/s
+  Distance to Nearest Turbine: 404.0 km
+
+Rank #60:
+  Latitude:  27.500000°
+  Longitude: -96.683673°
+  Power Potential: 580.37 m³/s³
+  Mean Wind Speed: 8.45 m/s
+  Distance to Nearest Turbine: 239.3 km
+
+Rank #61:
+  Latitude:  26.428571°
+  Longitude: -96.683673°
+  Power Potential: 580.15 m³/s³
+  Mean Wind Speed: 9.16 m/s
+  Distance to Nearest Turbine: 165.9 km
+
+Rank #62:
+  Latitude:  27.500000°
+  Longitude: -99.867347°
+  Power Potential: 577.94 m³/s³
+  Mean Wind Speed: 8.69 m/s
+  Distance to Nearest Turbine: 132.6 km
+
+Rank #63:
+  Latitude:  36.500000°
+  Longitude: -97.479592°
+  Power Potential: 577.89 m³/s³
+  Mean Wind Speed: 8.27 m/s
+  Distance to Nearest Turbine: 405.2 km
+
+Rank #64:
+  Latitude:  32.214286°
+  Longitude: -106.234694°
+  Power Potential: 577.72 m³/s³
+  Mean Wind Speed: 8.74 m/s
+  Distance to Nearest Turbine: 37.3 km
+
+Rank #65:
+  Latitude:  27.285714°
+  Longitude: -100.397959°
+  Power Potential: 577.10 m³/s³
+  Mean Wind Speed: 8.18 m/s
+  Distance to Nearest Turbine: 98.8 km
+
+Rank #66:
+  Latitude:  28.785714°
+  Longitude: -96.683673°
+  Power Potential: 575.47 m³/s³
+  Mean Wind Speed: 8.39 m/s
+  Distance to Nearest Turbine: 360.8 km
+
+Rank #67:
+  Latitude:  28.142857°
+  Longitude: -103.051020°
+  Power Potential: 575.29 m³/s³
+  Mean Wind Speed: 8.62 m/s
+  Distance to Nearest Turbine: 328.1 km
+
+Rank #68:
+  Latitude:  36.071429°
+  Longitude: -104.377551°
+  Power Potential: 575.25 m³/s³
+  Mean Wind Speed: 8.25 m/s
+  Distance to Nearest Turbine: 91.4 km
+
+Rank #69:
+  Latitude:  30.285714°
+  Longitude: -100.132653°
+  Power Potential: 574.85 m³/s³
+  Mean Wind Speed: 8.42 m/s
+  Distance to Nearest Turbine: 432.0 km
+
+Rank #70:
+  Latitude:  28.785714°
+  Longitude: -100.397959°
+  Power Potential: 574.73 m³/s³
+  Mean Wind Speed: 8.58 m/s
+  Distance to Nearest Turbine: 265.0 km
+
+Rank #71:
+  Latitude:  34.357143°
+  Longitude: -99.867347°
+  Power Potential: 574.70 m³/s³
+  Mean Wind Speed: 8.25 m/s
+  Distance to Nearest Turbine: 282.1 km
+
+Rank #72:
+  Latitude:  32.857143°
+  Longitude: -95.887755°
+  Power Potential: 574.31 m³/s³
+  Mean Wind Speed: 8.57 m/s
+  Distance to Nearest Turbine: 293.5 km
+
+Rank #73:
+  Latitude:  27.714286°
+  Longitude: -94.826531°
+  Power Potential: 572.26 m³/s³
+  Mean Wind Speed: 8.20 m/s
+  Distance to Nearest Turbine: 212.0 km
+
+Rank #74:
+  Latitude:  26.000000°
+  Longitude: -99.336735°
+  Power Potential: 572.11 m³/s³
+  Mean Wind Speed: 8.21 m/s
+  Distance to Nearest Turbine: 112.8 km
+
+Rank #75:
+  Latitude:  27.285714°
+  Longitude: -101.193878°
+  Power Potential: 570.39 m³/s³
+  Mean Wind Speed: 8.17 m/s
+  Distance to Nearest Turbine: 127.9 km
+
+Rank #76:
+  Latitude:  27.285714°
+  Longitude: -103.316327°
+  Power Potential: 568.75 m³/s³
+  Mean Wind Speed: 8.28 m/s
+  Distance to Nearest Turbine: 308.4 km
+
+Rank #77:
+  Latitude:  28.571429°
+  Longitude: -100.663265°
+  Power Potential: 567.16 m³/s³
+  Mean Wind Speed: 8.18 m/s
+  Distance to Nearest Turbine: 242.9 km
+
+Rank #78:
+  Latitude:  27.071429°
+  Longitude: -103.846939°
+  Power Potential: 566.93 m³/s³
+  Mean Wind Speed: 8.17 m/s
+  Distance to Nearest Turbine: 353.3 km
+
+Rank #79:
+  Latitude:  35.000000°
+  Longitude: -101.989796°
+  Power Potential: 566.39 m³/s³
+  Mean Wind Speed: 8.28 m/s
+  Distance to Nearest Turbine: 114.1 km
+
+Rank #80:
+  Latitude:  28.571429°
+  Longitude: -99.867347°
+  Power Potential: 563.60 m³/s³
+  Mean Wind Speed: 8.12 m/s
+  Distance to Nearest Turbine: 246.5 km
+
+Rank #81:
+  Latitude:  26.428571°
+  Longitude: -101.459184°
+  Power Potential: 562.64 m³/s³
+  Mean Wind Speed: 8.72 m/s
+  Distance to Nearest Turbine: 108.0 km
+
+Rank #82:
+  Latitude:  36.500000°
+  Longitude: -105.173469°
+  Power Potential: 562.54 m³/s³
+  Mean Wind Speed: 8.40 m/s
+  Distance to Nearest Turbine: 107.9 km
+
+Rank #83:
+  Latitude:  28.571429°
+  Longitude: -98.540816°
+  Power Potential: 562.40 m³/s³
+  Mean Wind Speed: 8.89 m/s
+  Distance to Nearest Turbine: 301.9 km
+
+Rank #84:
+  Latitude:  26.214286°
+  Longitude: -101.193878°
+  Power Potential: 560.00 m³/s³
+  Mean Wind Speed: 8.57 m/s
+  Distance to Nearest Turbine: 84.0 km
+
+Rank #85:
+  Latitude:  35.214286°
+  Longitude: -102.255102°
+  Power Potential: 559.67 m³/s³
+  Mean Wind Speed: 8.19 m/s
+  Distance to Nearest Turbine: 116.2 km
+
+Rank #86:
+  Latitude:  27.071429°
+  Longitude: -95.091837°
+  Power Potential: 559.01 m³/s³
+  Mean Wind Speed: 8.23 m/s
+  Distance to Nearest Turbine: 138.3 km
+
+Rank #87:
+  Latitude:  26.857143°
+  Longitude: -97.744898°
+  Power Potential: 555.71 m³/s³
+  Mean Wind Speed: 8.82 m/s
+  Distance to Nearest Turbine: 267.1 km
+
+Rank #88:
+  Latitude:  32.428571°
+  Longitude: -100.928571°
+  Power Potential: 553.36 m³/s³
+  Mean Wind Speed: 8.54 m/s
+  Distance to Nearest Turbine: 281.4 km
+
+Rank #89:
+  Latitude:  26.857143°
+  Longitude: -103.316327°
+  Power Potential: 553.25 m³/s³
+  Mean Wind Speed: 8.68 m/s
+  Distance to Nearest Turbine: 297.2 km
+
+Rank #90:
+  Latitude:  31.142857°
+  Longitude: -98.010204°
+  Power Potential: 552.92 m³/s³
+  Mean Wind Speed: 8.35 m/s
+  Distance to Nearest Turbine: 554.5 km
+
+Rank #91:
+  Latitude:  26.000000°
+  Longitude: -101.193878°
+  Power Potential: 551.89 m³/s³
+  Mean Wind Speed: 8.44 m/s
+  Distance to Nearest Turbine: 92.6 km
+
+Rank #92:
+  Latitude:  29.000000°
+  Longitude: -95.622449°
+  Power Potential: 551.79 m³/s³
+  Mean Wind Speed: 8.12 m/s
+  Distance to Nearest Turbine: 354.7 km
+
+Rank #93:
+  Latitude:  28.571429°
+  Longitude: -97.479592°
+  Power Potential: 551.13 m³/s³
+  Mean Wind Speed: 8.14 m/s
+  Distance to Nearest Turbine: 374.4 km
+
+Rank #94:
+  Latitude:  28.785714°
+  Longitude: -99.071429°
+  Power Potential: 550.67 m³/s³
+  Mean Wind Speed: 8.08 m/s
+  Distance to Nearest Turbine: 294.7 km
+
+Rank #95:
+  Latitude:  31.571429°
+  Longitude: -95.887755°
+  Power Potential: 549.79 m³/s³
+  Mean Wind Speed: 8.12 m/s
+  Distance to Nearest Turbine: 360.4 km
+
+Rank #96:
+  Latitude:  36.500000°
+  Longitude: -98.540816°
+  Power Potential: 549.67 m³/s³
+  Mean Wind Speed: 8.15 m/s
+  Distance to Nearest Turbine: 363.8 km
+
+Rank #97:
+  Latitude:  26.428571°
+  Longitude: -98.275510°
+  Power Potential: 549.29 m³/s³
+  Mean Wind Speed: 8.29 m/s
+  Distance to Nearest Turbine: 209.7 km
+
+Rank #98:
+  Latitude:  28.357143°
+  Longitude: -96.153061°
+  Power Potential: 547.34 m³/s³
+  Mean Wind Speed: 8.81 m/s
+  Distance to Nearest Turbine: 297.2 km
+
+Rank #99:
+  Latitude:  30.714286°
+  Longitude: -102.255102°
+  Power Potential: 547.23 m³/s³
+  Mean Wind Speed: 8.25 m/s
+  Distance to Nearest Turbine: 377.1 km
+
+Rank #100:
+  Latitude:  26.214286°
+  Longitude: -95.622449°
+  Power Potential: 546.55 m³/s³
+  Mean Wind Speed: 8.34 m/s
+  Distance to Nearest Turbine: 62.9 km
+
+Rank #101:
+  Latitude:  26.642857°
+  Longitude: -100.397959°
+  Power Potential: 546.52 m³/s³
+  Mean Wind Speed: 8.23 m/s
+  Distance to Nearest Turbine: 27.7 km
+
+Rank #102:
+  Latitude:  26.428571°
+  Longitude: -93.765306°
+  Power Potential: 545.58 m³/s³
+  Mean Wind Speed: 8.70 m/s
+  Distance to Nearest Turbine: 155.1 km
+
+Rank #103:
+  Latitude:  32.000000°
+  Longitude: -102.255102°
+  Power Potential: 545.45 m³/s³
+  Mean Wind Speed: 8.60 m/s
+  Distance to Nearest Turbine: 265.8 km
+
+Rank #104:
+  Latitude:  26.857143°
+  Longitude: -98.010204°
+  Power Potential: 544.73 m³/s³
+  Mean Wind Speed: 8.30 m/s
+  Distance to Nearest Turbine: 241.2 km
+
+Rank #105:
+  Latitude:  29.214286°
+  Longitude: -93.765306°
+  Power Potential: 544.29 m³/s³
+  Mean Wind Speed: 8.36 m/s
+  Distance to Nearest Turbine: 400.2 km
+
+Rank #106:
+  Latitude:  26.428571°
+  Longitude: -103.581633°
+  Power Potential: 543.57 m³/s³
+  Mean Wind Speed: 8.16 m/s
+  Distance to Nearest Turbine: 319.7 km
+
+Rank #107:
+  Latitude:  27.714286°
+  Longitude: -98.540816°
+  Power Potential: 543.19 m³/s³
+  Mean Wind Speed: 8.65 m/s
+  Distance to Nearest Turbine: 233.6 km
+
+Rank #108:
+  Latitude:  29.000000°
+  Longitude: -94.826531°
+  Power Potential: 542.20 m³/s³
+  Mean Wind Speed: 7.99 m/s
+  Distance to Nearest Turbine: 353.4 km
+
+Rank #109:
+  Latitude:  28.571429°
+  Longitude: -95.357143°
+  Power Potential: 540.95 m³/s³
+  Mean Wind Speed: 8.24 m/s
+  Distance to Nearest Turbine: 304.9 km
+
+Rank #110:
+  Latitude:  30.071429°
+  Longitude: -103.581633°
+  Power Potential: 540.58 m³/s³
+  Mean Wind Speed: 8.16 m/s
+  Distance to Nearest Turbine: 310.0 km
+
+Rank #111:
+  Latitude:  30.928571°
+  Longitude: -99.336735°
+  Power Potential: 540.44 m³/s³
+  Mean Wind Speed: 8.37 m/s
+  Distance to Nearest Turbine: 505.9 km
+
+Rank #112:
+  Latitude:  27.285714°
+  Longitude: -97.744898°
+  Power Potential: 539.52 m³/s³
+  Mean Wind Speed: 8.33 m/s
+  Distance to Nearest Turbine: 279.6 km
+
+Rank #113:
+  Latitude:  29.000000°
+  Longitude: -103.581633°
+  Power Potential: 539.25 m³/s³
+  Mean Wind Speed: 8.39 m/s
+  Distance to Nearest Turbine: 402.3 km
+
+Rank #114:
+  Latitude:  34.571429°
+  Longitude: -99.602041°
+  Power Potential: 538.64 m³/s³
+  Mean Wind Speed: 7.93 m/s
+  Distance to Nearest Turbine: 307.3 km
+
+Rank #115:
+  Latitude:  35.214286°
+  Longitude: -106.234694°
+  Power Potential: 538.60 m³/s³
+  Mean Wind Speed: 8.35 m/s
+  Distance to Nearest Turbine: 268.0 km
+
+Rank #116:
+  Latitude:  31.571429°
+  Longitude: -97.479592°
+  Power Potential: 538.13 m³/s³
+  Mean Wind Speed: 8.49 m/s
+  Distance to Nearest Turbine: 487.2 km
+
+Rank #117:
+  Latitude:  27.071429°
+  Longitude: -94.295918°
+  Power Potential: 537.68 m³/s³
+  Mean Wind Speed: 8.35 m/s
+  Distance to Nearest Turbine: 163.0 km
+
+Rank #118:
+  Latitude:  29.214286°
+  Longitude: -94.030612°
+  Power Potential: 537.61 m³/s³
+  Mean Wind Speed: 8.06 m/s
+  Distance to Nearest Turbine: 391.9 km
+
+Rank #119:
+  Latitude:  33.714286°
+  Longitude: -98.275510°
+  Power Potential: 537.17 m³/s³
+  Mean Wind Speed: 8.40 m/s
+  Distance to Nearest Turbine: 435.5 km
+
+Rank #120:
+  Latitude:  30.071429°
+  Longitude: -101.459184°
+  Power Potential: 536.89 m³/s³
+  Mean Wind Speed: 8.53 m/s
+  Distance to Nearest Turbine: 421.1 km
+
+Rank #121:
+  Latitude:  29.214286°
+  Longitude: -98.275510°
+  Power Potential: 536.47 m³/s³
+  Mean Wind Speed: 8.28 m/s
+  Distance to Nearest Turbine: 374.9 km
+
+Rank #122:
+  Latitude:  27.285714°
+  Longitude: -104.112245°
+  Power Potential: 536.29 m³/s³
+  Mean Wind Speed: 8.51 m/s
+  Distance to Nearest Turbine: 384.2 km
+
+Rank #123:
+  Latitude:  33.500000°
+  Longitude: -98.275510°
+  Power Potential: 536.14 m³/s³
+  Mean Wind Speed: 8.05 m/s
+  Distance to Nearest Turbine: 440.4 km
+
+Rank #124:
+  Latitude:  34.142857°
+  Longitude: -104.112245°
+  Power Potential: 535.35 m³/s³
+  Mean Wind Speed: 8.33 m/s
+  Distance to Nearest Turbine: 110.6 km
+
+Rank #125:
+  Latitude:  27.500000°
+  Longitude: -100.132653°
+  Power Potential: 535.30 m³/s³
+  Mean Wind Speed: 8.41 m/s
+  Distance to Nearest Turbine: 124.9 km
+
+Rank #126:
+  Latitude:  31.142857°
+  Longitude: -102.785714°
+  Power Potential: 534.90 m³/s³
+  Mean Wind Speed: 8.20 m/s
+  Distance to Nearest Turbine: 312.7 km
+
+Rank #127:
+  Latitude:  31.785714°
+  Longitude: -103.846939°
+  Power Potential: 534.79 m³/s³
+  Mean Wind Speed: 8.08 m/s
+  Distance to Nearest Turbine: 197.7 km
+
+Rank #128:
+  Latitude:  27.500000°
+  Longitude: -106.500000°
+  Power Potential: 534.34 m³/s³
+  Mean Wind Speed: 8.05 m/s
+  Distance to Nearest Turbine: 374.3 km
+
+Rank #129:
+  Latitude:  31.357143°
+  Longitude: -95.091837°
+  Power Potential: 533.83 m³/s³
+  Mean Wind Speed: 8.45 m/s
+  Distance to Nearest Turbine: 322.6 km
+
+Rank #130:
+  Latitude:  28.142857°
+  Longitude: -101.459184°
+  Power Potential: 532.89 m³/s³
+  Mean Wind Speed: 8.35 m/s
+  Distance to Nearest Turbine: 221.4 km
+
+Rank #131:
+  Latitude:  31.142857°
+  Longitude: -100.397959°
+  Power Potential: 532.88 m³/s³
+  Mean Wind Speed: 8.36 m/s
+  Distance to Nearest Turbine: 425.7 km
+
+Rank #132:
+  Latitude:  27.500000°
+  Longitude: -98.540816°
+  Power Potential: 532.21 m³/s³
+  Mean Wind Speed: 8.17 m/s
+  Distance to Nearest Turbine: 219.7 km
+
+Rank #133:
+  Latitude:  28.571429°
+  Longitude: -98.806122°
+  Power Potential: 532.01 m³/s³
+  Mean Wind Speed: 8.30 m/s
+  Distance to Nearest Turbine: 286.9 km
+
+Rank #134:
+  Latitude:  32.428571°
+  Longitude: -103.316327°
+  Power Potential: 530.39 m³/s³
+  Mean Wind Speed: 8.27 m/s
+  Distance to Nearest Turbine: 213.7 km
+
+Rank #135:
+  Latitude:  30.285714°
+  Longitude: -95.622449°
+  Power Potential: 529.61 m³/s³
+  Mean Wind Speed: 8.38 m/s
+  Distance to Nearest Turbine: 447.8 km
+
+Rank #136:
+  Latitude:  32.214286°
+  Longitude: -101.193878°
+  Power Potential: 529.51 m³/s³
+  Mean Wind Speed: 7.98 m/s
+  Distance to Nearest Turbine: 285.0 km
+
+Rank #137:
+  Latitude:  32.214286°
+  Longitude: -97.479592°
+  Power Potential: 529.11 m³/s³
+  Mean Wind Speed: 8.06 m/s
+  Distance to Nearest Turbine: 457.9 km
+
+Rank #138:
+  Latitude:  36.071429°
+  Longitude: -95.357143°
+  Power Potential: 528.57 m³/s³
+  Mean Wind Speed: 8.60 m/s
+  Distance to Nearest Turbine: 360.5 km
+
+Rank #139:
+  Latitude:  31.785714°
+  Longitude: -103.316327°
+  Power Potential: 528.17 m³/s³
+  Mean Wind Speed: 8.00 m/s
+  Distance to Nearest Turbine: 247.5 km
+
+Rank #140:
+  Latitude:  29.214286°
+  Longitude: -96.153061°
+  Power Potential: 527.67 m³/s³
+  Mean Wind Speed: 8.16 m/s
+  Distance to Nearest Turbine: 388.0 km
+
+Rank #141:
+  Latitude:  26.428571°
+  Longitude: -104.642857°
+  Power Potential: 526.70 m³/s³
+  Mean Wind Speed: 7.90 m/s
+  Distance to Nearest Turbine: 425.6 km
+
+Rank #142:
+  Latitude:  32.000000°
+  Longitude: -97.479592°
+  Power Potential: 526.59 m³/s³
+  Mean Wind Speed: 8.17 m/s
+  Distance to Nearest Turbine: 466.7 km
+
+Rank #143:
+  Latitude:  30.714286°
+  Longitude: -97.479592°
+  Power Potential: 526.55 m³/s³
+  Mean Wind Speed: 8.40 m/s
+  Distance to Nearest Turbine: 538.6 km
+
+Rank #144:
+  Latitude:  29.000000°
+  Longitude: -99.336735°
+  Power Potential: 526.42 m³/s³
+  Mean Wind Speed: 8.23 m/s
+  Distance to Nearest Turbine: 306.5 km
+
+Rank #145:
+  Latitude:  33.928571°
+  Longitude: -101.724490°
+  Power Potential: 525.16 m³/s³
+  Mean Wind Speed: 8.26 m/s
+  Distance to Nearest Turbine: 120.0 km
+
+Rank #146:
+  Latitude:  26.214286°
+  Longitude: -95.357143°
+  Power Potential: 524.35 m³/s³
+  Mean Wind Speed: 7.87 m/s
+  Distance to Nearest Turbine: 47.2 km
+
+Rank #147:
+  Latitude:  26.214286°
+  Longitude: -102.520408°
+  Power Potential: 523.45 m³/s³
+  Mean Wind Speed: 8.22 m/s
+  Distance to Nearest Turbine: 215.0 km
+
+Rank #148:
+  Latitude:  35.000000°
+  Longitude: -100.663265°
+  Power Potential: 522.76 m³/s³
+  Mean Wind Speed: 7.97 m/s
+  Distance to Nearest Turbine: 221.0 km
+
+Rank #149:
+  Latitude:  27.928571°
+  Longitude: -96.418367°
+  Power Potential: 522.57 m³/s³
+  Mean Wind Speed: 7.93 m/s
+  Distance to Nearest Turbine: 264.2 km
+
+Rank #150:
+  Latitude:  33.071429°
+  Longitude: -102.255102°
+  Power Potential: 522.06 m³/s³
+  Mean Wind Speed: 7.90 m/s
+  Distance to Nearest Turbine: 152.9 km
+
+Rank #151:
+  Latitude:  32.428571°
+  Longitude: -94.295918°
+  Power Potential: 520.66 m³/s³
+  Mean Wind Speed: 8.02 m/s
+  Distance to Nearest Turbine: 184.3 km
+
+Rank #152:
+  Latitude:  26.000000°
+  Longitude: -94.561224°
+  Power Potential: 517.58 m³/s³
+  Mean Wind Speed: 8.13 m/s
+  Distance to Nearest Turbine: 63.5 km
+
+Rank #153:
+  Latitude:  29.000000°
+  Longitude: -99.071429°
+  Power Potential: 517.55 m³/s³
+  Mean Wind Speed: 8.17 m/s
+  Distance to Nearest Turbine: 316.2 km
+
+Rank #154:
+  Latitude:  28.785714°
+  Longitude: -96.948980°
+  Power Potential: 517.49 m³/s³
+  Mean Wind Speed: 8.13 m/s
+  Distance to Nearest Turbine: 372.5 km
+
+Rank #155:
+  Latitude:  35.642857°
+  Longitude: -104.112245°
+  Power Potential: 517.46 m³/s³
+  Mean Wind Speed: 8.05 m/s
+  Distance to Nearest Turbine: 134.2 km
+
+Rank #156:
+  Latitude:  32.642857°
+  Longitude: -94.826531°
+  Power Potential: 516.82 m³/s³
+  Mean Wind Speed: 7.84 m/s
+  Distance to Nearest Turbine: 210.5 km
+
+Rank #157:
+  Latitude:  32.857143°
+  Longitude: -98.806122°
+  Power Potential: 514.93 m³/s³
+  Mean Wind Speed: 8.19 m/s
+  Distance to Nearest Turbine: 416.3 km
+
+Rank #158:
+  Latitude:  33.071429°
+  Longitude: -105.438776°
+  Power Potential: 513.96 m³/s³
+  Mean Wind Speed: 8.13 m/s
+  Distance to Nearest Turbine: 125.9 km
+
+Rank #159:
+  Latitude:  26.428571°
+  Longitude: -103.051020°
+  Power Potential: 512.43 m³/s³
+  Mean Wind Speed: 7.83 m/s
+  Distance to Nearest Turbine: 266.8 km
+
+Rank #160:
+  Latitude:  28.357143°
+  Longitude: -98.806122°
+  Power Potential: 512.42 m³/s³
+  Mean Wind Speed: 8.04 m/s
+  Distance to Nearest Turbine: 267.3 km
+
+Rank #161:
+  Latitude:  26.214286°
+  Longitude: -95.887755°
+  Power Potential: 511.80 m³/s³
+  Mean Wind Speed: 7.95 m/s
+  Distance to Nearest Turbine: 84.2 km
+
+Rank #162:
+  Latitude:  36.500000°
+  Longitude: -104.908163°
+  Power Potential: 511.34 m³/s³
+  Mean Wind Speed: 8.11 m/s
+  Distance to Nearest Turbine: 86.2 km
+
+Rank #163:
+  Latitude:  31.571429°
+  Longitude: -98.540816°
+  Power Potential: 510.52 m³/s³
+  Mean Wind Speed: 8.13 m/s
+  Distance to Nearest Turbine: 511.9 km
+
+Rank #164:
+  Latitude:  30.500000°
+  Longitude: -101.193878°
+  Power Potential: 510.29 m³/s³
+  Mean Wind Speed: 7.93 m/s
+  Distance to Nearest Turbine: 454.9 km
+
+Rank #165:
+  Latitude:  26.000000°
+  Longitude: -105.704082°
+  Power Potential: 509.35 m³/s³
+  Mean Wind Speed: 8.05 m/s
+  Distance to Nearest Turbine: 525.9 km
+
+Rank #166:
+  Latitude:  30.500000°
+  Longitude: -106.234694°
+  Power Potential: 508.86 m³/s³
+  Mean Wind Speed: 8.10 m/s
+  Distance to Nearest Turbine: 170.2 km
+
+Rank #167:
+  Latitude:  27.071429°
+  Longitude: -101.459184°
+  Power Potential: 508.06 m³/s³
+  Mean Wind Speed: 7.72 m/s
+  Distance to Nearest Turbine: 131.2 km
+
+Rank #168:
+  Latitude:  26.214286°
+  Longitude: -98.010204°
+  Power Potential: 507.21 m³/s³
+  Mean Wind Speed: 7.81 m/s
+  Distance to Nearest Turbine: 237.2 km
+
+Rank #169:
+  Latitude:  26.428571°
+  Longitude: -100.397959°
+  Power Potential: 506.69 m³/s³
+  Mean Wind Speed: 8.08 m/s
+  Distance to Nearest Turbine: 4.4 km
+
+Rank #170:
+  Latitude:  26.857143°
+  Longitude: -99.602041°
+  Power Potential: 506.32 m³/s³
+  Mean Wind Speed: 7.96 m/s
+  Distance to Nearest Turbine: 92.7 km
+
+Rank #171:
+  Latitude:  29.214286°
+  Longitude: -103.051020°
+  Power Potential: 506.06 m³/s³
+  Mean Wind Speed: 7.95 m/s
+  Distance to Nearest Turbine: 408.8 km
+
+Rank #172:
+  Latitude:  26.428571°
+  Longitude: -102.785714°
+  Power Potential: 505.24 m³/s³
+  Mean Wind Speed: 7.83 m/s
+  Distance to Nearest Turbine: 240.3 km
+
+Rank #173:
+  Latitude:  26.428571°
+  Longitude: -96.948980°
+  Power Potential: 505.19 m³/s³
+  Mean Wind Speed: 8.12 m/s
+  Distance to Nearest Turbine: 190.5 km
+
+Rank #174:
+  Latitude:  36.071429°
+  Longitude: -98.010204°
+  Power Potential: 504.94 m³/s³
+  Mean Wind Speed: 8.00 m/s
+  Distance to Nearest Turbine: 425.5 km
+
+Rank #175:
+  Latitude:  30.285714°
+  Longitude: -104.377551°
+  Power Potential: 504.03 m³/s³
+  Mean Wind Speed: 8.05 m/s
+  Distance to Nearest Turbine: 241.3 km
+
+Rank #176:
+  Latitude:  35.857143°
+  Longitude: -105.704082°
+  Power Potential: 503.62 m³/s³
+  Mean Wind Speed: 8.03 m/s
+  Distance to Nearest Turbine: 185.1 km
+
+Rank #177:
+  Latitude:  29.428571°
+  Longitude: -101.724490°
+  Power Potential: 503.46 m³/s³
+  Mean Wind Speed: 8.10 m/s
+  Distance to Nearest Turbine: 361.5 km
+
+Rank #178:
+  Latitude:  28.357143°
+  Longitude: -96.418367°
+  Power Potential: 503.27 m³/s³
+  Mean Wind Speed: 7.81 m/s
+  Distance to Nearest Turbine: 306.8 km
+
+Rank #179:
+  Latitude:  32.428571°
+  Longitude: -97.479592°
+  Power Potential: 502.56 m³/s³
+  Mean Wind Speed: 7.86 m/s
+  Distance to Nearest Turbine: 450.2 km
+
+Rank #180:
+  Latitude:  36.285714°
+  Longitude: -95.622449°
+  Power Potential: 502.48 m³/s³
+  Mean Wind Speed: 8.10 m/s
+  Distance to Nearest Turbine: 356.4 km
+
+Rank #181:
+  Latitude:  34.357143°
+  Longitude: -102.255102°
+  Power Potential: 502.21 m³/s³
+  Mean Wind Speed: 7.83 m/s
+  Distance to Nearest Turbine: 62.5 km
+
+Rank #182:
+  Latitude:  29.214286°
+  Longitude: -101.193878°
+  Power Potential: 501.38 m³/s³
+  Mean Wind Speed: 7.82 m/s
+  Distance to Nearest Turbine: 322.7 km
+
+Rank #183:
+  Latitude:  30.500000°
+  Longitude: -96.418367°
+  Power Potential: 501.36 m³/s³
+  Mean Wind Speed: 8.15 m/s
+  Distance to Nearest Turbine: 478.1 km
+
+Rank #184:
+  Latitude:  28.357143°
+  Longitude: -101.989796°
+  Power Potential: 501.07 m³/s³
+  Mean Wind Speed: 8.03 m/s
+  Distance to Nearest Turbine: 269.8 km
+
+Rank #185:
+  Latitude:  32.857143°
+  Longitude: -105.969388°
+  Power Potential: 500.51 m³/s³
+  Mean Wind Speed: 7.63 m/s
+  Distance to Nearest Turbine: 93.9 km
+
+Rank #186:
+  Latitude:  26.642857°
+  Longitude: -96.418367°
+  Power Potential: 499.13 m³/s³
+  Mean Wind Speed: 7.84 m/s
+  Distance to Nearest Turbine: 154.5 km
+
+Rank #187:
+  Latitude:  30.500000°
+  Longitude: -106.500000°
+  Power Potential: 497.08 m³/s³
+  Mean Wind Speed: 8.10 m/s
+  Distance to Nearest Turbine: 176.5 km
+
+Rank #188:
+  Latitude:  32.000000°
+  Longitude: -99.336735°
+  Power Potential: 496.12 m³/s³
+  Mean Wind Speed: 8.14 m/s
+  Distance to Nearest Turbine: 423.3 km
+
+Rank #189:
+  Latitude:  29.000000°
+  Longitude: -93.765306°
+  Power Potential: 495.87 m³/s³
+  Mean Wind Speed: 7.94 m/s
+  Distance to Nearest Turbine: 378.0 km
+
+Rank #190:
+  Latitude:  28.571429°
+  Longitude: -105.438776°
+  Power Potential: 495.86 m³/s³
+  Mean Wind Speed: 8.13 m/s
+  Distance to Nearest Turbine: 384.2 km
+
+Rank #191:
+  Latitude:  30.285714°
+  Longitude: -94.561224°
+  Power Potential: 494.45 m³/s³
+  Mean Wind Speed: 7.71 m/s
+  Distance to Nearest Turbine: 397.6 km
+
+Rank #192:
+  Latitude:  27.285714°
+  Longitude: -96.948980°
+  Power Potential: 494.15 m³/s³
+  Mean Wind Speed: 7.84 m/s
+  Distance to Nearest Turbine: 240.4 km
+
+Rank #193:
+  Latitude:  26.000000°
+  Longitude: -97.214286°
+  Power Potential: 494.10 m³/s³
+  Mean Wind Speed: 7.62 m/s
+  Distance to Nearest Turbine: 206.2 km
+
+Rank #194:
+  Latitude:  27.285714°
+  Longitude: -99.071429°
+  Power Potential: 493.59 m³/s³
+  Mean Wind Speed: 7.96 m/s
+  Distance to Nearest Turbine: 163.1 km
+
+Rank #195:
+  Latitude:  27.285714°
+  Longitude: -93.765306°
+  Power Potential: 493.59 m³/s³
+  Mean Wind Speed: 7.78 m/s
+  Distance to Nearest Turbine: 213.6 km
+
+Rank #196:
+  Latitude:  30.500000°
+  Longitude: -96.153061°
+  Power Potential: 493.05 m³/s³
+  Mean Wind Speed: 7.98 m/s
+  Distance to Nearest Turbine: 460.8 km
+
+Rank #197:
+  Latitude:  26.857143°
+  Longitude: -100.132653°
+  Power Potential: 492.78 m³/s³
+  Mean Wind Speed: 8.07 m/s
+  Distance to Nearest Turbine: 56.8 km
+
+Rank #198:
+  Latitude:  33.285714°
+  Longitude: -104.112245°
+  Power Potential: 492.73 m³/s³
+  Mean Wind Speed: 8.09 m/s
+  Distance to Nearest Turbine: 159.0 km
+
+Rank #199:
+  Latitude:  34.357143°
+  Longitude: -95.357143°
+  Power Potential: 491.60 m³/s³
+  Mean Wind Speed: 7.72 m/s
+  Distance to Nearest Turbine: 247.6 km
+
+Rank #200:
+  Latitude:  27.928571°
+  Longitude: -98.275510°
+  Power Potential: 491.30 m³/s³
+  Mean Wind Speed: 7.86 m/s
+  Distance to Nearest Turbine: 268.9 km
+
+Rank #201:
+  Latitude:  26.000000°
+  Longitude: -98.275510°
+  Power Potential: 490.26 m³/s³
+  Mean Wind Speed: 7.63 m/s
+  Distance to Nearest Turbine: 214.5 km
+
+Rank #202:
+  Latitude:  30.500000°
+  Longitude: -97.214286°
+  Power Potential: 489.49 m³/s³
+  Mean Wind Speed: 7.61 m/s
+  Distance to Nearest Turbine: 533.7 km
+
+Rank #203:
+  Latitude:  31.785714°
+  Longitude: -95.622449°
+  Power Potential: 489.43 m³/s³
+  Mean Wind Speed: 7.99 m/s
+  Distance to Nearest Turbine: 325.9 km
+
+Rank #204:
+  Latitude:  34.357143°
+  Longitude: -104.642857°
+  Power Potential: 488.81 m³/s³
+  Mean Wind Speed: 7.52 m/s
+  Distance to Nearest Turbine: 157.4 km
+
+Rank #205:
+  Latitude:  33.285714°
+  Longitude: -95.887755°
+  Power Potential: 488.49 m³/s³
+  Mean Wind Speed: 7.85 m/s
+  Distance to Nearest Turbine: 283.8 km
+
+Rank #206:
+  Latitude:  30.928571°
+  Longitude: -96.153061°
+  Power Potential: 488.42 m³/s³
+  Mean Wind Speed: 7.93 m/s
+  Distance to Nearest Turbine: 426.5 km
+
+Rank #207:
+  Latitude:  31.142857°
+  Longitude: -96.418367°
+  Power Potential: 488.28 m³/s³
+  Mean Wind Speed: 7.94 m/s
+  Distance to Nearest Turbine: 429.6 km
+
+Rank #208:
+  Latitude:  29.857143°
+  Longitude: -105.173469°
+  Power Potential: 487.99 m³/s³
+  Mean Wind Speed: 7.57 m/s
+  Distance to Nearest Turbine: 249.3 km
+
+Rank #209:
+  Latitude:  27.500000°
+  Longitude: -101.989796°
+  Power Potential: 487.99 m³/s³
+  Mean Wind Speed: 7.50 m/s
+  Distance to Nearest Turbine: 201.7 km
+
+Rank #210:
+  Latitude:  30.714286°
+  Longitude: -94.826531°
+  Power Potential: 487.15 m³/s³
+  Mean Wind Speed: 7.94 m/s
+  Distance to Nearest Turbine: 366.6 km
+
+Rank #211:
+  Latitude:  27.714286°
+  Longitude: -100.928571°
+  Power Potential: 487.14 m³/s³
+  Mean Wind Speed: 7.93 m/s
+  Distance to Nearest Turbine: 156.2 km
+
+Rank #212:
+  Latitude:  29.642857°
+  Longitude: -105.969388°
+  Power Potential: 485.48 m³/s³
+  Mean Wind Speed: 7.95 m/s
+  Distance to Nearest Turbine: 262.6 km
+
+Rank #213:
+  Latitude:  36.285714°
+  Longitude: -103.051020°
+  Power Potential: 485.39 m³/s³
+  Mean Wind Speed: 8.10 m/s
+  Distance to Nearest Turbine: 109.0 km
+
+Rank #214:
+  Latitude:  30.071429°
+  Longitude: -100.928571°
+  Power Potential: 485.11 m³/s³
+  Mean Wind Speed: 7.51 m/s
+  Distance to Nearest Turbine: 411.1 km
+
+Rank #215:
+  Latitude:  30.285714°
+  Longitude: -94.295918°
+  Power Potential: 485.11 m³/s³
+  Mean Wind Speed: 7.86 m/s
+  Distance to Nearest Turbine: 388.1 km
+
+Rank #216:
+  Latitude:  27.071429°
+  Longitude: -104.908163°
+  Power Potential: 485.08 m³/s³
+  Mean Wind Speed: 7.98 m/s
+  Distance to Nearest Turbine: 457.0 km
+
+Rank #217:
+  Latitude:  27.714286°
+  Longitude: -94.295918°
+  Power Potential: 485.08 m³/s³
+  Mean Wind Speed: 8.02 m/s
+  Distance to Nearest Turbine: 226.4 km
+
+Rank #218:
+  Latitude:  29.857143°
+  Longitude: -103.581633°
+  Power Potential: 484.10 m³/s³
+  Mean Wind Speed: 7.84 m/s
+  Distance to Nearest Turbine: 327.1 km
+
+Rank #219:
+  Latitude:  28.571429°
+  Longitude: -93.765306°
+  Power Potential: 483.83 m³/s³
+  Mean Wind Speed: 7.88 m/s
+  Distance to Nearest Turbine: 334.4 km
+
+Rank #220:
+  Latitude:  34.357143°
+  Longitude: -105.969388°
+  Power Potential: 483.72 m³/s³
+  Mean Wind Speed: 8.02 m/s
+  Distance to Nearest Turbine: 260.2 km
+
+Rank #221:
+  Latitude:  29.000000°
+  Longitude: -104.642857°
+  Power Potential: 483.44 m³/s³
+  Mean Wind Speed: 7.94 m/s
+  Distance to Nearest Turbine: 355.6 km
+
+Rank #222:
+  Latitude:  29.000000°
+  Longitude: -102.255102°
+  Power Potential: 482.96 m³/s³
+  Mean Wind Speed: 7.77 m/s
+  Distance to Nearest Turbine: 343.1 km
+
+Rank #223:
+  Latitude:  27.928571°
+  Longitude: -96.683673°
+  Power Potential: 482.79 m³/s³
+  Mean Wind Speed: 7.93 m/s
+  Distance to Nearest Turbine: 277.6 km
+
+Rank #224:
+  Latitude:  26.214286°
+  Longitude: -97.479592°
+  Power Potential: 482.31 m³/s³
+  Mean Wind Speed: 7.87 m/s
+  Distance to Nearest Turbine: 235.7 km
+
+Rank #225:
+  Latitude:  27.285714°
+  Longitude: -104.908163°
+  Power Potential: 482.25 m³/s³
+  Mean Wind Speed: 8.03 m/s
+  Distance to Nearest Turbine: 461.1 km
+
+Rank #226:
+  Latitude:  30.928571°
+  Longitude: -100.663265°
+  Power Potential: 481.86 m³/s³
+  Mean Wind Speed: 7.73 m/s
+  Distance to Nearest Turbine: 433.0 km
+
+Rank #227:
+  Latitude:  33.071429°
+  Longitude: -96.683673°
+  Power Potential: 480.84 m³/s³
+  Mean Wind Speed: 7.61 m/s
+  Distance to Nearest Turbine: 360.8 km
+
+Rank #228:
+  Latitude:  32.000000°
+  Longitude: -94.030612°
+  Power Potential: 480.52 m³/s³
+  Mean Wind Speed: 8.02 m/s
+  Distance to Nearest Turbine: 205.4 km
+
+Rank #229:
+  Latitude:  26.857143°
+  Longitude: -95.622449°
+  Power Potential: 479.99 m³/s³
+  Mean Wind Speed: 7.91 m/s
+  Distance to Nearest Turbine: 123.1 km
+
+Rank #230:
+  Latitude:  33.500000°
+  Longitude: -95.622449°
+  Power Potential: 479.83 m³/s³
+  Mean Wind Speed: 7.85 m/s
+  Distance to Nearest Turbine: 257.3 km
+
+Rank #231:
+  Latitude:  27.285714°
+  Longitude: -94.295918°
+  Power Potential: 479.58 m³/s³
+  Mean Wind Speed: 7.83 m/s
+  Distance to Nearest Turbine: 183.5 km
+
+Rank #232:
+  Latitude:  26.857143°
+  Longitude: -95.887755°
+  Power Potential: 479.00 m³/s³
+  Mean Wind Speed: 7.81 m/s
+  Distance to Nearest Turbine: 135.2 km
+
+Rank #233:
+  Latitude:  26.000000°
+  Longitude: -95.357143°
+  Power Potential: 478.77 m³/s³
+  Mean Wind Speed: 7.86 m/s
+  Distance to Nearest Turbine: 27.3 km
+
+Rank #234:
+  Latitude:  26.214286°
+  Longitude: -96.418367°
+  Power Potential: 478.76 m³/s³
+  Mean Wind Speed: 7.54 m/s
+  Distance to Nearest Turbine: 132.6 km
+
+Rank #235:
+  Latitude:  29.428571°
+  Longitude: -98.275510°
+  Power Potential: 478.69 m³/s³
+  Mean Wind Speed: 7.98 m/s
+  Distance to Nearest Turbine: 394.8 km
+
+Rank #236:
+  Latitude:  27.500000°
+  Longitude: -96.418367°
+  Power Potential: 478.68 m³/s³
+  Mean Wind Speed: 7.79 m/s
+  Distance to Nearest Turbine: 223.6 km
+
+Rank #237:
+  Latitude:  26.214286°
+  Longitude: -101.459184°
+  Power Potential: 478.63 m³/s³
+  Mean Wind Speed: 7.80 m/s
+  Distance to Nearest Turbine: 109.9 km
+
+Rank #238:
+  Latitude:  27.714286°
+  Longitude: -102.255102°
+  Power Potential: 478.36 m³/s³
+  Mean Wind Speed: 7.59 m/s
+  Distance to Nearest Turbine: 236.9 km
+
+Rank #239:
+  Latitude:  26.428571°
+  Longitude: -95.622449°
+  Power Potential: 476.55 m³/s³
+  Mean Wind Speed: 7.87 m/s
+  Distance to Nearest Turbine: 81.0 km
+
+Rank #240:
+  Latitude:  31.785714°
+  Longitude: -96.683673°
+  Power Potential: 476.27 m³/s³
+  Mean Wind Speed: 7.87 m/s
+  Distance to Nearest Turbine: 409.7 km
+
+Rank #241:
+  Latitude:  29.857143°
+  Longitude: -106.234694°
+  Power Potential: 475.92 m³/s³
+  Mean Wind Speed: 7.98 m/s
+  Distance to Nearest Turbine: 240.7 km
+
+Rank #242:
+  Latitude:  35.857143°
+  Longitude: -101.193878°
+  Power Potential: 475.92 m³/s³
+  Mean Wind Speed: 8.00 m/s
+  Distance to Nearest Turbine: 232.2 km
+
+Rank #243:
+  Latitude:  27.500000°
+  Longitude: -94.295918°
+  Power Potential: 475.85 m³/s³
+  Mean Wind Speed: 7.94 m/s
+  Distance to Nearest Turbine: 204.7 km
+
+Rank #244:
+  Latitude:  28.357143°
+  Longitude: -100.132653°
+  Power Potential: 474.79 m³/s³
+  Mean Wind Speed: 7.78 m/s
+  Distance to Nearest Turbine: 218.9 km
+
+Rank #245:
+  Latitude:  29.214286°
+  Longitude: -102.785714°
+  Power Potential: 474.57 m³/s³
+  Mean Wind Speed: 7.97 m/s
+  Distance to Nearest Turbine: 392.4 km
+
+Rank #246:
+  Latitude:  27.928571°
+  Longitude: -103.051020°
+  Power Potential: 474.20 m³/s³
+  Mean Wind Speed: 7.78 m/s
+  Distance to Nearest Turbine: 314.9 km
+
+Rank #247:
+  Latitude:  33.071429°
+  Longitude: -105.704082°
+  Power Potential: 473.01 m³/s³
+  Mean Wind Speed: 7.86 m/s
+  Distance to Nearest Turbine: 119.3 km
+
+Rank #248:
+  Latitude:  30.071429°
+  Longitude: -94.295918°
+  Power Potential: 472.85 m³/s³
+  Mean Wind Speed: 7.81 m/s
+  Distance to Nearest Turbine: 410.4 km
+
+Rank #249:
+  Latitude:  30.714286°
+  Longitude: -105.969388°
+  Power Potential: 472.76 m³/s³
+  Mean Wind Speed: 7.86 m/s
+  Distance to Nearest Turbine: 143.9 km
+
+Rank #250:
+  Latitude:  29.428571°
+  Longitude: -93.765306°
+  Power Potential: 472.71 m³/s³
+  Mean Wind Speed: 7.77 m/s
+  Distance to Nearest Turbine: 422.5 km
+
+Rank #251:
+  Latitude:  34.142857°
+  Longitude: -106.234694°
+  Power Potential: 472.32 m³/s³
+  Mean Wind Speed: 7.62 m/s
+  Distance to Nearest Turbine: 238.2 km
+
+Rank #252:
+  Latitude:  26.428571°
+  Longitude: -103.846939°
+  Power Potential: 472.13 m³/s³
+  Mean Wind Speed: 7.71 m/s
+  Distance to Nearest Turbine: 346.2 km
+
+Rank #253:
+  Latitude:  26.000000°
+  Longitude: -97.479592°
+  Power Potential: 471.43 m³/s³
+  Mean Wind Speed: 7.76 m/s
+  Distance to Nearest Turbine: 232.7 km
+
+Rank #254:
+  Latitude:  29.428571°
+  Longitude: -94.826531°
+  Power Potential: 471.41 m³/s³
+  Mean Wind Speed: 8.01 m/s
+  Distance to Nearest Turbine: 400.7 km
+
+Rank #255:
+  Latitude:  34.142857°
+  Longitude: -105.438776°
+  Power Potential: 471.30 m³/s³
+  Mean Wind Speed: 7.56 m/s
+  Distance to Nearest Turbine: 231.8 km
+
+Rank #256:
+  Latitude:  27.285714°
+  Longitude: -100.928571°
+  Power Potential: 471.19 m³/s³
+  Mean Wind Speed: 7.65 m/s
+  Distance to Nearest Turbine: 113.0 km
+
+Rank #257:
+  Latitude:  29.428571°
+  Longitude: -99.867347°
+  Power Potential: 470.97 m³/s³
+  Mean Wind Speed: 7.67 m/s
+  Distance to Nearest Turbine: 340.0 km
+
+Rank #258:
+  Latitude:  32.857143°
+  Longitude: -100.397959°
+  Power Potential: 470.90 m³/s³
+  Mean Wind Speed: 7.77 m/s
+  Distance to Nearest Turbine: 286.3 km
+
+Rank #259:
+  Latitude:  29.642857°
+  Longitude: -102.520408°
+  Power Potential: 470.60 m³/s³
+  Mean Wind Speed: 7.90 m/s
+  Distance to Nearest Turbine: 417.2 km
+
+Rank #260:
+  Latitude:  33.285714°
+  Longitude: -100.397959°
+  Power Potential: 470.16 m³/s³
+  Mean Wind Speed: 7.65 m/s
+  Distance to Nearest Turbine: 261.7 km
+
+Rank #261:
+  Latitude:  30.071429°
+  Longitude: -103.051020°
+  Power Potential: 469.94 m³/s³
+  Mean Wind Speed: 7.67 m/s
+  Distance to Nearest Turbine: 348.2 km
+
+Rank #262:
+  Latitude:  30.071429°
+  Longitude: -95.091837°
+  Power Potential: 469.45 m³/s³
+  Mean Wind Speed: 7.93 m/s
+  Distance to Nearest Turbine: 441.2 km
+
+Rank #263:
+  Latitude:  31.142857°
+  Longitude: -94.561224°
+  Power Potential: 469.03 m³/s³
+  Mean Wind Speed: 7.71 m/s
+  Distance to Nearest Turbine: 312.7 km
+
+Rank #264:
+  Latitude:  29.000000°
+  Longitude: -102.785714°
+  Power Potential: 468.68 m³/s³
+  Mean Wind Speed: 7.83 m/s
+  Distance to Nearest Turbine: 373.9 km
+
+Rank #265:
+  Latitude:  27.714286°
+  Longitude: -106.500000°
+  Power Potential: 468.02 m³/s³
+  Mean Wind Speed: 7.52 m/s
+  Distance to Nearest Turbine: 365.9 km
+
+Rank #266:
+  Latitude:  31.785714°
+  Longitude: -94.561224°
+  Power Potential: 467.98 m³/s³
+  Mean Wind Speed: 7.67 m/s
+  Distance to Nearest Turbine: 253.9 km
+
+Rank #267:
+  Latitude:  29.428571°
+  Longitude: -94.561224°
+  Power Potential: 467.91 m³/s³
+  Mean Wind Speed: 7.85 m/s
+  Distance to Nearest Turbine: 403.7 km
+
+Rank #268:
+  Latitude:  36.500000°
+  Longitude: -96.418367°
+  Power Potential: 467.88 m³/s³
+  Mean Wind Speed: 7.73 m/s
+  Distance to Nearest Turbine: 360.8 km
+
+Rank #269:
+  Latitude:  27.714286°
+  Longitude: -105.173469°
+  Power Potential: 467.79 m³/s³
+  Mean Wind Speed: 7.82 m/s
+  Distance to Nearest Turbine: 481.8 km
+
+Rank #270:
+  Latitude:  28.142857°
+  Longitude: -97.744898°
+  Power Potential: 467.69 m³/s³
+  Mean Wind Speed: 7.57 m/s
+  Distance to Nearest Turbine: 324.8 km
+
+Rank #271:
+  Latitude:  27.928571°
+  Longitude: -100.928571°
+  Power Potential: 467.15 m³/s³
+  Mean Wind Speed: 7.57 m/s
+  Distance to Nearest Turbine: 178.6 km
+
+Rank #272:
+  Latitude:  35.857143°
+  Longitude: -95.887755°
+  Power Potential: 466.85 m³/s³
+  Mean Wind Speed: 7.66 m/s
+  Distance to Nearest Turbine: 376.9 km
+
+Rank #273:
+  Latitude:  31.571429°
+  Longitude: -104.908163°
+  Power Potential: 466.83 m³/s³
+  Mean Wind Speed: 7.65 m/s
+  Distance to Nearest Turbine: 107.5 km
+
+Rank #274:
+  Latitude:  34.785714°
+  Longitude: -99.602041°
+  Power Potential: 466.66 m³/s³
+  Mean Wind Speed: 7.50 m/s
+  Distance to Nearest Turbine: 309.9 km
+
+Rank #275:
+  Latitude:  29.857143°
+  Longitude: -96.418367°
+  Power Potential: 466.54 m³/s³
+  Mean Wind Speed: 7.47 m/s
+  Distance to Nearest Turbine: 463.5 km
+
+Rank #276:
+  Latitude:  26.642857°
+  Longitude: -106.234694°
+  Power Potential: 466.35 m³/s³
+  Mean Wind Speed: 7.77 m/s
+  Distance to Nearest Turbine: 441.9 km
+
+Rank #277:
+  Latitude:  26.428571°
+  Longitude: -99.867347°
+  Power Potential: 465.90 m³/s³
+  Mean Wind Speed: 7.61 m/s
+  Distance to Nearest Turbine: 51.0 km
+
+Rank #278:
+  Latitude:  33.714286°
+  Longitude: -96.683673°
+  Power Potential: 465.55 m³/s³
+  Mean Wind Speed: 7.74 m/s
+  Distance to Nearest Turbine: 355.7 km
+
+Rank #279:
+  Latitude:  27.285714°
+  Longitude: -97.214286°
+  Power Potential: 465.50 m³/s³
+  Mean Wind Speed: 7.61 m/s
+  Distance to Nearest Turbine: 260.5 km
+
+Rank #280:
+  Latitude:  30.285714°
+  Longitude: -102.520408°
+  Power Potential: 464.78 m³/s³
+  Mean Wind Speed: 7.71 m/s
+  Distance to Nearest Turbine: 376.4 km
+
+Rank #281:
+  Latitude:  34.785714°
+  Longitude: -99.336735°
+  Power Potential: 464.67 m³/s³
+  Mean Wind Speed: 7.80 m/s
+  Distance to Nearest Turbine: 333.9 km
+
+Rank #282:
+  Latitude:  34.571429°
+  Longitude: -101.193878°
+  Power Potential: 464.43 m³/s³
+  Mean Wind Speed: 7.57 m/s
+  Distance to Nearest Turbine: 162.1 km
+
+Rank #283:
+  Latitude:  36.500000°
+  Longitude: -101.724490°
+  Power Potential: 464.26 m³/s³
+  Mean Wind Speed: 7.67 m/s
+  Distance to Nearest Turbine: 211.3 km
+
+Rank #284:
+  Latitude:  29.857143°
+  Longitude: -93.500000°
+  Power Potential: 464.02 m³/s³
+  Mean Wind Speed: 7.66 m/s
+  Distance to Nearest Turbine: 415.4 km
+
+Rank #285:
+  Latitude:  33.928571°
+  Longitude: -97.744898°
+  Power Potential: 463.25 m³/s³
+  Mean Wind Speed: 7.49 m/s
+  Distance to Nearest Turbine: 455.0 km
+
+Rank #286:
+  Latitude:  33.714286°
+  Longitude: -99.071429°
+  Power Potential: 462.79 m³/s³
+  Mean Wind Speed: 7.76 m/s
+  Distance to Nearest Turbine: 363.1 km
+
+Rank #287:
+  Latitude:  32.642857°
+  Longitude: -99.867347°
+  Power Potential: 462.36 m³/s³
+  Mean Wind Speed: 7.79 m/s
+  Distance to Nearest Turbine: 340.7 km
+
+Rank #288:
+  Latitude:  28.142857°
+  Longitude: -102.520408°
+  Power Potential: 462.15 m³/s³
+  Mean Wind Speed: 7.65 m/s
+  Distance to Nearest Turbine: 287.4 km
+
+Rank #289:
+  Latitude:  27.714286°
+  Longitude: -102.520408°
+  Power Potential: 461.69 m³/s³
+  Mean Wind Speed: 7.79 m/s
+  Distance to Nearest Turbine: 258.1 km
+
+Rank #290:
+  Latitude:  36.285714°
+  Longitude: -97.744898°
+  Power Potential: 461.16 m³/s³
+  Mean Wind Speed: 7.80 m/s
+  Distance to Nearest Turbine: 414.1 km
+
+Rank #291:
+  Latitude:  35.000000°
+  Longitude: -97.479592°
+  Power Potential: 461.14 m³/s³
+  Mean Wind Speed: 7.85 m/s
+  Distance to Nearest Turbine: 454.8 km
+
+Rank #292:
+  Latitude:  32.642857°
+  Longitude: -100.663265°
+  Power Potential: 461.12 m³/s³
+  Mean Wind Speed: 7.67 m/s
+  Distance to Nearest Turbine: 281.8 km
+
+Rank #293:
+  Latitude:  32.000000°
+  Longitude: -103.846939°
+  Power Potential: 460.59 m³/s³
+  Mean Wind Speed: 7.73 m/s
+  Distance to Nearest Turbine: 195.9 km
+
+Rank #294:
+  Latitude:  28.785714°
+  Longitude: -95.887755°
+  Power Potential: 460.37 m³/s³
+  Mean Wind Speed: 7.80 m/s
+  Distance to Nearest Turbine: 335.7 km
+
+Rank #295:
+  Latitude:  27.714286°
+  Longitude: -97.744898°
+  Power Potential: 460.33 m³/s³
+  Mean Wind Speed: 7.53 m/s
+  Distance to Nearest Turbine: 299.3 km
+
+Rank #296:
+  Latitude:  26.642857°
+  Longitude: -97.214286°
+  Power Potential: 460.28 m³/s³
+  Mean Wind Speed: 7.49 m/s
+  Distance to Nearest Turbine: 223.9 km
+
+Rank #297:
+  Latitude:  34.142857°
+  Longitude: -103.051020°
+  Power Potential: 460.22 m³/s³
+  Mean Wind Speed: 7.59 m/s
+  Distance to Nearest Turbine: 23.3 km
+
+Rank #298:
+  Latitude:  32.000000°
+  Longitude: -95.887755°
+  Power Potential: 460.07 m³/s³
+  Mean Wind Speed: 7.67 m/s
+  Distance to Nearest Turbine: 332.9 km
+
+Rank #299:
+  Latitude:  30.285714°
+  Longitude: -105.704082°
+  Power Potential: 459.43 m³/s³
+  Mean Wind Speed: 7.66 m/s
+  Distance to Nearest Turbine: 192.4 km
+
+Rank #300:
+  Latitude:  29.428571°
+  Longitude: -102.520408°
+  Power Potential: 459.35 m³/s³
+  Mean Wind Speed: 7.57 m/s
+  Distance to Nearest Turbine: 397.0 km
+
+Rank #301:
+  Latitude:  30.500000°
+  Longitude: -100.663265°
+  Power Potential: 459.10 m³/s³
+  Mean Wind Speed: 7.48 m/s
+  Distance to Nearest Turbine: 455.9 km
+
+Rank #302:
+  Latitude:  26.000000°
+  Longitude: -100.663265°
+  Power Potential: 458.80 m³/s³
+  Mean Wind Speed: 7.63 m/s
+  Distance to Nearest Turbine: 52.2 km
+
+Rank #303:
+  Latitude:  36.071429°
+  Longitude: -101.724490°
+  Power Potential: 458.76 m³/s³
+  Mean Wind Speed: 7.63 m/s
+  Distance to Nearest Turbine: 222.5 km
+
+Rank #304:
+  Latitude:  36.071429°
+  Longitude: -101.989796°
+  Power Potential: 458.74 m³/s³
+  Mean Wind Speed: 7.80 m/s
+  Distance to Nearest Turbine: 203.7 km
+
+Rank #305:
+  Latitude:  29.000000°
+  Longitude: -94.561224°
+  Power Potential: 458.34 m³/s³
+  Mean Wind Speed: 7.74 m/s
+  Distance to Nearest Turbine: 356.8 km
+
+Rank #306:
+  Latitude:  36.285714°
+  Longitude: -100.397959°
+  Power Potential: 458.26 m³/s³
+  Mean Wind Speed: 7.64 m/s
+  Distance to Nearest Turbine: 316.7 km
+
+Rank #307:
+  Latitude:  30.928571°
+  Longitude: -97.214286°
+  Power Potential: 457.97 m³/s³
+  Mean Wind Speed: 7.81 m/s
+  Distance to Nearest Turbine: 504.1 km
+
+Rank #308:
+  Latitude:  36.500000°
+  Longitude: -94.826531°
+  Power Potential: 457.96 m³/s³
+  Mean Wind Speed: 7.61 m/s
+  Distance to Nearest Turbine: 319.7 km
+
+Rank #309:
+  Latitude:  32.214286°
+  Longitude: -105.969388°
+  Power Potential: 457.92 m³/s³
+  Mean Wind Speed: 7.67 m/s
+  Distance to Nearest Turbine: 23.0 km
+
+Rank #310:
+  Latitude:  27.071429°
+  Longitude: -96.153061°
+  Power Potential: 457.80 m³/s³
+  Mean Wind Speed: 7.60 m/s
+  Distance to Nearest Turbine: 169.6 km
+
+Rank #311:
+  Latitude:  29.428571°
+  Longitude: -105.969388°
+  Power Potential: 457.70 m³/s³
+  Mean Wind Speed: 7.49 m/s
+  Distance to Nearest Turbine: 286.4 km
+
+Rank #312:
+  Latitude:  32.428571°
+  Longitude: -103.581633°
+  Power Potential: 457.40 m³/s³
+  Mean Wind Speed: 7.74 m/s
+  Distance to Nearest Turbine: 219.2 km
+
+Rank #313:
+  Latitude:  27.714286°
+  Longitude: -99.071429°
+  Power Potential: 457.11 m³/s³
+  Mean Wind Speed: 7.54 m/s
+  Distance to Nearest Turbine: 195.4 km
+
+Rank #314:
+  Latitude:  33.071429°
+  Longitude: -104.112245°
+  Power Potential: 456.70 m³/s³
+  Mean Wind Speed: 7.61 m/s
+  Distance to Nearest Turbine: 177.2 km
+
+Rank #315:
+  Latitude:  34.142857°
+  Longitude: -100.928571°
+  Power Potential: 456.68 m³/s³
+  Mean Wind Speed: 7.68 m/s
+  Distance to Nearest Turbine: 185.8 km
+
+Rank #316:
+  Latitude:  33.928571°
+  Longitude: -104.377551°
+  Power Potential: 456.66 m³/s³
+  Mean Wind Speed: 7.48 m/s
+  Distance to Nearest Turbine: 140.4 km
+
+Rank #317:
+  Latitude:  32.857143°
+  Longitude: -103.316327°
+  Power Potential: 456.24 m³/s³
+  Mean Wind Speed: 7.77 m/s
+  Distance to Nearest Turbine: 167.0 km
+
+Rank #318:
+  Latitude:  28.142857°
+  Longitude: -97.479592°
+  Power Potential: 456.14 m³/s³
+  Mean Wind Speed: 7.58 m/s
+  Distance to Nearest Turbine: 344.6 km
+
+Rank #319:
+  Latitude:  31.785714°
+  Longitude: -101.193878°
+  Power Potential: 456.12 m³/s³
+  Mean Wind Speed: 7.78 m/s
+  Distance to Nearest Turbine: 325.4 km
+
+Rank #320:
+  Latitude:  29.857143°
+  Longitude: -103.846939°
+  Power Potential: 456.11 m³/s³
+  Mean Wind Speed: 7.77 m/s
+  Distance to Nearest Turbine: 310.3 km
+
+Rank #321:
+  Latitude:  35.214286°
+  Longitude: -93.765306°
+  Power Potential: 455.63 m³/s³
+  Mean Wind Speed: 7.61 m/s
+  Distance to Nearest Turbine: 201.5 km
+
+Rank #322:
+  Latitude:  26.000000°
+  Longitude: -101.724490°
+  Power Potential: 455.53 m³/s³
+  Mean Wind Speed: 7.57 m/s
+  Distance to Nearest Turbine: 141.6 km
+
+Rank #323:
+  Latitude:  33.285714°
+  Longitude: -97.214286°
+  Power Potential: 455.41 m³/s³
+  Mean Wind Speed: 7.59 m/s
+  Distance to Nearest Turbine: 406.7 km
+
+Rank #324:
+  Latitude:  27.285714°
+  Longitude: -95.622449°
+  Power Potential: 455.15 m³/s³
+  Mean Wind Speed: 7.62 m/s
+  Distance to Nearest Turbine: 168.1 km
+
+Rank #325:
+  Latitude:  28.571429°
+  Longitude: -103.051020°
+  Power Potential: 454.88 m³/s³
+  Mean Wind Speed: 7.74 m/s
+  Distance to Nearest Turbine: 357.8 km
+
+Rank #326:
+  Latitude:  31.357143°
+  Longitude: -93.500000°
+  Power Potential: 454.67 m³/s³
+  Mean Wind Speed: 7.60 m/s
+  Distance to Nearest Turbine: 252.0 km
+
+Rank #327:
+  Latitude:  29.428571°
+  Longitude: -102.255102°
+  Power Potential: 454.56 m³/s³
+  Mean Wind Speed: 7.73 m/s
+  Distance to Nearest Turbine: 383.7 km
+
+Rank #328:
+  Latitude:  34.357143°
+  Longitude: -102.520408°
+  Power Potential: 454.53 m³/s³
+  Mean Wind Speed: 7.57 m/s
+  Distance to Nearest Turbine: 38.1 km
+
+Rank #329:
+  Latitude:  30.285714°
+  Longitude: -96.948980°
+  Power Potential: 454.38 m³/s³
+  Mean Wind Speed: 7.65 m/s
+  Distance to Nearest Turbine: 524.5 km
+
+Rank #330:
+  Latitude:  27.285714°
+  Longitude: -102.785714°
+  Power Potential: 454.35 m³/s³
+  Mean Wind Speed: 7.48 m/s
+  Distance to Nearest Turbine: 259.0 km
+
+Rank #331:
+  Latitude:  26.642857°
+  Longitude: -98.540816°
+  Power Potential: 454.27 m³/s³
+  Mean Wind Speed: 7.66 m/s
+  Distance to Nearest Turbine: 185.1 km
+
+Rank #332:
+  Latitude:  28.785714°
+  Longitude: -96.153061°
+  Power Potential: 454.13 m³/s³
+  Mean Wind Speed: 7.67 m/s
+  Distance to Nearest Turbine: 342.3 km
+
+Rank #333:
+  Latitude:  30.500000°
+  Longitude: -105.969388°
+  Power Potential: 454.11 m³/s³
+  Mean Wind Speed: 7.67 m/s
+  Distance to Nearest Turbine: 167.6 km
+
+Rank #334:
+  Latitude:  32.857143°
+  Longitude: -95.622449°
+  Power Potential: 453.82 m³/s³
+  Mean Wind Speed: 7.66 m/s
+  Distance to Nearest Turbine: 269.7 km
+
+Rank #335:
+  Latitude:  34.785714°
+  Longitude: -101.724490°
+  Power Potential: 453.72 m³/s³
+  Mean Wind Speed: 7.61 m/s
+  Distance to Nearest Turbine: 122.0 km
+
+Rank #336:
+  Latitude:  34.142857°
+  Longitude: -104.377551°
+  Power Potential: 453.67 m³/s³
+  Mean Wind Speed: 7.74 m/s
+  Distance to Nearest Turbine: 134.7 km
+
+Rank #337:
+  Latitude:  28.142857°
+  Longitude: -104.112245°
+  Power Potential: 453.56 m³/s³
+  Mean Wind Speed: 7.67 m/s
+  Distance to Nearest Turbine: 417.5 km
+
+Rank #338:
+  Latitude:  30.928571°
+  Longitude: -103.581633°
+  Power Potential: 453.29 m³/s³
+  Mean Wind Speed: 7.64 m/s
+  Distance to Nearest Turbine: 252.6 km
+
+Rank #339:
+  Latitude:  30.714286°
+  Longitude: -96.418367°
+  Power Potential: 453.25 m³/s³
+  Mean Wind Speed: 7.64 m/s
+  Distance to Nearest Turbine: 461.3 km
+
+Rank #340:
+  Latitude:  29.857143°
+  Longitude: -98.806122°
+  Power Potential: 452.75 m³/s³
+  Mean Wind Speed: 7.70 m/s
+  Distance to Nearest Turbine: 413.6 km
+
+Rank #341:
+  Latitude:  29.000000°
+  Longitude: -95.091837°
+  Power Potential: 452.43 m³/s³
+  Mean Wind Speed: 7.57 m/s
+  Distance to Nearest Turbine: 351.9 km
+
+Rank #342:
+  Latitude:  35.000000°
+  Longitude: -93.765306°
+  Power Potential: 452.40 m³/s³
+  Mean Wind Speed: 7.61 m/s
+  Distance to Nearest Turbine: 180.2 km
+
+Rank #343:
+  Latitude:  29.214286°
+  Longitude: -99.867347°
+  Power Potential: 452.34 m³/s³
+  Mean Wind Speed: 7.64 m/s
+  Distance to Nearest Turbine: 316.5 km
+
+Rank #344:
+  Latitude:  26.000000°
+  Longitude: -97.744898°
+  Power Potential: 452.32 m³/s³
+  Mean Wind Speed: 7.49 m/s
+  Distance to Nearest Turbine: 259.2 km
+
+Rank #345:
+  Latitude:  29.857143°
+  Longitude: -93.765306°
+  Power Potential: 452.29 m³/s³
+  Mean Wind Speed: 7.65 m/s
+  Distance to Nearest Turbine: 419.8 km
+
+Rank #346:
+  Latitude:  27.285714°
+  Longitude: -93.500000°
+  Power Potential: 451.94 m³/s³
+  Mean Wind Speed: 7.73 m/s
+  Distance to Nearest Turbine: 231.7 km
+
+Rank #347:
+  Latitude:  27.071429°
+  Longitude: -103.316327°
+  Power Potential: 451.91 m³/s³
+  Mean Wind Speed: 7.51 m/s
+  Distance to Nearest Turbine: 301.9 km
+
+Rank #348:
+  Latitude:  26.214286°
+  Longitude: -104.642857°
+  Power Potential: 451.77 m³/s³
+  Mean Wind Speed: 7.68 m/s
+  Distance to Nearest Turbine: 426.4 km
+
+Rank #349:
+  Latitude:  30.285714°
+  Longitude: -99.071429°
+  Power Potential: 451.68 m³/s³
+  Mean Wind Speed: 7.77 m/s
+  Distance to Nearest Turbine: 449.9 km
+
+Rank #350:
+  Latitude:  29.000000°
+  Longitude: -96.948980°
+  Power Potential: 451.41 m³/s³
+  Mean Wind Speed: 7.44 m/s
+  Distance to Nearest Turbine: 393.5 km
+
+Rank #351:
+  Latitude:  27.285714°
+  Longitude: -106.234694°
+  Power Potential: 451.35 m³/s³
+  Mean Wind Speed: 7.60 m/s
+  Distance to Nearest Turbine: 407.8 km
+
+Rank #352:
+  Latitude:  32.000000°
+  Longitude: -105.969388°
+  Power Potential: 451.34 m³/s³
+  Mean Wind Speed: 7.53 m/s
+  Distance to Nearest Turbine: 4.9 km
+
+Rank #353:
+  Latitude:  29.214286°
+  Longitude: -101.989796°
+  Power Potential: 451.22 m³/s³
+  Mean Wind Speed: 7.50 m/s
+  Distance to Nearest Turbine: 350.6 km
+
+Rank #354:
+  Latitude:  27.714286°
+  Longitude: -105.969388°
+  Power Potential: 451.06 m³/s³
+  Mean Wind Speed: 7.62 m/s
+  Distance to Nearest Turbine: 415.7 km
+
+Rank #355:
+  Latitude:  31.142857°
+  Longitude: -106.234694°
+  Power Potential: 450.72 m³/s³
+  Mean Wind Speed: 7.55 m/s
+  Distance to Nearest Turbine: 100.8 km
+
+Rank #356:
+  Latitude:  35.857143°
+  Longitude: -99.867347°
+  Power Potential: 450.71 m³/s³
+  Mean Wind Speed: 7.47 m/s
+  Distance to Nearest Turbine: 327.0 km
+
+Rank #357:
+  Latitude:  28.571429°
+  Longitude: -98.010204°
+  Power Potential: 450.63 m³/s³
+  Mean Wind Speed: 7.50 m/s
+  Distance to Nearest Turbine: 336.0 km
+
+Rank #358:
+  Latitude:  26.857143°
+  Longitude: -94.030612°
+  Power Potential: 450.48 m³/s³
+  Mean Wind Speed: 7.51 m/s
+  Distance to Nearest Turbine: 160.9 km
+
+Rank #359:
+  Latitude:  26.428571°
+  Longitude: -98.010204°
+  Power Potential: 450.26 m³/s³
+  Mean Wind Speed: 7.58 m/s
+  Distance to Nearest Turbine: 236.2 km
+
+Rank #360:
+  Latitude:  32.857143°
+  Longitude: -98.540816°
+  Power Potential: 450.19 m³/s³
+  Mean Wind Speed: 7.50 m/s
+  Distance to Nearest Turbine: 439.1 km
+
+Rank #361:
+  Latitude:  34.571429°
+  Longitude: -104.642857°
+  Power Potential: 450.10 m³/s³
+  Mean Wind Speed: 7.61 m/s
+  Distance to Nearest Turbine: 159.4 km
+
+Rank #362:
+  Latitude:  28.571429°
+  Longitude: -106.500000°
+  Power Potential: 450.05 m³/s³
+  Mean Wind Speed: 7.48 m/s
+  Distance to Nearest Turbine: 346.8 km
+
+Rank #363:
+  Latitude:  28.785714°
+  Longitude: -101.193878°
+  Power Potential: 449.95 m³/s³
+  Mean Wind Speed: 7.48 m/s
+  Distance to Nearest Turbine: 277.0 km
+
+Rank #364:
+  Latitude:  32.428571°
+  Longitude: -96.948980°
+  Power Potential: 449.88 m³/s³
+  Mean Wind Speed: 7.50 m/s
+  Distance to Nearest Turbine: 402.8 km
+
+Rank #365:
+  Latitude:  32.000000°
+  Longitude: -102.520408°
+  Power Potential: 449.58 m³/s³
+  Mean Wind Speed: 7.56 m/s
+  Distance to Nearest Turbine: 261.1 km
+
+Rank #366:
+  Latitude:  28.142857°
+  Longitude: -99.867347°
+  Power Potential: 449.45 m³/s³
+  Mean Wind Speed: 7.59 m/s
+  Distance to Nearest Turbine: 200.2 km
+
+Rank #367:
+  Latitude:  30.500000°
+  Longitude: -96.683673°
+  Power Potential: 449.22 m³/s³
+  Mean Wind Speed: 7.59 m/s
+  Distance to Nearest Turbine: 496.1 km
+
+Rank #368:
+  Latitude:  27.285714°
+  Longitude: -105.173469°
+  Power Potential: 449.14 m³/s³
+  Mean Wind Speed: 7.65 m/s
+  Distance to Nearest Turbine: 486.8 km
+
+Rank #369:
+  Latitude:  34.785714°
+  Longitude: -103.846939°
+  Power Potential: 449.01 m³/s³
+  Mean Wind Speed: 7.73 m/s
+  Distance to Nearest Turbine: 98.0 km
+
+Rank #370:
+  Latitude:  26.642857°
+  Longitude: -105.704082°
+  Power Potential: 448.84 m³/s³
+  Mean Wind Speed: 7.57 m/s
+  Distance to Nearest Turbine: 487.1 km
+
+Rank #371:
+  Latitude:  29.428571°
+  Longitude: -101.989796°
+  Power Potential: 448.68 m³/s³
+  Mean Wind Speed: 7.71 m/s
+  Distance to Nearest Turbine: 371.9 km
+
+Rank #372:
+  Latitude:  28.571429°
+  Longitude: -105.969388°
+  Power Potential: 448.33 m³/s³
+  Mean Wind Speed: 7.62 m/s
+  Distance to Nearest Turbine: 381.4 km
+
+Rank #373:
+  Latitude:  26.214286°
+  Longitude: -98.540816°
+  Power Potential: 448.17 m³/s³
+  Mean Wind Speed: 7.55 m/s
+  Distance to Nearest Turbine: 184.4 km
+
+Rank #374:
+  Latitude:  26.214286°
+  Longitude: -103.581633°
+  Power Potential: 447.86 m³/s³
+  Mean Wind Speed: 7.48 m/s
+  Distance to Nearest Turbine: 320.6 km
+
+Rank #375:
+  Latitude:  35.214286°
+  Longitude: -98.540816°
+  Power Potential: 447.28 m³/s³
+  Mean Wind Speed: 7.64 m/s
+  Distance to Nearest Turbine: 413.9 km
+
+Rank #376:
+  Latitude:  33.500000°
+  Longitude: -97.744898°
+  Power Potential: 447.11 m³/s³
+  Mean Wind Speed: 7.60 m/s
+  Distance to Nearest Turbine: 454.4 km
+
+Rank #377:
+  Latitude:  31.357143°
+  Longitude: -98.010204°
+  Power Potential: 446.99 m³/s³
+  Mean Wind Speed: 7.55 m/s
+  Distance to Nearest Turbine: 542.9 km
+
+Rank #378:
+  Latitude:  26.428571°
+  Longitude: -106.500000°
+  Power Potential: 446.76 m³/s³
+  Mean Wind Speed: 7.73 m/s
+  Distance to Nearest Turbine: 433.7 km
+
+Rank #379:
+  Latitude:  36.500000°
+  Longitude: -102.785714°
+  Power Potential: 446.69 m³/s³
+  Mean Wind Speed: 7.55 m/s
+  Distance to Nearest Turbine: 119.3 km
+
+Rank #380:
+  Latitude:  30.071429°
+  Longitude: -103.316327°
+  Power Potential: 446.16 m³/s³
+  Mean Wind Speed: 7.50 m/s
+  Distance to Nearest Turbine: 328.7 km
+
+Rank #381:
+  Latitude:  36.500000°
+  Longitude: -106.234694°
+  Power Potential: 445.46 m³/s³
+  Mean Wind Speed: 7.47 m/s
+  Distance to Nearest Turbine: 199.4 km
+
+Rank #382:
+  Latitude:  29.642857°
+  Longitude: -99.867347°
+  Power Potential: 445.22 m³/s³
+  Mean Wind Speed: 7.62 m/s
+  Distance to Nearest Turbine: 363.5 km
+
+Rank #383:
+  Latitude:  35.642857°
+  Longitude: -100.663265°
+  Power Potential: 445.04 m³/s³
+  Mean Wind Speed: 7.50 m/s
+  Distance to Nearest Turbine: 253.4 km
+
+Rank #384:
+  Latitude:  28.571429°
+  Longitude: -102.255102°
+  Power Potential: 445.02 m³/s³
+  Mean Wind Speed: 7.49 m/s
+  Distance to Nearest Turbine: 304.4 km
+
+Rank #385:
+  Latitude:  34.571429°
+  Longitude: -104.908163°
+  Power Potential: 444.58 m³/s³
+  Mean Wind Speed: 7.68 m/s
+  Distance to Nearest Turbine: 183.5 km
+
+Rank #386:
+  Latitude:  29.642857°
+  Longitude: -98.806122°
+  Power Potential: 444.26 m³/s³
+  Mean Wind Speed: 7.51 m/s
+  Distance to Nearest Turbine: 391.8 km
+
+Rank #387:
+  Latitude:  32.428571°
+  Longitude: -105.704082°
+  Power Potential: 442.77 m³/s³
+  Mean Wind Speed: 7.52 m/s
+  Distance to Nearest Turbine: 50.5 km
+
+Rank #388:
+  Latitude:  28.785714°
+  Longitude: -104.908163°
+  Power Potential: 442.69 m³/s³
+  Mean Wind Speed: 7.61 m/s
+  Distance to Nearest Turbine: 370.6 km
+
+Rank #389:
+  Latitude:  29.642857°
+  Longitude: -95.887755°
+  Power Potential: 442.68 m³/s³
+  Mean Wind Speed: 7.55 m/s
+  Distance to Nearest Turbine: 429.0 km
+
+Rank #390:
+  Latitude:  27.500000°
+  Longitude: -104.112245°
+  Power Potential: 442.66 m³/s³
+  Mean Wind Speed: 7.46 m/s
+  Distance to Nearest Turbine: 390.6 km
+
+Rank #391:
+  Latitude:  30.285714°
+  Longitude: -100.928571°
+  Power Potential: 442.60 m³/s³
+  Mean Wind Speed: 7.55 m/s
+  Distance to Nearest Turbine: 434.7 km
+
+Rank #392:
+  Latitude:  35.857143°
+  Longitude: -97.479592°
+  Power Potential: 441.54 m³/s³
+  Mean Wind Speed: 7.59 m/s
+  Distance to Nearest Turbine: 467.4 km
+
+Rank #393:
+  Latitude:  34.142857°
+  Longitude: -97.744898°
+  Power Potential: 441.26 m³/s³
+  Mean Wind Speed: 7.53 m/s
+  Distance to Nearest Turbine: 457.2 km
+
+Rank #394:
+  Latitude:  28.571429°
+  Longitude: -104.642857°
+  Power Potential: 440.59 m³/s³
+  Mean Wind Speed: 7.54 m/s
+  Distance to Nearest Turbine: 400.6 km
+
+Rank #395:
+  Latitude:  27.500000°
+  Longitude: -104.642857°
+  Power Potential: 440.25 m³/s³
+  Mean Wind Speed: 7.46 m/s
+  Distance to Nearest Turbine: 440.9 km
+
+Rank #396:
+  Latitude:  31.357143°
+  Longitude: -96.418367°
+  Power Potential: 439.89 m³/s³
+  Mean Wind Speed: 7.47 m/s
+  Distance to Nearest Turbine: 414.8 km
+
+Rank #397:
+  Latitude:  31.142857°
+  Longitude: -97.744898°
+  Power Potential: 439.81 m³/s³
+  Mean Wind Speed: 7.58 m/s
+  Distance to Nearest Turbine: 532.8 km
+
+Rank #398:
+  Latitude:  26.428571°
+  Longitude: -105.438776°
+  Power Potential: 439.48 m³/s³
+  Mean Wind Speed: 7.54 m/s
+  Distance to Nearest Turbine: 505.0 km
+
+Rank #399:
+  Latitude:  31.571429°
+  Longitude: -100.132653°
+  Power Potential: 438.67 m³/s³
+  Mean Wind Speed: 7.57 m/s
+  Distance to Nearest Turbine: 402.5 km
+
+Rank #400:
+  Latitude:  27.285714°
+  Longitude: -98.806122°
+  Power Potential: 438.07 m³/s³
+  Mean Wind Speed: 7.46 m/s
+  Distance to Nearest Turbine: 184.8 km
+
+Rank #401:
+  Latitude:  32.857143°
+  Longitude: -98.275510°
+  Power Potential: 437.93 m³/s³
+  Mean Wind Speed: 7.45 m/s
+  Distance to Nearest Turbine: 462.0 km
+
+Rank #402:
+  Latitude:  26.000000°
+  Longitude: -100.928571°
+  Power Potential: 436.84 m³/s³
+  Mean Wind Speed: 7.45 m/s
+  Distance to Nearest Turbine: 70.3 km
+
+Rank #403:
+  Latitude:  27.928571°
+  Longitude: -100.132653°
+  Power Potential: 434.45 m³/s³
+  Mean Wind Speed: 7.45 m/s
+  Distance to Nearest Turbine: 171.8 km
+
+Rank #404:
+  Latitude:  27.714286°
+  Longitude: -94.561224°
+  Power Potential: 431.40 m³/s³
+  Mean Wind Speed: 7.47 m/s
+  Distance to Nearest Turbine: 217.7 km
+
+Rank #405:
+  Latitude:  32.642857°
+  Longitude: -98.010204°
+  Power Potential: 431.13 m³/s³
+  Mean Wind Speed: 7.45 m/s
+  Distance to Nearest Turbine: 492.0 km
+
+Rank #406:
+  Latitude:  26.642857°
+  Longitude: -102.255102°
+  Power Potential: 430.34 m³/s³
+  Mean Wind Speed: 7.43 m/s
+  Distance to Nearest Turbine: 189.2 km
+
+Rank #407:
+  Latitude:  27.071429°
+  Longitude: -94.826531°
+  Power Potential: 430.32 m³/s³
+  Mean Wind Speed: 7.43 m/s
+  Distance to Nearest Turbine: 142.1 km
+
+Rank #408:
+  Latitude:  34.571429°
+  Longitude: -100.397959°
+  Power Potential: 429.29 m³/s³
+  Mean Wind Speed: 7.43 m/s
+  Distance to Nearest Turbine: 234.5 km
+
+Rank #409:
+  Latitude:  30.714286°
+  Longitude: -103.581633°
+  Power Potential: 428.85 m³/s³
+  Mean Wind Speed: 7.47 m/s
+  Distance to Nearest Turbine: 264.9 km
+
+Rank #410:
+  Latitude:  27.500000°
+  Longitude: -100.397959°
+  Power Potential: 428.71 m³/s³
+  Mean Wind Speed: 7.46 m/s
+  Distance to Nearest Turbine: 122.6 km
+
+Rank #411:
+  Latitude:  29.857143°
+  Longitude: -105.969388°
+  Power Potential: 427.64 m³/s³
+  Mean Wind Speed: 7.36 m/s
+  Distance to Nearest Turbine: 238.9 km
+
+Rank #412:
+  Latitude:  26.642857°
+  Longitude: -104.908163°
+  Power Potential: 427.48 m³/s³
+  Mean Wind Speed: 7.40 m/s
+  Distance to Nearest Turbine: 452.5 km
+
+Rank #413:
+  Latitude:  33.714286°
+  Longitude: -95.622449°
+  Power Potential: 427.18 m³/s³
+  Mean Wind Speed: 7.44 m/s
+  Distance to Nearest Turbine: 257.4 km
+
+Rank #414:
+  Latitude:  27.714286°
+  Longitude: -96.683673°
+  Power Potential: 427.16 m³/s³
+  Mean Wind Speed: 7.43 m/s
+  Distance to Nearest Turbine: 258.1 km
+
+Rank #415:
+  Latitude:  35.857143°
+  Longitude: -98.010204°
+  Power Potential: 427.02 m³/s³
+  Mean Wind Speed: 7.47 m/s
+  Distance to Nearest Turbine: 447.5 km
+
+Rank #416:
+  Latitude:  29.214286°
+  Longitude: -95.091837°
+  Power Potential: 425.94 m³/s³
+  Mean Wind Speed: 7.40 m/s
+  Distance to Nearest Turbine: 375.6 km
+
+Rank #417:
+  Latitude:  28.571429°
+  Longitude: -97.214286°
+  Power Potential: 425.61 m³/s³
+  Mean Wind Speed: 7.44 m/s
+  Distance to Nearest Turbine: 365.8 km
+
+Rank #418:
+  Latitude:  29.857143°
+  Longitude: -101.459184°
+  Power Potential: 425.29 m³/s³
+  Mean Wind Speed: 7.45 m/s
+  Distance to Nearest Turbine: 398.2 km
+
+Rank #419:
+  Latitude:  35.000000°
+  Longitude: -100.397959°
+  Power Potential: 424.93 m³/s³
+  Mean Wind Speed: 7.46 m/s
+  Distance to Nearest Turbine: 244.0 km
+
+Rank #420:
+  Latitude:  33.285714°
+  Longitude: -99.867347°
+  Power Potential: 424.53 m³/s³
+  Mean Wind Speed: 7.46 m/s
+  Distance to Nearest Turbine: 306.5 km
+
+Rank #421:
+  Latitude:  31.357143°
+  Longitude: -95.622449°
+  Power Potential: 423.90 m³/s³
+  Mean Wind Speed: 7.46 m/s
+  Distance to Nearest Turbine: 357.1 km
+
+Rank #422:
+  Latitude:  31.142857°
+  Longitude: -96.153061°
+  Power Potential: 421.91 m³/s³
+  Mean Wind Speed: 7.47 m/s
+  Distance to Nearest Turbine: 410.4 km
+
+Rank #423:
+  Latitude:  32.000000°
+  Longitude: -97.744898°
+  Power Potential: 421.91 m³/s³
+  Mean Wind Speed: 7.46 m/s
+  Distance to Nearest Turbine: 489.8 km
+
+Rank #424:
+  Latitude:  33.500000°
+  Longitude: -101.989796°
+  Power Potential: 421.43 m³/s³
+  Mean Wind Speed: 7.37 m/s
+  Distance to Nearest Turbine: 126.7 km
+
+Rank #425:
+  Latitude:  31.142857°
+  Longitude: -102.520408°
+  Power Potential: 421.33 m³/s³
+  Mean Wind Speed: 7.37 m/s
+  Distance to Nearest Turbine: 336.7 km
+
+Rank #426:
+  Latitude:  27.071429°
+  Longitude: -98.275510°
+  Power Potential: 420.68 m³/s³
+  Mean Wind Speed: 7.40 m/s
+  Distance to Nearest Turbine: 222.1 km
+
+Rank #427:
+  Latitude:  27.285714°
+  Longitude: -104.377551°
+  Power Potential: 419.08 m³/s³
+  Mean Wind Speed: 7.42 m/s
+  Distance to Nearest Turbine: 409.7 km
+
+Rank #428:
+  Latitude:  32.428571°
+  Longitude: -105.173469°
+  Power Potential: 419.06 m³/s³
+  Mean Wind Speed: 7.40 m/s
+  Distance to Nearest Turbine: 84.2 km
+
+Rank #429:
+  Latitude:  27.714286°
+  Longitude: -95.357143°
+  Power Potential: 418.68 m³/s³
+  Mean Wind Speed: 7.40 m/s
+  Distance to Nearest Turbine: 210.2 km
+
+Rank #430:
+  Latitude:  26.000000°
+  Longitude: -95.622449°
+  Power Potential: 417.93 m³/s³
+  Mean Wind Speed: 7.41 m/s
+  Distance to Nearest Turbine: 49.7 km
+
+Rank #431:
+  Latitude:  31.785714°
+  Longitude: -101.459184°
+  Power Potential: 417.75 m³/s³
+  Mean Wind Speed: 7.39 m/s
+  Distance to Nearest Turbine: 313.8 km
+
+Rank #432:
+  Latitude:  30.071429°
+  Longitude: -105.704082°
+  Power Potential: 417.65 m³/s³
+  Mean Wind Speed: 7.36 m/s
+  Distance to Nearest Turbine: 216.1 km
+
+Rank #433:
+  Latitude:  30.071429°
+  Longitude: -101.989796°
+  Power Potential: 417.49 m³/s³
+  Mean Wind Speed: 7.35 m/s
+  Distance to Nearest Turbine: 432.4 km
+
+Rank #434:
+  Latitude:  31.142857°
+  Longitude: -100.663265°
+  Power Potential: 417.19 m³/s³
+  Mean Wind Speed: 7.35 m/s
+  Distance to Nearest Turbine: 412.3 km
+
+Rank #435:
+  Latitude:  29.642857°
+  Longitude: -106.500000°
+  Power Potential: 417.11 m³/s³
+  Mean Wind Speed: 7.44 m/s
+  Distance to Nearest Turbine: 268.4 km
+
+Rank #436:
+  Latitude:  28.571429°
+  Longitude: -102.520408°
+  Power Potential: 416.36 m³/s³
+  Mean Wind Speed: 7.37 m/s
+  Distance to Nearest Turbine: 321.1 km
+
+Rank #437:
+  Latitude:  27.071429°
+  Longitude: -99.336735°
+  Power Potential: 416.16 m³/s³
+  Mean Wind Speed: 7.41 m/s
+  Distance to Nearest Turbine: 127.8 km
+
+Rank #438:
+  Latitude:  26.214286°
+  Longitude: -100.663265°
+  Power Potential: 416.14 m³/s³
+  Mean Wind Speed: 7.44 m/s
+  Distance to Nearest Turbine: 34.8 km
+
+Rank #439:
+  Latitude:  30.071429°
+  Longitude: -104.377551°
+  Power Potential: 416.04 m³/s³
+  Mean Wind Speed: 7.38 m/s
+  Distance to Nearest Turbine: 260.6 km
+
+Rank #440:
+  Latitude:  27.500000°
+  Longitude: -96.948980°
+  Power Potential: 415.38 m³/s³
+  Mean Wind Speed: 7.37 m/s
+  Distance to Nearest Turbine: 256.8 km
+
+Rank #441:
+  Latitude:  28.357143°
+  Longitude: -98.010204°
+  Power Potential: 415.21 m³/s³
+  Mean Wind Speed: 7.37 m/s
+  Distance to Nearest Turbine: 319.6 km
+
+Rank #442:
+  Latitude:  26.642857°
+  Longitude: -103.846939°
+  Power Potential: 414.52 m³/s³
+  Mean Wind Speed: 7.38 m/s
+  Distance to Nearest Turbine: 346.9 km
+
+Rank #443:
+  Latitude:  29.214286°
+  Longitude: -95.887755°
+  Power Potential: 413.87 m³/s³
+  Mean Wind Speed: 7.38 m/s
+  Distance to Nearest Turbine: 382.3 km
+
+Rank #444:
+  Latitude:  29.214286°
+  Longitude: -97.744898°
+  Power Potential: 413.85 m³/s³
+  Mean Wind Speed: 7.36 m/s
+  Distance to Nearest Turbine: 406.1 km
+
+Rank #445:
+  Latitude:  35.642857°
+  Longitude: -99.867347°
+  Power Potential: 413.36 m³/s³
+  Mean Wind Speed: 7.38 m/s
+  Distance to Nearest Turbine: 315.6 km
+
+Rank #446:
+  Latitude:  36.285714°
+  Longitude: -95.887755°
+  Power Potential: 412.33 m³/s³
+  Mean Wind Speed: 7.38 m/s
+  Distance to Nearest Turbine: 363.7 km
+
+Rank #447:
+  Latitude:  26.000000°
+  Longitude: -99.071429°
+  Power Potential: 412.12 m³/s³
+  Mean Wind Speed: 7.33 m/s
+  Distance to Nearest Turbine: 137.6 km
+
+Rank #448:
+  Latitude:  27.285714°
+  Longitude: -97.479592°
+  Power Potential: 411.93 m³/s³
+  Mean Wind Speed: 7.44 m/s
+  Distance to Nearest Turbine: 281.7 km
+
+Rank #449:
+  Latitude:  33.714286°
+  Longitude: -93.500000°
+  Power Potential: 411.78 m³/s³
+  Mean Wind Speed: 7.44 m/s
+  Distance to Nearest Turbine: 62.3 km
+
+Rank #450:
+  Latitude:  27.714286°
+  Longitude: -103.051020°
+  Power Potential: 411.71 m³/s³
+  Mean Wind Speed: 7.43 m/s
+  Distance to Nearest Turbine: 302.9 km
+
+Rank #451:
+  Latitude:  33.500000°
+  Longitude: -102.255102°
+  Power Potential: 411.59 m³/s³
+  Mean Wind Speed: 7.37 m/s
+  Distance to Nearest Turbine: 111.2 km
+
+Rank #452:
+  Latitude:  32.857143°
+  Longitude: -104.642857°
+  Power Potential: 411.54 m³/s³
+  Mean Wind Speed: 7.41 m/s
+  Distance to Nearest Turbine: 152.4 km
+
+Rank #453:
+  Latitude:  34.571429°
+  Longitude: -99.336735°
+  Power Potential: 410.69 m³/s³
+  Mean Wind Speed: 7.38 m/s
+  Distance to Nearest Turbine: 331.6 km
+
+Rank #454:
+  Latitude:  33.285714°
+  Longitude: -96.418367°
+  Power Potential: 410.68 m³/s³
+  Mean Wind Speed: 7.37 m/s
+  Distance to Nearest Turbine: 332.9 km
+
+Rank #455:
+  Latitude:  28.357143°
+  Longitude: -100.928571°
+  Power Potential: 410.03 m³/s³
+  Mean Wind Speed: 7.36 m/s
+  Distance to Nearest Turbine: 224.3 km
+
+Rank #456:
+  Latitude:  28.571429°
+  Longitude: -96.153061°
+  Power Potential: 409.85 m³/s³
+  Mean Wind Speed: 7.34 m/s
+  Distance to Nearest Turbine: 319.6 km
+
+Rank #457:
+  Latitude:  33.285714°
+  Longitude: -106.500000°
+  Power Potential: 409.38 m³/s³
+  Mean Wind Speed: 7.38 m/s
+  Distance to Nearest Turbine: 151.4 km
+
+Rank #458:
+  Latitude:  35.857143°
+  Longitude: -104.642857°
+  Power Potential: 409.25 m³/s³
+  Mean Wind Speed: 7.38 m/s
+  Distance to Nearest Turbine: 122.6 km
+
+Rank #459:
+  Latitude:  31.357143°
+  Longitude: -104.642857°
+  Power Potential: 408.90 m³/s³
+  Mean Wind Speed: 7.41 m/s
+  Distance to Nearest Turbine: 141.1 km
+
+Rank #460:
+  Latitude:  36.285714°
+  Longitude: -101.989796°
+  Power Potential: 408.87 m³/s³
+  Mean Wind Speed: 7.34 m/s
+  Distance to Nearest Turbine: 194.6 km
+
+Rank #461:
+  Latitude:  28.357143°
+  Longitude: -99.071429°
+  Power Potential: 408.86 m³/s³
+  Mean Wind Speed: 7.41 m/s
+  Distance to Nearest Turbine: 253.0 km
+
+Rank #462:
+  Latitude:  35.000000°
+  Longitude: -103.846939°
+  Power Potential: 408.05 m³/s³
+  Mean Wind Speed: 7.42 m/s
+  Distance to Nearest Turbine: 112.1 km
+
+Rank #463:
+  Latitude:  28.785714°
+  Longitude: -105.438776°
+  Power Potential: 408.03 m³/s³
+  Mean Wind Speed: 7.40 m/s
+  Distance to Nearest Turbine: 360.6 km
+
+Rank #464:
+  Latitude:  29.428571°
+  Longitude: -94.295918°
+  Power Potential: 407.98 m³/s³
+  Mean Wind Speed: 7.38 m/s
+  Distance to Nearest Turbine: 408.4 km
+
+Rank #465:
+  Latitude:  33.071429°
+  Longitude: -99.867347°
+  Power Potential: 407.56 m³/s³
+  Mean Wind Speed: 7.38 m/s
+  Distance to Nearest Turbine: 316.5 km
+
+Rank #466:
+  Latitude:  31.142857°
+  Longitude: -95.622449°
+  Power Potential: 406.84 m³/s³
+  Mean Wind Speed: 7.40 m/s
+  Distance to Nearest Turbine: 374.0 km
+
+Rank #467:
+  Latitude:  30.071429°
+  Longitude: -102.785714°
+  Power Potential: 406.11 m³/s³
+  Mean Wind Speed: 7.35 m/s
+  Distance to Nearest Turbine: 368.4 km
+
+Rank #468:
+  Latitude:  30.071429°
+  Longitude: -98.010204°
+  Power Potential: 405.78 m³/s³
+  Mean Wind Speed: 7.41 m/s
+  Distance to Nearest Turbine: 469.1 km
+
+Rank #469:
+  Latitude:  30.500000°
+  Longitude: -102.785714°
+  Power Potential: 405.76 m³/s³
+  Mean Wind Speed: 7.33 m/s
+  Distance to Nearest Turbine: 342.3 km
+
+Rank #470:
+  Latitude:  33.071429°
+  Longitude: -98.806122°
+  Power Potential: 405.67 m³/s³
+  Mean Wind Speed: 7.41 m/s
+  Distance to Nearest Turbine: 407.2 km
+
+Rank #471:
+  Latitude:  26.642857°
+  Longitude: -100.132653°
+  Power Potential: 405.62 m³/s³
+  Mean Wind Speed: 7.35 m/s
+  Distance to Nearest Turbine: 36.8 km
+
+Rank #472:
+  Latitude:  32.428571°
+  Longitude: -101.193878°
+  Power Potential: 405.49 m³/s³
+  Mean Wind Speed: 7.35 m/s
+  Distance to Nearest Turbine: 265.7 km
+
+Rank #473:
+  Latitude:  26.428571°
+  Longitude: -96.418367°
+  Power Potential: 405.10 m³/s³
+  Mean Wind Speed: 7.34 m/s
+  Distance to Nearest Turbine: 142.0 km
+
+Rank #474:
+  Latitude:  29.428571°
+  Longitude: -102.785714°
+  Power Potential: 404.97 m³/s³
+  Mean Wind Speed: 7.38 m/s
+  Distance to Nearest Turbine: 411.4 km
+
+Rank #475:
+  Latitude:  30.500000°
+  Longitude: -95.622449°
+  Power Potential: 404.83 m³/s³
+  Mean Wind Speed: 7.33 m/s
+  Distance to Nearest Turbine: 428.6 km
+
+Rank #476:
+  Latitude:  30.928571°
+  Longitude: -105.438776°
+  Power Potential: 404.51 m³/s³
+  Mean Wind Speed: 7.36 m/s
+  Distance to Nearest Turbine: 128.5 km
+
+Rank #477:
+  Latitude:  28.571429°
+  Longitude: -103.846939°
+  Power Potential: 403.01 m³/s³
+  Mean Wind Speed: 7.41 m/s
+  Distance to Nearest Turbine: 419.3 km
+
+Rank #478:
+  Latitude:  29.642857°
+  Longitude: -105.173469°
+  Power Potential: 402.19 m³/s³
+  Mean Wind Speed: 7.33 m/s
+  Distance to Nearest Turbine: 272.1 km
+
+Rank #479:
+  Latitude:  26.214286°
+  Longitude: -101.724490°
+  Power Potential: 401.71 m³/s³
+  Mean Wind Speed: 7.34 m/s
+  Distance to Nearest Turbine: 136.0 km
+
+Rank #480:
+  Latitude:  34.357143°
+  Longitude: -95.091837°
+  Power Potential: 401.45 m³/s³
+  Mean Wind Speed: 7.36 m/s
+  Distance to Nearest Turbine: 224.9 km
+
+Rank #481:
+  Latitude:  33.928571°
+  Longitude: -96.153061°
+  Power Potential: 401.18 m³/s³
+  Mean Wind Speed: 7.33 m/s
+  Distance to Nearest Turbine: 308.4 km
+
+Rank #482:
+  Latitude:  31.785714°
+  Longitude: -100.928571°
+  Power Potential: 396.58 m³/s³
+  Mean Wind Speed: 7.32 m/s
+  Distance to Nearest Turbine: 338.4 km
+
+Rank #483:
+  Latitude:  35.857143°
+  Longitude: -100.132653°
+  Power Potential: 395.61 m³/s³
+  Mean Wind Speed: 7.33 m/s
+  Distance to Nearest Turbine: 306.5 km
+
+Rank #484:
+  Latitude:  28.785714°
+  Longitude: -96.418367°
+  Power Potential: 394.05 m³/s³
+  Mean Wind Speed: 7.31 m/s
+  Distance to Nearest Turbine: 350.7 km
+
+Rank #485:
+  Latitude:  33.928571°
+  Longitude: -95.887755°
+  Power Potential: 393.01 m³/s³
+  Mean Wind Speed: 7.32 m/s
+  Distance to Nearest Turbine: 284.1 km
+
+Rank #486:
+  Latitude:  36.071429°
+  Longitude: -102.785714°
+  Power Potential: 391.95 m³/s³
+  Mean Wind Speed: 7.27 m/s
+  Distance to Nearest Turbine: 142.4 km
+
+Rank #487:
+  Latitude:  33.928571°
+  Longitude: -96.683673°
+  Power Potential: 390.45 m³/s³
+  Mean Wind Speed: 7.26 m/s
+  Distance to Nearest Turbine: 357.2 km
+
+Rank #488:
+  Latitude:  28.357143°
+  Longitude: -95.357143°
+  Power Potential: 388.76 m³/s³
+  Mean Wind Speed: 7.33 m/s
+  Distance to Nearest Turbine: 281.2 km
+
+Rank #489:
+  Latitude:  29.000000°
+  Longitude: -95.357143°
+  Power Potential: 388.37 m³/s³
+  Mean Wind Speed: 7.18 m/s
+  Distance to Nearest Turbine: 352.3 km
+
+Rank #490:
+  Latitude:  27.071429°
+  Longitude: -93.765306°
+  Power Potential: 386.79 m³/s³
+  Mean Wind Speed: 7.17 m/s
+  Distance to Nearest Turbine: 196.3 km
+
+Rank #491:
+  Latitude:  26.857143°
+  Longitude: -99.336735°
+  Power Potential: 386.09 m³/s³
+  Mean Wind Speed: 7.22 m/s
+  Distance to Nearest Turbine: 115.6 km
+
+Rank #492:
+  Latitude:  28.142857°
+  Longitude: -101.989796°
+  Power Potential: 384.34 m³/s³
+  Mean Wind Speed: 7.32 m/s
+  Distance to Nearest Turbine: 251.1 km
+
+Rank #493:
+  Latitude:  31.357143°
+  Longitude: -106.500000°
+  Power Potential: 384.10 m³/s³
+  Mean Wind Speed: 7.21 m/s
+  Distance to Nearest Turbine: 91.1 km
+
+Rank #494:
+  Latitude:  27.928571°
+  Longitude: -102.520408°
+  Power Potential: 382.72 m³/s³
+  Mean Wind Speed: 7.33 m/s
+  Distance to Nearest Turbine: 272.1 km
+
+Rank #495:
+  Latitude:  26.428571°
+  Longitude: -95.357143°
+  Power Potential: 382.71 m³/s³
+  Mean Wind Speed: 7.26 m/s
+  Distance to Nearest Turbine: 69.5 km
+
+Rank #496:
+  Latitude:  29.214286°
+  Longitude: -96.948980°
+  Power Potential: 382.39 m³/s³
+  Mean Wind Speed: 7.31 m/s
+  Distance to Nearest Turbine: 414.8 km
+
+Rank #497:
+  Latitude:  33.714286°
+  Longitude: -96.418367°
+  Power Potential: 382.28 m³/s³
+  Mean Wind Speed: 7.29 m/s
+  Distance to Nearest Turbine: 331.1 km
+
+Rank #498:
+  Latitude:  34.142857°
+  Longitude: -99.336735°
+  Power Potential: 381.78 m³/s³
+  Mean Wind Speed: 7.32 m/s
+  Distance to Nearest Turbine: 331.9 km
+
+Rank #499:
+  Latitude:  27.714286°
+  Longitude: -96.153061°
+  Power Potential: 381.57 m³/s³
+  Mean Wind Speed: 7.22 m/s
+  Distance to Nearest Turbine: 231.2 km
+
+Rank #500:
+  Latitude:  31.785714°
+  Longitude: -103.581633°
+  Power Potential: 381.34 m³/s³
+  Mean Wind Speed: 7.25 m/s
+  Distance to Nearest Turbine: 222.6 km
+
+Rank #501:
+  Latitude:  28.571429°
+  Longitude: -98.275510°
+  Power Potential: 381.12 m³/s³
+  Mean Wind Speed: 7.32 m/s
+  Distance to Nearest Turbine: 318.3 km
+
+Rank #502:
+  Latitude:  29.428571°
+  Longitude: -100.928571°
+  Power Potential: 380.68 m³/s³
+  Mean Wind Speed: 7.20 m/s
+  Distance to Nearest Turbine: 340.6 km
+
+Rank #503:
+  Latitude:  28.785714°
+  Longitude: -101.989796°
+  Power Potential: 380.43 m³/s³
+  Mean Wind Speed: 7.27 m/s
+  Distance to Nearest Turbine: 309.2 km
+
+Rank #504:
+  Latitude:  27.500000°
+  Longitude: -97.479592°
+  Power Potential: 380.33 m³/s³
+  Mean Wind Speed: 7.17 m/s
+  Distance to Nearest Turbine: 295.8 km
+
+Rank #505:
+  Latitude:  26.000000°
+  Longitude: -102.520408°
+  Power Potential: 380.12 m³/s³
+  Mean Wind Speed: 7.31 m/s
+  Distance to Nearest Turbine: 218.6 km
+
+Rank #506:
+  Latitude:  28.357143°
+  Longitude: -106.500000°
+  Power Potential: 380.02 m³/s³
+  Mean Wind Speed: 7.33 m/s
+  Distance to Nearest Turbine: 349.3 km
+
+Rank #507:
+  Latitude:  27.285714°
+  Longitude: -103.581633°
+  Power Potential: 379.68 m³/s³
+  Mean Wind Speed: 7.21 m/s
+  Distance to Nearest Turbine: 333.5 km
+
+Rank #508:
+  Latitude:  28.785714°
+  Longitude: -102.520408°
+  Power Potential: 379.59 m³/s³
+  Mean Wind Speed: 7.23 m/s
+  Distance to Nearest Turbine: 339.1 km
+
+Rank #509:
+  Latitude:  26.642857°
+  Longitude: -101.459184°
+  Power Potential: 379.42 m³/s³
+  Mean Wind Speed: 7.31 m/s
+  Distance to Nearest Turbine: 111.3 km
+
+Rank #510:
+  Latitude:  33.928571°
+  Longitude: -101.989796°
+  Power Potential: 379.30 m³/s³
+  Mean Wind Speed: 7.25 m/s
+  Distance to Nearest Turbine: 97.7 km
+
+Rank #511:
+  Latitude:  32.428571°
+  Longitude: -101.459184°
+  Power Potential: 379.15 m³/s³
+  Mean Wind Speed: 7.25 m/s
+  Distance to Nearest Turbine: 251.4 km
+
+Rank #512:
+  Latitude:  26.000000°
+  Longitude: -96.948980°
+  Power Potential: 378.94 m³/s³
+  Mean Wind Speed: 7.20 m/s
+  Distance to Nearest Turbine: 179.8 km
+
+Rank #513:
+  Latitude:  35.000000°
+  Longitude: -99.336735°
+  Power Potential: 378.89 m³/s³
+  Mean Wind Speed: 7.22 m/s
+  Distance to Nearest Turbine: 337.9 km
+
+Rank #514:
+  Latitude:  27.285714°
+  Longitude: -102.520408°
+  Power Potential: 378.87 m³/s³
+  Mean Wind Speed: 7.18 m/s
+  Distance to Nearest Turbine: 234.8 km
+
+Rank #515:
+  Latitude:  27.500000°
+  Longitude: -97.214286°
+  Power Potential: 378.84 m³/s³
+  Mean Wind Speed: 7.17 m/s
+  Distance to Nearest Turbine: 275.7 km
+
+Rank #516:
+  Latitude:  32.857143°
+  Longitude: -99.336735°
+  Power Potential: 378.65 m³/s³
+  Mean Wind Speed: 7.22 m/s
+  Distance to Nearest Turbine: 371.5 km
+
+Rank #517:
+  Latitude:  29.428571°
+  Longitude: -100.397959°
+  Power Potential: 378.41 m³/s³
+  Mean Wind Speed: 7.31 m/s
+  Distance to Nearest Turbine: 336.3 km
+
+Rank #518:
+  Latitude:  28.142857°
+  Longitude: -95.887755°
+  Power Potential: 378.41 m³/s³
+  Mean Wind Speed: 7.31 m/s
+  Distance to Nearest Turbine: 266.6 km
+
+Rank #519:
+  Latitude:  30.714286°
+  Longitude: -97.214286°
+  Power Potential: 378.10 m³/s³
+  Mean Wind Speed: 7.29 m/s
+  Distance to Nearest Turbine: 518.6 km
+
+Rank #520:
+  Latitude:  33.500000°
+  Longitude: -103.846939°
+  Power Potential: 377.87 m³/s³
+  Mean Wind Speed: 7.30 m/s
+  Distance to Nearest Turbine: 124.8 km
+
+Rank #521:
+  Latitude:  31.357143°
+  Longitude: -96.683673°
+  Power Potential: 377.56 m³/s³
+  Mean Wind Speed: 7.19 m/s
+  Distance to Nearest Turbine: 435.2 km
+
+Rank #522:
+  Latitude:  30.928571°
+  Longitude: -103.316327°
+  Power Potential: 377.43 m³/s³
+  Mean Wind Speed: 7.21 m/s
+  Distance to Nearest Turbine: 275.0 km
+
+Rank #523:
+  Latitude:  32.857143°
+  Longitude: -102.520408°
+  Power Potential: 377.39 m³/s³
+  Mean Wind Speed: 7.28 m/s
+  Distance to Nearest Turbine: 167.6 km
+
+Rank #524:
+  Latitude:  27.071429°
+  Longitude: -105.173469°
+  Power Potential: 377.31 m³/s³
+  Mean Wind Speed: 7.16 m/s
+  Distance to Nearest Turbine: 483.0 km
+
+Rank #525:
+  Latitude:  35.642857°
+  Longitude: -98.010204°
+  Power Potential: 376.91 m³/s³
+  Mean Wind Speed: 7.24 m/s
+  Distance to Nearest Turbine: 469.6 km
+
+Rank #526:
+  Latitude:  26.214286°
+  Longitude: -103.316327°
+  Power Potential: 376.72 m³/s³
+  Mean Wind Speed: 7.22 m/s
+  Distance to Nearest Turbine: 294.2 km
+
+Rank #527:
+  Latitude:  27.500000°
+  Longitude: -106.234694°
+  Power Potential: 376.72 m³/s³
+  Mean Wind Speed: 7.27 m/s
+  Distance to Nearest Turbine: 398.7 km
+
+Rank #528:
+  Latitude:  29.000000°
+  Longitude: -95.887755°
+  Power Potential: 376.67 m³/s³
+  Mean Wind Speed: 7.20 m/s
+  Distance to Nearest Turbine: 359.0 km
+
+Rank #529:
+  Latitude:  32.214286°
+  Longitude: -101.989796°
+  Power Potential: 376.55 m³/s³
+  Mean Wind Speed: 7.29 m/s
+  Distance to Nearest Turbine: 250.4 km
+
+Rank #530:
+  Latitude:  33.928571°
+  Longitude: -105.704082°
+  Power Potential: 376.54 m³/s³
+  Mean Wind Speed: 7.22 m/s
+  Distance to Nearest Turbine: 213.6 km
+
+Rank #531:
+  Latitude:  33.071429°
+  Longitude: -101.989796°
+  Power Potential: 376.53 m³/s³
+  Mean Wind Speed: 7.23 m/s
+  Distance to Nearest Turbine: 164.6 km
+
+Rank #532:
+  Latitude:  29.214286°
+  Longitude: -94.295918°
+  Power Potential: 376.45 m³/s³
+  Mean Wind Speed: 7.16 m/s
+  Distance to Nearest Turbine: 385.2 km
+
+Rank #533:
+  Latitude:  31.571429°
+  Longitude: -103.051020°
+  Power Potential: 376.34 m³/s³
+  Mean Wind Speed: 7.21 m/s
+  Distance to Nearest Turbine: 276.0 km
+
+Rank #534:
+  Latitude:  29.857143°
+  Longitude: -99.071429°
+  Power Potential: 376.31 m³/s³
+  Mean Wind Speed: 7.28 m/s
+  Distance to Nearest Turbine: 404.6 km
+
+Rank #535:
+  Latitude:  29.000000°
+  Longitude: -96.418367°
+  Power Potential: 376.22 m³/s³
+  Mean Wind Speed: 7.18 m/s
+  Distance to Nearest Turbine: 373.0 km
+
+Rank #536:
+  Latitude:  26.000000°
+  Longitude: -106.234694°
+  Power Potential: 375.56 m³/s³
+  Mean Wind Speed: 7.17 m/s
+  Distance to Nearest Turbine: 484.0 km
+
+Rank #537:
+  Latitude:  31.142857°
+  Longitude: -94.030612°
+  Power Potential: 375.55 m³/s³
+  Mean Wind Speed: 7.26 m/s
+  Distance to Nearest Turbine: 290.2 km
+
+Rank #538:
+  Latitude:  27.500000°
+  Longitude: -95.887755°
+  Power Potential: 375.49 m³/s³
+  Mean Wind Speed: 7.27 m/s
+  Distance to Nearest Turbine: 199.0 km
+
+Rank #539:
+  Latitude:  27.714286°
+  Longitude: -95.622449°
+  Power Potential: 375.22 m³/s³
+  Mean Wind Speed: 7.16 m/s
+  Distance to Nearest Turbine: 214.2 km
+
+Rank #540:
+  Latitude:  35.428571°
+  Longitude: -94.826531°
+  Power Potential: 375.19 m³/s³
+  Mean Wind Speed: 7.23 m/s
+  Distance to Nearest Turbine: 275.1 km
+
+Rank #541:
+  Latitude:  26.214286°
+  Longitude: -104.112245°
+  Power Potential: 375.11 m³/s³
+  Mean Wind Speed: 7.19 m/s
+  Distance to Nearest Turbine: 373.5 km
+
+Rank #542:
+  Latitude:  26.428571°
+  Longitude: -104.377551°
+  Power Potential: 374.75 m³/s³
+  Mean Wind Speed: 7.18 m/s
+  Distance to Nearest Turbine: 399.1 km
+
+Rank #543:
+  Latitude:  27.071429°
+  Longitude: -104.112245°
+  Power Potential: 374.73 m³/s³
+  Mean Wind Speed: 7.31 m/s
+  Distance to Nearest Turbine: 379.1 km
+
+Rank #544:
+  Latitude:  26.642857°
+  Longitude: -103.581633°
+  Power Potential: 374.71 m³/s³
+  Mean Wind Speed: 7.17 m/s
+  Distance to Nearest Turbine: 320.6 km
+
+Rank #545:
+  Latitude:  31.785714°
+  Longitude: -103.051020°
+  Power Potential: 374.67 m³/s³
+  Mean Wind Speed: 7.31 m/s
+  Distance to Nearest Turbine: 272.5 km
+
+Rank #546:
+  Latitude:  30.928571°
+  Longitude: -102.520408°
+  Power Potential: 374.45 m³/s³
+  Mean Wind Speed: 7.16 m/s
+  Distance to Nearest Turbine: 344.6 km
+
+Rank #547:
+  Latitude:  29.214286°
+  Longitude: -103.846939°
+  Power Potential: 374.31 m³/s³
+  Mean Wind Speed: 7.16 m/s
+  Distance to Nearest Turbine: 368.3 km
+
+Rank #548:
+  Latitude:  28.785714°
+  Longitude: -97.479592°
+  Power Potential: 374.24 m³/s³
+  Mean Wind Speed: 7.22 m/s
+  Distance to Nearest Turbine: 389.9 km
+
+Rank #549:
+  Latitude:  30.500000°
+  Longitude: -101.459184°
+  Power Potential: 374.20 m³/s³
+  Mean Wind Speed: 7.16 m/s
+  Distance to Nearest Turbine: 446.6 km
+
+Rank #550:
+  Latitude:  28.785714°
+  Longitude: -102.785714°
+  Power Potential: 374.13 m³/s³
+  Mean Wind Speed: 7.18 m/s
+  Distance to Nearest Turbine: 356.1 km
+
+Rank #551:
+  Latitude:  27.928571°
+  Longitude: -100.397959°
+  Power Potential: 373.63 m³/s³
+  Mean Wind Speed: 7.28 m/s
+  Distance to Nearest Turbine: 170.1 km
+
+Rank #552:
+  Latitude:  29.214286°
+  Longitude: -100.928571°
+  Power Potential: 373.46 m³/s³
+  Mean Wind Speed: 7.30 m/s
+  Distance to Nearest Turbine: 317.2 km
+
+Rank #553:
+  Latitude:  28.785714°
+  Longitude: -98.806122°
+  Power Potential: 373.46 m³/s³
+  Mean Wind Speed: 7.23 m/s
+  Distance to Nearest Turbine: 307.1 km
+
+Rank #554:
+  Latitude:  32.857143°
+  Longitude: -98.010204°
+  Power Potential: 373.43 m³/s³
+  Mean Wind Speed: 7.32 m/s
+  Distance to Nearest Turbine: 485.1 km
+
+Rank #555:
+  Latitude:  35.428571°
+  Longitude: -99.071429°
+  Power Potential: 373.13 m³/s³
+  Mean Wind Speed: 7.19 m/s
+  Distance to Nearest Turbine: 373.5 km
+
+Rank #556:
+  Latitude:  28.785714°
+  Longitude: -97.744898°
+  Power Potential: 372.99 m³/s³
+  Mean Wind Speed: 7.25 m/s
+  Distance to Nearest Turbine: 371.2 km
+
+Rank #557:
+  Latitude:  29.214286°
+  Longitude: -101.724490°
+  Power Potential: 372.90 m³/s³
+  Mean Wind Speed: 7.18 m/s
+  Distance to Nearest Turbine: 339.6 km
+
+Rank #558:
+  Latitude:  35.857143°
+  Longitude: -102.520408°
+  Power Potential: 372.81 m³/s³
+  Mean Wind Speed: 7.27 m/s
+  Distance to Nearest Turbine: 173.7 km
+
+Rank #559:
+  Latitude:  30.500000°
+  Longitude: -94.295918°
+  Power Potential: 372.68 m³/s³
+  Mean Wind Speed: 7.29 m/s
+  Distance to Nearest Turbine: 365.8 km
+
+Rank #560:
+  Latitude:  31.571429°
+  Longitude: -96.948980°
+  Power Potential: 372.58 m³/s³
+  Mean Wind Speed: 7.17 m/s
+  Distance to Nearest Turbine: 443.4 km
+
+Rank #561:
+  Latitude:  26.000000°
+  Longitude: -105.438776°
+  Power Potential: 372.43 m³/s³
+  Mean Wind Speed: 7.28 m/s
+  Distance to Nearest Turbine: 507.8 km
+
+Rank #562:
+  Latitude:  26.642857°
+  Longitude: -94.030612°
+  Power Potential: 372.43 m³/s³
+  Mean Wind Speed: 7.22 m/s
+  Distance to Nearest Turbine: 145.1 km
+
+Rank #563:
+  Latitude:  27.928571°
+  Longitude: -94.826531°
+  Power Potential: 372.32 m³/s³
+  Mean Wind Speed: 7.23 m/s
+  Distance to Nearest Turbine: 235.5 km
+
+Rank #564:
+  Latitude:  28.142857°
+  Longitude: -94.295918°
+  Power Potential: 372.06 m³/s³
+  Mean Wind Speed: 7.25 m/s
+  Distance to Nearest Turbine: 270.9 km
+
+Rank #565:
+  Latitude:  26.428571°
+  Longitude: -100.663265°
+  Power Potential: 372.04 m³/s³
+  Mean Wind Speed: 7.19 m/s
+  Distance to Nearest Turbine: 28.8 km
+
+Rank #566:
+  Latitude:  28.142857°
+  Longitude: -95.622449°
+  Power Potential: 371.91 m³/s³
+  Mean Wind Speed: 7.16 m/s
+  Distance to Nearest Turbine: 260.8 km
+
+Rank #567:
+  Latitude:  28.357143°
+  Longitude: -96.948980°
+  Power Potential: 371.82 m³/s³
+  Mean Wind Speed: 7.26 m/s
+  Distance to Nearest Turbine: 331.6 km
+
+Rank #568:
+  Latitude:  35.857143°
+  Longitude: -106.500000°
+  Power Potential: 371.68 m³/s³
+  Mean Wind Speed: 7.16 m/s
+  Distance to Nearest Turbine: 246.2 km
+
+Rank #569:
+  Latitude:  30.714286°
+  Longitude: -105.704082°
+  Power Potential: 371.37 m³/s³
+  Mean Wind Speed: 7.20 m/s
+  Distance to Nearest Turbine: 145.3 km
+
+Rank #570:
+  Latitude:  29.214286°
+  Longitude: -97.479592°
+  Power Potential: 371.32 m³/s³
+  Mean Wind Speed: 7.23 m/s
+  Distance to Nearest Turbine: 423.3 km
+
+Rank #571:
+  Latitude:  36.071429°
+  Longitude: -102.255102°
+  Power Potential: 371.22 m³/s³
+  Mean Wind Speed: 7.25 m/s
+  Distance to Nearest Turbine: 182.5 km
+
+Rank #572:
+  Latitude:  29.214286°
+  Longitude: -106.234694°
+  Power Potential: 370.92 m³/s³
+  Mean Wind Speed: 7.19 m/s
+  Distance to Nearest Turbine: 311.6 km
+
+Rank #573:
+  Latitude:  36.500000°
+  Longitude: -95.357143°
+  Power Potential: 370.72 m³/s³
+  Mean Wind Speed: 7.22 m/s
+  Distance to Nearest Turbine: 327.4 km
+
+Rank #574:
+  Latitude:  33.928571°
+  Longitude: -98.806122°
+  Power Potential: 370.63 m³/s³
+  Mean Wind Speed: 7.19 m/s
+  Distance to Nearest Turbine: 383.2 km
+
+Rank #575:
+  Latitude:  26.642857°
+  Longitude: -98.275510°
+  Power Potential: 370.47 m³/s³
+  Mean Wind Speed: 7.24 m/s
+  Distance to Nearest Turbine: 211.3 km
+
+Rank #576:
+  Latitude:  26.000000°
+  Longitude: -102.785714°
+  Power Potential: 370.45 m³/s³
+  Mean Wind Speed: 7.19 m/s
+  Distance to Nearest Turbine: 244.7 km
+
+Rank #577:
+  Latitude:  35.428571°
+  Longitude: -98.275510°
+  Power Potential: 370.33 m³/s³
+  Mean Wind Speed: 7.26 m/s
+  Distance to Nearest Turbine: 442.9 km
+
+Rank #578:
+  Latitude:  27.714286°
+  Longitude: -97.479592°
+  Power Potential: 370.23 m³/s³
+  Mean Wind Speed: 7.16 m/s
+  Distance to Nearest Turbine: 311.1 km
+
+Rank #579:
+  Latitude:  29.642857°
+  Longitude: -104.908163°
+  Power Potential: 370.23 m³/s³
+  Mean Wind Speed: 7.25 m/s
+  Distance to Nearest Turbine: 279.9 km
+
+Rank #580:
+  Latitude:  29.000000°
+  Longitude: -94.295918°
+  Power Potential: 370.18 m³/s³
+  Mean Wind Speed: 7.20 m/s
+  Distance to Nearest Turbine: 362.1 km
+
+Rank #581:
+  Latitude:  32.000000°
+  Longitude: -101.193878°
+  Power Potential: 370.16 m³/s³
+  Mean Wind Speed: 7.31 m/s
+  Distance to Nearest Turbine: 304.9 km
+
+Rank #582:
+  Latitude:  35.000000°
+  Longitude: -97.744898°
+  Power Potential: 370.09 m³/s³
+  Mean Wind Speed: 7.21 m/s
+  Distance to Nearest Turbine: 477.7 km
+
+Rank #583:
+  Latitude:  29.857143°
+  Longitude: -106.500000°
+  Power Potential: 369.95 m³/s³
+  Mean Wind Speed: 7.20 m/s
+  Distance to Nearest Turbine: 245.2 km
+
+Rank #584:
+  Latitude:  35.000000°
+  Longitude: -95.357143°
+  Power Potential: 369.93 m³/s³
+  Mean Wind Speed: 7.23 m/s
+  Distance to Nearest Turbine: 280.3 km
+
+Rank #585:
+  Latitude:  32.857143°
+  Longitude: -99.867347°
+  Power Potential: 369.72 m³/s³
+  Mean Wind Speed: 7.27 m/s
+  Distance to Nearest Turbine: 328.0 km
+
+Rank #586:
+  Latitude:  31.571429°
+  Longitude: -100.928571°
+  Power Potential: 369.61 m³/s³
+  Mean Wind Speed: 7.31 m/s
+  Distance to Nearest Turbine: 358.6 km
+
+Rank #587:
+  Latitude:  35.428571°
+  Longitude: -99.336735°
+  Power Potential: 369.59 m³/s³
+  Mean Wind Speed: 7.18 m/s
+  Distance to Nearest Turbine: 350.7 km
+
+Rank #588:
+  Latitude:  31.357143°
+  Longitude: -94.826531°
+  Power Potential: 369.39 m³/s³
+  Mean Wind Speed: 7.23 m/s
+  Distance to Nearest Turbine: 306.9 km
+
+Rank #589:
+  Latitude:  27.285714°
+  Longitude: -103.051020°
+  Power Potential: 369.33 m³/s³
+  Mean Wind Speed: 7.25 m/s
+  Distance to Nearest Turbine: 283.5 km
+
+Rank #590:
+  Latitude:  32.857143°
+  Longitude: -99.071429°
+  Power Potential: 369.00 m³/s³
+  Mean Wind Speed: 7.17 m/s
+  Distance to Nearest Turbine: 393.8 km
+
+Rank #591:
+  Latitude:  29.642857°
+  Longitude: -105.704082°
+  Power Potential: 368.96 m³/s³
+  Mean Wind Speed: 7.17 m/s
+  Distance to Nearest Turbine: 263.4 km
+
+Rank #592:
+  Latitude:  34.357143°
+  Longitude: -101.459184°
+  Power Potential: 368.89 m³/s³
+  Mean Wind Speed: 7.24 m/s
+  Distance to Nearest Turbine: 135.6 km
+
+Rank #593:
+  Latitude:  29.214286°
+  Longitude: -94.826531°
+  Power Potential: 368.69 m³/s³
+  Mean Wind Speed: 7.19 m/s
+  Distance to Nearest Turbine: 377.0 km
+
+Rank #594:
+  Latitude:  35.428571°
+  Longitude: -104.377551°
+  Power Potential: 368.61 m³/s³
+  Mean Wind Speed: 7.23 m/s
+  Distance to Nearest Turbine: 160.6 km
+
+Rank #595:
+  Latitude:  35.214286°
+  Longitude: -97.479592°
+  Power Potential: 367.95 m³/s³
+  Mean Wind Speed: 7.17 m/s
+  Distance to Nearest Turbine: 463.2 km
+
+Rank #596:
+  Latitude:  34.571429°
+  Longitude: -100.132653°
+  Power Potential: 367.07 m³/s³
+  Mean Wind Speed: 7.19 m/s
+  Distance to Nearest Turbine: 258.7 km
+
+Rank #597:
+  Latitude:  35.000000°
+  Longitude: -100.132653°
+  Power Potential: 366.99 m³/s³
+  Mean Wind Speed: 7.30 m/s
+  Distance to Nearest Turbine: 267.3 km
+
+Rank #598:
+  Latitude:  34.785714°
+  Longitude: -95.887755°
+  Power Potential: 366.85 m³/s³
+  Mean Wind Speed: 7.30 m/s
+  Distance to Nearest Turbine: 310.9 km
+
+Rank #599:
+  Latitude:  34.571429°
+  Longitude: -98.010204°
+  Power Potential: 365.90 m³/s³
+  Mean Wind Speed: 7.27 m/s
+  Distance to Nearest Turbine: 453.1 km
+
+Rank #600:
+  Latitude:  36.071429°
+  Longitude: -106.234694°
+  Power Potential: 363.35 m³/s³
+  Mean Wind Speed: 7.14 m/s
+  Distance to Nearest Turbine: 214.3 km
+
+Rank #601:
+  Latitude:  28.142857°
+  Longitude: -105.438776°
+  Power Potential: 362.19 m³/s³
+  Mean Wind Speed: 7.14 m/s
+  Distance to Nearest Turbine: 431.3 km
+
+Rank #602:
+  Latitude:  30.714286°
+  Longitude: -97.744898°
+  Power Potential: 360.39 m³/s³
+  Mean Wind Speed: 7.14 m/s
+  Distance to Nearest Turbine: 543.6 km
+
+Rank #603:
+  Latitude:  29.857143°
+  Longitude: -94.030612°
+  Power Potential: 359.81 m³/s³
+  Mean Wind Speed: 7.15 m/s
+  Distance to Nearest Turbine: 425.7 km
+
+Rank #604:
+  Latitude:  27.714286°
+  Longitude: -98.010204°
+  Power Potential: 358.06 m³/s³
+  Mean Wind Speed: 7.15 m/s
+  Distance to Nearest Turbine: 276.6 km
+
+Rank #605:
+  Latitude:  33.500000°
+  Longitude: -93.500000°
+  Power Potential: 356.93 m³/s³
+  Mean Wind Speed: 7.14 m/s
+  Distance to Nearest Turbine: 60.4 km
+
+Rank #606:
+  Latitude:  27.285714°
+  Longitude: -103.846939°
+  Power Potential: 356.85 m³/s³
+  Mean Wind Speed: 7.14 m/s
+  Distance to Nearest Turbine: 358.7 km
+
+Rank #607:
+  Latitude:  26.642857°
+  Longitude: -101.989796°
+  Power Potential: 354.54 m³/s³
+  Mean Wind Speed: 7.14 m/s
+  Distance to Nearest Turbine: 163.1 km
+
+Rank #608:
+  Latitude:  29.642857°
+  Longitude: -102.785714°
+  Power Potential: 353.91 m³/s³
+  Mean Wind Speed: 7.10 m/s
+  Distance to Nearest Turbine: 398.5 km
+
+Rank #609:
+  Latitude:  31.357143°
+  Longitude: -101.459184°
+  Power Potential: 353.67 m³/s³
+  Mean Wind Speed: 7.08 m/s
+  Distance to Nearest Turbine: 357.2 km
+
+Rank #610:
+  Latitude:  28.142857°
+  Longitude: -95.357143°
+  Power Potential: 353.34 m³/s³
+  Mean Wind Speed: 7.11 m/s
+  Distance to Nearest Turbine: 257.5 km
+
+Rank #611:
+  Latitude:  26.642857°
+  Longitude: -99.867347°
+  Power Potential: 353.00 m³/s³
+  Mean Wind Speed: 7.13 m/s
+  Distance to Nearest Turbine: 57.8 km
+
+Rank #612:
+  Latitude:  29.857143°
+  Longitude: -102.520408°
+  Power Potential: 352.33 m³/s³
+  Mean Wind Speed: 7.10 m/s
+  Distance to Nearest Turbine: 403.2 km
+
+Rank #613:
+  Latitude:  29.214286°
+  Longitude: -97.214286°
+  Power Potential: 352.23 m³/s³
+  Mean Wind Speed: 7.11 m/s
+  Distance to Nearest Turbine: 426.6 km
+
+Rank #614:
+  Latitude:  29.000000°
+  Longitude: -97.214286°
+  Power Potential: 351.87 m³/s³
+  Mean Wind Speed: 7.10 m/s
+  Distance to Nearest Turbine: 406.0 km
+
+Rank #615:
+  Latitude:  35.642857°
+  Longitude: -93.765306°
+  Power Potential: 351.26 m³/s³
+  Mean Wind Speed: 7.04 m/s
+  Distance to Nearest Turbine: 245.5 km
+
+Rank #616:
+  Latitude:  33.714286°
+  Longitude: -94.030612°
+  Power Potential: 350.43 m³/s³
+  Mean Wind Speed: 7.14 m/s
+  Distance to Nearest Turbine: 110.5 km
+
+Rank #617:
+  Latitude:  29.214286°
+  Longitude: -104.642857°
+  Power Potential: 350.11 m³/s³
+  Mean Wind Speed: 7.07 m/s
+  Distance to Nearest Turbine: 333.4 km
+
+Rank #618:
+  Latitude:  31.571429°
+  Longitude: -102.785714°
+  Power Potential: 349.77 m³/s³
+  Mean Wind Speed: 7.06 m/s
+  Distance to Nearest Turbine: 300.8 km
+
+Rank #619:
+  Latitude:  35.642857°
+  Longitude: -106.500000°
+  Power Potential: 349.57 m³/s³
+  Mean Wind Speed: 7.09 m/s
+  Distance to Nearest Turbine: 258.0 km
+
+Rank #620:
+  Latitude:  29.642857°
+  Longitude: -98.010204°
+  Power Potential: 349.44 m³/s³
+  Mean Wind Speed: 7.00 m/s
+  Distance to Nearest Turbine: 428.7 km
+
+Rank #621:
+  Latitude:  29.857143°
+  Longitude: -97.479592°
+  Power Potential: 349.24 m³/s³
+  Mean Wind Speed: 7.08 m/s
+  Distance to Nearest Turbine: 477.8 km
+
+Rank #622:
+  Latitude:  28.571429°
+  Longitude: -93.500000°
+  Power Potential: 348.93 m³/s³
+  Mean Wind Speed: 7.13 m/s
+  Distance to Nearest Turbine: 346.1 km
+
+Rank #623:
+  Latitude:  35.428571°
+  Longitude: -101.989796°
+  Power Potential: 348.82 m³/s³
+  Mean Wind Speed: 7.00 m/s
+  Distance to Nearest Turbine: 149.5 km
+
+Rank #624:
+  Latitude:  27.500000°
+  Longitude: -102.520408°
+  Power Potential: 348.77 m³/s³
+  Mean Wind Speed: 7.06 m/s
+  Distance to Nearest Turbine: 245.6 km
+
+Rank #625:
+  Latitude:  30.071429°
+  Longitude: -96.153061°
+  Power Potential: 348.62 m³/s³
+  Mean Wind Speed: 7.04 m/s
+  Distance to Nearest Turbine: 480.5 km
+
+Rank #626:
+  Latitude:  32.214286°
+  Longitude: -97.214286°
+  Power Potential: 348.05 m³/s³
+  Mean Wind Speed: 7.10 m/s
+  Distance to Nearest Turbine: 434.5 km
+
+Rank #627:
+  Latitude:  30.714286°
+  Longitude: -105.173469°
+  Power Potential: 347.92 m³/s³
+  Mean Wind Speed: 7.05 m/s
+  Distance to Nearest Turbine: 160.4 km
+
+Rank #628:
+  Latitude:  27.071429°
+  Longitude: -106.234694°
+  Power Potential: 347.84 m³/s³
+  Mean Wind Speed: 7.04 m/s
+  Distance to Nearest Turbine: 418.1 km
+
+Rank #629:
+  Latitude:  28.571429°
+  Longitude: -103.316327°
+  Power Potential: 347.68 m³/s³
+  Mean Wind Speed: 7.01 m/s
+  Distance to Nearest Turbine: 377.6 km
+
+Rank #630:
+  Latitude:  27.500000°
+  Longitude: -104.908163°
+  Power Potential: 347.67 m³/s³
+  Mean Wind Speed: 7.09 m/s
+  Distance to Nearest Turbine: 466.3 km
+
+Rank #631:
+  Latitude:  29.214286°
+  Longitude: -102.520408°
+  Power Potential: 347.41 m³/s³
+  Mean Wind Speed: 7.10 m/s
+  Distance to Nearest Turbine: 377.2 km
+
+Rank #632:
+  Latitude:  33.071429°
+  Longitude: -97.744898°
+  Power Potential: 347.38 m³/s³
+  Mean Wind Speed: 7.12 m/s
+  Distance to Nearest Turbine: 458.7 km
+
+Rank #633:
+  Latitude:  31.357143°
+  Longitude: -100.928571°
+  Power Potential: 347.32 m³/s³
+  Mean Wind Speed: 6.97 m/s
+  Distance to Nearest Turbine: 379.2 km
+
+Rank #634:
+  Latitude:  32.214286°
+  Longitude: -98.275510°
+  Power Potential: 347.23 m³/s³
+  Mean Wind Speed: 7.12 m/s
+  Distance to Nearest Turbine: 493.1 km
+
+Rank #635:
+  Latitude:  27.071429°
+  Longitude: -104.377551°
+  Power Potential: 347.13 m³/s³
+  Mean Wind Speed: 7.11 m/s
+  Distance to Nearest Turbine: 405.0 km
+
+Rank #636:
+  Latitude:  34.785714°
+  Longitude: -93.500000°
+  Power Potential: 347.11 m³/s³
+  Mean Wind Speed: 7.06 m/s
+  Distance to Nearest Turbine: 148.2 km
+
+Rank #637:
+  Latitude:  31.571429°
+  Longitude: -103.846939°
+  Power Potential: 346.89 m³/s³
+  Mean Wind Speed: 7.07 m/s
+  Distance to Nearest Turbine: 202.3 km
+
+Rank #638:
+  Latitude:  30.928571°
+  Longitude: -96.948980°
+  Power Potential: 346.70 m³/s³
+  Mean Wind Speed: 7.10 m/s
+  Distance to Nearest Turbine: 483.9 km
+
+Rank #639:
+  Latitude:  26.642857°
+  Longitude: -99.602041°
+  Power Potential: 346.68 m³/s³
+  Mean Wind Speed: 7.12 m/s
+  Distance to Nearest Turbine: 82.0 km
+
+Rank #640:
+  Latitude:  35.000000°
+  Longitude: -105.438776°
+  Power Potential: 346.43 m³/s³
+  Mean Wind Speed: 7.11 m/s
+  Distance to Nearest Turbine: 240.7 km
+
+Rank #641:
+  Latitude:  27.285714°
+  Longitude: -98.540816°
+  Power Potential: 346.39 m³/s³
+  Mean Wind Speed: 6.99 m/s
+  Distance to Nearest Turbine: 207.5 km
+
+Rank #642:
+  Latitude:  32.642857°
+  Longitude: -95.091837°
+  Power Potential: 346.36 m³/s³
+  Mean Wind Speed: 7.07 m/s
+  Distance to Nearest Turbine: 232.5 km
+
+Rank #643:
+  Latitude:  27.928571°
+  Longitude: -101.989796°
+  Power Potential: 346.20 m³/s³
+  Mean Wind Speed: 7.07 m/s
+  Distance to Nearest Turbine: 233.4 km
+
+Rank #644:
+  Latitude:  29.642857°
+  Longitude: -94.030612°
+  Power Potential: 346.04 m³/s³
+  Mean Wind Speed: 6.99 m/s
+  Distance to Nearest Turbine: 437.6 km
+
+Rank #645:
+  Latitude:  27.714286°
+  Longitude: -104.642857°
+  Power Potential: 346.02 m³/s³
+  Mean Wind Speed: 7.08 m/s
+  Distance to Nearest Turbine: 447.7 km
+
+Rank #646:
+  Latitude:  27.928571°
+  Longitude: -104.377551°
+  Power Potential: 346.00 m³/s³
+  Mean Wind Speed: 7.04 m/s
+  Distance to Nearest Turbine: 431.4 km
+
+Rank #647:
+  Latitude:  31.142857°
+  Longitude: -101.193878°
+  Power Potential: 345.99 m³/s³
+  Mean Wind Speed: 7.08 m/s
+  Distance to Nearest Turbine: 389.0 km
+
+Rank #648:
+  Latitude:  26.642857°
+  Longitude: -106.500000°
+  Power Potential: 345.94 m³/s³
+  Mean Wind Speed: 7.03 m/s
+  Distance to Nearest Turbine: 419.8 km
+
+Rank #649:
+  Latitude:  29.428571°
+  Longitude: -98.806122°
+  Power Potential: 345.92 m³/s³
+  Mean Wind Speed: 7.04 m/s
+  Distance to Nearest Turbine: 370.1 km
+
+Rank #650:
+  Latitude:  29.214286°
+  Longitude: -98.010204°
+  Power Potential: 345.82 m³/s³
+  Mean Wind Speed: 7.11 m/s
+  Distance to Nearest Turbine: 389.9 km
+
+Rank #651:
+  Latitude:  26.214286°
+  Longitude: -102.255102°
+  Power Potential: 345.81 m³/s³
+  Mean Wind Speed: 7.06 m/s
+  Distance to Nearest Turbine: 188.6 km
+
+Rank #652:
+  Latitude:  27.285714°
+  Longitude: -96.418367°
+  Power Potential: 345.51 m³/s³
+  Mean Wind Speed: 6.93 m/s
+  Distance to Nearest Turbine: 204.4 km
+
+Rank #653:
+  Latitude:  27.285714°
+  Longitude: -94.561224°
+  Power Potential: 345.34 m³/s³
+  Mean Wind Speed: 7.04 m/s
+  Distance to Nearest Turbine: 172.6 km
+
+Rank #654:
+  Latitude:  27.928571°
+  Longitude: -106.500000°
+  Power Potential: 345.19 m³/s³
+  Mean Wind Speed: 7.05 m/s
+  Distance to Nearest Turbine: 358.9 km
+
+Rank #655:
+  Latitude:  30.928571°
+  Longitude: -98.275510°
+  Power Potential: 345.18 m³/s³
+  Mean Wind Speed: 7.11 m/s
+  Distance to Nearest Turbine: 542.9 km
+
+Rank #656:
+  Latitude:  30.928571°
+  Longitude: -100.397959°
+  Power Potential: 344.89 m³/s³
+  Mean Wind Speed: 7.13 m/s
+  Distance to Nearest Turbine: 445.8 km
+
+Rank #657:
+  Latitude:  27.285714°
+  Longitude: -98.275510°
+  Power Potential: 344.88 m³/s³
+  Mean Wind Speed: 7.04 m/s
+  Distance to Nearest Turbine: 231.1 km
+
+Rank #658:
+  Latitude:  31.142857°
+  Longitude: -97.479592°
+  Power Potential: 344.83 m³/s³
+  Mean Wind Speed: 7.07 m/s
+  Distance to Nearest Turbine: 511.4 km
+
+Rank #659:
+  Latitude:  32.000000°
+  Longitude: -105.438776°
+  Power Potential: 344.72 m³/s³
+  Mean Wind Speed: 7.06 m/s
+  Distance to Nearest Turbine: 45.5 km
+
+Rank #660:
+  Latitude:  27.928571°
+  Longitude: -93.765306°
+  Power Potential: 344.67 m³/s³
+  Mean Wind Speed: 7.10 m/s
+  Distance to Nearest Turbine: 271.4 km
+
+Rank #661:
+  Latitude:  27.071429°
+  Longitude: -95.622449°
+  Power Potential: 344.50 m³/s³
+  Mean Wind Speed: 7.04 m/s
+  Distance to Nearest Turbine: 145.4 km
+
+Rank #662:
+  Latitude:  33.714286°
+  Longitude: -103.316327°
+  Power Potential: 344.38 m³/s³
+  Mean Wind Speed: 7.01 m/s
+  Distance to Nearest Turbine: 76.8 km
+
+Rank #663:
+  Latitude:  30.928571°
+  Longitude: -104.377551°
+  Power Potential: 344.37 m³/s³
+  Mean Wind Speed: 7.06 m/s
+  Distance to Nearest Turbine: 189.5 km
+
+Rank #664:
+  Latitude:  27.928571°
+  Longitude: -97.479592°
+  Power Potential: 344.36 m³/s³
+  Mean Wind Speed: 7.06 m/s
+  Distance to Nearest Turbine: 327.4 km
+
+Rank #665:
+  Latitude:  30.500000°
+  Longitude: -97.744898°
+  Power Potential: 344.29 m³/s³
+  Mean Wind Speed: 7.04 m/s
+  Distance to Nearest Turbine: 523.0 km
+
+Rank #666:
+  Latitude:  26.000000°
+  Longitude: -98.806122°
+  Power Potential: 344.29 m³/s³
+  Mean Wind Speed: 7.09 m/s
+  Distance to Nearest Turbine: 163.0 km
+
+Rank #667:
+  Latitude:  29.214286°
+  Longitude: -99.071429°
+  Power Potential: 344.12 m³/s³
+  Mean Wind Speed: 7.00 m/s
+  Distance to Nearest Turbine: 338.0 km
+
+Rank #668:
+  Latitude:  27.714286°
+  Longitude: -104.908163°
+  Power Potential: 344.03 m³/s³
+  Mean Wind Speed: 7.06 m/s
+  Distance to Nearest Turbine: 472.7 km
+
+Rank #669:
+  Latitude:  36.071429°
+  Longitude: -94.561224°
+  Power Potential: 344.00 m³/s³
+  Mean Wind Speed: 7.12 m/s
+  Distance to Nearest Turbine: 319.2 km
+
+Rank #670:
+  Latitude:  29.857143°
+  Longitude: -103.316327°
+  Power Potential: 343.98 m³/s³
+  Mean Wind Speed: 6.93 m/s
+  Distance to Nearest Turbine: 344.9 km
+
+Rank #671:
+  Latitude:  28.785714°
+  Longitude: -99.336735°
+  Power Potential: 343.98 m³/s³
+  Mean Wind Speed: 7.12 m/s
+  Distance to Nearest Turbine: 284.2 km
+
+Rank #672:
+  Latitude:  32.857143°
+  Longitude: -106.500000°
+  Power Potential: 343.95 m³/s³
+  Mean Wind Speed: 7.09 m/s
+  Distance to Nearest Turbine: 108.5 km
+
+Rank #673:
+  Latitude:  31.785714°
+  Longitude: -101.989796°
+  Power Potential: 343.94 m³/s³
+  Mean Wind Speed: 6.98 m/s
+  Distance to Nearest Turbine: 295.4 km
+
+Rank #674:
+  Latitude:  30.714286°
+  Longitude: -103.316327°
+  Power Potential: 343.80 m³/s³
+  Mean Wind Speed: 6.92 m/s
+  Distance to Nearest Turbine: 286.4 km
+
+Rank #675:
+  Latitude:  30.285714°
+  Longitude: -95.091837°
+  Power Potential: 343.73 m³/s³
+  Mean Wind Speed: 7.08 m/s
+  Distance to Nearest Turbine: 420.4 km
+
+Rank #676:
+  Latitude:  30.928571°
+  Longitude: -95.887755°
+  Power Potential: 343.58 m³/s³
+  Mean Wind Speed: 7.06 m/s
+  Distance to Nearest Turbine: 408.7 km
+
+Rank #677:
+  Latitude:  35.000000°
+  Longitude: -96.683673°
+  Power Potential: 343.56 m³/s³
+  Mean Wind Speed: 7.01 m/s
+  Distance to Nearest Turbine: 387.0 km
+
+Rank #678:
+  Latitude:  36.071429°
+  Longitude: -101.193878°
+  Power Potential: 343.48 m³/s³
+  Mean Wind Speed: 6.99 m/s
+  Distance to Nearest Turbine: 250.0 km
+
+Rank #679:
+  Latitude:  28.357143°
+  Longitude: -104.642857°
+  Power Potential: 343.43 m³/s³
+  Mean Wind Speed: 7.09 m/s
+  Distance to Nearest Turbine: 423.3 km
+
+Rank #680:
+  Latitude:  27.285714°
+  Longitude: -95.091837°
+  Power Potential: 343.38 m³/s³
+  Mean Wind Speed: 6.98 m/s
+  Distance to Nearest Turbine: 162.0 km
+
+Rank #681:
+  Latitude:  27.071429°
+  Longitude: -95.887755°
+  Power Potential: 343.34 m³/s³
+  Mean Wind Speed: 7.08 m/s
+  Distance to Nearest Turbine: 155.7 km
+
+Rank #682:
+  Latitude:  26.000000°
+  Longitude: -94.295918°
+  Power Potential: 343.32 m³/s³
+  Mean Wind Speed: 7.09 m/s
+  Distance to Nearest Turbine: 89.2 km
+
+Rank #683:
+  Latitude:  29.857143°
+  Longitude: -95.357143°
+  Power Potential: 343.19 m³/s³
+  Mean Wind Speed: 7.03 m/s
+  Distance to Nearest Turbine: 447.2 km
+
+Rank #684:
+  Latitude:  26.428571°
+  Longitude: -95.091837°
+  Power Potential: 343.19 m³/s³
+  Mean Wind Speed: 7.07 m/s
+  Distance to Nearest Turbine: 67.2 km
+
+Rank #685:
+  Latitude:  28.142857°
+  Longitude: -95.091837°
+  Power Potential: 343.06 m³/s³
+  Mean Wind Speed: 7.09 m/s
+  Distance to Nearest Turbine: 256.9 km
+
+Rank #686:
+  Latitude:  28.785714°
+  Longitude: -98.540816°
+  Power Potential: 342.97 m³/s³
+  Mean Wind Speed: 6.97 m/s
+  Distance to Nearest Turbine: 321.1 km
+
+Rank #687:
+  Latitude:  26.857143°
+  Longitude: -101.459184°
+  Power Potential: 342.94 m³/s³
+  Mean Wind Speed: 6.99 m/s
+  Distance to Nearest Turbine: 119.4 km
+
+Rank #688:
+  Latitude:  29.000000°
+  Longitude: -97.744898°
+  Power Potential: 342.92 m³/s³
+  Mean Wind Speed: 6.97 m/s
+  Distance to Nearest Turbine: 388.3 km
+
+Rank #689:
+  Latitude:  29.642857°
+  Longitude: -97.214286°
+  Power Potential: 342.70 m³/s³
+  Mean Wind Speed: 7.08 m/s
+  Distance to Nearest Turbine: 468.8 km
+
+Rank #690:
+  Latitude:  35.428571°
+  Longitude: -98.540816°
+  Power Potential: 342.70 m³/s³
+  Mean Wind Speed: 7.00 m/s
+  Distance to Nearest Turbine: 419.6 km
+
+Rank #691:
+  Latitude:  34.357143°
+  Longitude: -98.806122°
+  Power Potential: 342.62 m³/s³
+  Mean Wind Speed: 7.07 m/s
+  Distance to Nearest Turbine: 379.7 km
+
+Rank #692:
+  Latitude:  32.642857°
+  Longitude: -101.724490°
+  Power Potential: 342.59 m³/s³
+  Mean Wind Speed: 7.04 m/s
+  Distance to Nearest Turbine: 218.1 km
+
+Rank #693:
+  Latitude:  27.928571°
+  Longitude: -99.867347°
+  Power Potential: 342.56 m³/s³
+  Mean Wind Speed: 7.03 m/s
+  Distance to Nearest Turbine: 177.4 km
+
+Rank #694:
+  Latitude:  32.857143°
+  Longitude: -101.193878°
+  Power Potential: 342.53 m³/s³
+  Mean Wind Speed: 7.06 m/s
+  Distance to Nearest Turbine: 229.5 km
+
+Rank #695:
+  Latitude:  32.857143°
+  Longitude: -102.785714°
+  Power Potential: 342.50 m³/s³
+  Mean Wind Speed: 7.05 m/s
+  Distance to Nearest Turbine: 163.7 km
+
+Rank #696:
+  Latitude:  26.642857°
+  Longitude: -103.051020°
+  Power Potential: 342.49 m³/s³
+  Mean Wind Speed: 7.01 m/s
+  Distance to Nearest Turbine: 267.9 km
+
+Rank #697:
+  Latitude:  26.000000°
+  Longitude: -104.642857°
+  Power Potential: 342.40 m³/s³
+  Mean Wind Speed: 7.02 m/s
+  Distance to Nearest Turbine: 428.6 km
+
+Rank #698:
+  Latitude:  33.928571°
+  Longitude: -93.500000°
+  Power Potential: 342.09 m³/s³
+  Mean Wind Speed: 7.03 m/s
+  Distance to Nearest Turbine: 72.4 km
+
+Rank #699:
+  Latitude:  30.500000°
+  Longitude: -100.132653°
+  Power Potential: 342.04 m³/s³
+  Mean Wind Speed: 6.99 m/s
+  Distance to Nearest Turbine: 455.7 km
+
+Rank #700:
+  Latitude:  26.000000°
+  Longitude: -95.091837°
+  Power Potential: 341.99 m³/s³
+  Mean Wind Speed: 7.00 m/s
+  Distance to Nearest Turbine: 20.7 km
+
+Rank #701:
+  Latitude:  28.357143°
+  Longitude: -103.581633°
+  Power Potential: 341.99 m³/s³
+  Mean Wind Speed: 7.03 m/s
+  Distance to Nearest Turbine: 384.4 km
+
+Rank #702:
+  Latitude:  35.214286°
+  Longitude: -105.438776°
+  Power Potential: 341.87 m³/s³
+  Mean Wind Speed: 7.11 m/s
+  Distance to Nearest Turbine: 220.7 km
+
+Rank #703:
+  Latitude:  29.642857°
+  Longitude: -103.581633°
+  Power Potential: 341.84 m³/s³
+  Mean Wind Speed: 7.09 m/s
+  Distance to Nearest Turbine: 344.9 km
+
+Rank #704:
+  Latitude:  30.500000°
+  Longitude: -104.377551°
+  Power Potential: 341.55 m³/s³
+  Mean Wind Speed: 7.02 m/s
+  Distance to Nearest Turbine: 222.8 km
+
+Rank #705:
+  Latitude:  29.642857°
+  Longitude: -104.112245°
+  Power Potential: 341.23 m³/s³
+  Mean Wind Speed: 7.04 m/s
+  Distance to Nearest Turbine: 314.4 km
+
+Rank #706:
+  Latitude:  33.714286°
+  Longitude: -95.091837°
+  Power Potential: 341.19 m³/s³
+  Mean Wind Speed: 7.12 m/s
+  Distance to Nearest Turbine: 208.3 km
+
+Rank #707:
+  Latitude:  28.357143°
+  Longitude: -94.030612°
+  Power Potential: 341.18 m³/s³
+  Mean Wind Speed: 6.99 m/s
+  Distance to Nearest Turbine: 302.3 km
+
+Rank #708:
+  Latitude:  31.142857°
+  Longitude: -103.846939°
+  Power Potential: 341.12 m³/s³
+  Mean Wind Speed: 6.97 m/s
+  Distance to Nearest Turbine: 219.1 km
+
+Rank #709:
+  Latitude:  29.214286°
+  Longitude: -104.112245°
+  Power Potential: 341.09 m³/s³
+  Mean Wind Speed: 6.98 m/s
+  Distance to Nearest Turbine: 355.2 km
+
+Rank #710:
+  Latitude:  27.928571°
+  Longitude: -95.887755°
+  Power Potential: 341.07 m³/s³
+  Mean Wind Speed: 6.95 m/s
+  Distance to Nearest Turbine: 243.9 km
+
+Rank #711:
+  Latitude:  33.500000°
+  Longitude: -106.500000°
+  Power Potential: 340.99 m³/s³
+  Mean Wind Speed: 7.01 m/s
+  Distance to Nearest Turbine: 173.8 km
+
+Rank #712:
+  Latitude:  27.714286°
+  Longitude: -99.867347°
+  Power Potential: 340.83 m³/s³
+  Mean Wind Speed: 7.07 m/s
+  Distance to Nearest Turbine: 154.8 km
+
+Rank #713:
+  Latitude:  33.928571°
+  Longitude: -94.826531°
+  Power Potential: 340.74 m³/s³
+  Mean Wind Speed: 7.00 m/s
+  Distance to Nearest Turbine: 187.3 km
+
+Rank #714:
+  Latitude:  31.142857°
+  Longitude: -94.295918°
+  Power Potential: 340.70 m³/s³
+  Mean Wind Speed: 6.99 m/s
+  Distance to Nearest Turbine: 300.7 km
+
+Rank #715:
+  Latitude:  31.571429°
+  Longitude: -106.234694°
+  Power Potential: 340.67 m³/s³
+  Mean Wind Speed: 7.07 m/s
+  Distance to Nearest Turbine: 57.2 km
+
+Rank #716:
+  Latitude:  27.928571°
+  Longitude: -103.581633°
+  Power Potential: 340.65 m³/s³
+  Mean Wind Speed: 6.96 m/s
+  Distance to Nearest Turbine: 360.2 km
+
+Rank #717:
+  Latitude:  30.714286°
+  Longitude: -95.887755°
+  Power Potential: 340.55 m³/s³
+  Mean Wind Speed: 6.97 m/s
+  Distance to Nearest Turbine: 426.2 km
+
+Rank #718:
+  Latitude:  34.571429°
+  Longitude: -100.663265°
+  Power Potential: 340.46 m³/s³
+  Mean Wind Speed: 7.01 m/s
+  Distance to Nearest Turbine: 210.3 km
+
+Rank #719:
+  Latitude:  33.714286°
+  Longitude: -103.051020°
+  Power Potential: 340.40 m³/s³
+  Mean Wind Speed: 7.03 m/s
+  Distance to Nearest Turbine: 69.0 km
+
+Rank #720:
+  Latitude:  33.714286°
+  Longitude: -105.438776°
+  Power Potential: 340.27 m³/s³
+  Mean Wind Speed: 7.03 m/s
+  Distance to Nearest Turbine: 194.1 km
+
+Rank #721:
+  Latitude:  28.785714°
+  Longitude: -94.030612°
+  Power Potential: 340.25 m³/s³
+  Mean Wind Speed: 6.95 m/s
+  Distance to Nearest Turbine: 346.7 km
+
+Rank #722:
+  Latitude:  34.142857°
+  Longitude: -97.479592°
+  Power Potential: 340.24 m³/s³
+  Mean Wind Speed: 6.97 m/s
+  Distance to Nearest Turbine: 432.9 km
+
+Rank #723:
+  Latitude:  31.142857°
+  Longitude: -96.948980°
+  Power Potential: 340.21 m³/s³
+  Mean Wind Speed: 7.01 m/s
+  Distance to Nearest Turbine: 469.6 km
+
+Rank #724:
+  Latitude:  27.285714°
+  Longitude: -99.867347°
+  Power Potential: 340.13 m³/s³
+  Mean Wind Speed: 7.05 m/s
+  Distance to Nearest Turbine: 111.0 km
+
+Rank #725:
+  Latitude:  26.428571°
+  Longitude: -101.724490°
+  Power Potential: 340.11 m³/s³
+  Mean Wind Speed: 7.02 m/s
+  Distance to Nearest Turbine: 134.5 km
+
+Rank #726:
+  Latitude:  28.571429°
+  Longitude: -95.887755°
+  Power Potential: 340.02 m³/s³
+  Mean Wind Speed: 6.91 m/s
+  Distance to Nearest Turbine: 312.6 km
+
+Rank #727:
+  Latitude:  32.214286°
+  Longitude: -104.112245°
+  Power Potential: 339.98 m³/s³
+  Mean Wind Speed: 7.11 m/s
+  Distance to Nearest Turbine: 172.1 km
+
+Rank #728:
+  Latitude:  28.142857°
+  Longitude: -96.683673°
+  Power Potential: 339.97 m³/s³
+  Mean Wind Speed: 6.98 m/s
+  Distance to Nearest Turbine: 297.8 km
+
+Rank #729:
+  Latitude:  30.071429°
+  Longitude: -104.908163°
+  Power Potential: 339.75 m³/s³
+  Mean Wind Speed: 6.97 m/s
+  Distance to Nearest Turbine: 235.8 km
+
+Rank #730:
+  Latitude:  33.285714°
+  Longitude: -104.642857°
+  Power Potential: 339.58 m³/s³
+  Mean Wind Speed: 6.98 m/s
+  Distance to Nearest Turbine: 185.3 km
+
+Rank #731:
+  Latitude:  31.785714°
+  Longitude: -96.418367°
+  Power Potential: 339.56 m³/s³
+  Mean Wind Speed: 7.02 m/s
+  Distance to Nearest Turbine: 388.0 km
+
+Rank #732:
+  Latitude:  31.142857°
+  Longitude: -101.989796°
+  Power Potential: 339.55 m³/s³
+  Mean Wind Speed: 6.94 m/s
+  Distance to Nearest Turbine: 364.1 km
+
+Rank #733:
+  Latitude:  28.785714°
+  Longitude: -98.010204°
+  Power Potential: 339.51 m³/s³
+  Mean Wind Speed: 7.04 m/s
+  Distance to Nearest Turbine: 353.3 km
+
+Rank #734:
+  Latitude:  29.000000°
+  Longitude: -98.540816°
+  Power Potential: 339.46 m³/s³
+  Mean Wind Speed: 6.92 m/s
+  Distance to Nearest Turbine: 340.9 km
+
+Rank #735:
+  Latitude:  29.642857°
+  Longitude: -101.724490°
+  Power Potential: 339.44 m³/s³
+  Mean Wind Speed: 6.98 m/s
+  Distance to Nearest Turbine: 383.6 km
+
+Rank #736:
+  Latitude:  30.714286°
+  Longitude: -98.540816°
+  Power Potential: 339.43 m³/s³
+  Mean Wind Speed: 6.93 m/s
+  Distance to Nearest Turbine: 511.4 km
+
+Rank #737:
+  Latitude:  33.285714°
+  Longitude: -103.316327°
+  Power Potential: 339.40 m³/s³
+  Mean Wind Speed: 6.98 m/s
+  Distance to Nearest Turbine: 121.0 km
+
+Rank #738:
+  Latitude:  31.785714°
+  Longitude: -95.091837°
+  Power Potential: 339.36 m³/s³
+  Mean Wind Speed: 6.94 m/s
+  Distance to Nearest Turbine: 287.9 km
+
+Rank #739:
+  Latitude:  28.142857°
+  Longitude: -100.928571°
+  Power Potential: 339.05 m³/s³
+  Mean Wind Speed: 6.98 m/s
+  Distance to Nearest Turbine: 201.3 km
+
+Rank #740:
+  Latitude:  36.285714°
+  Longitude: -96.683673°
+  Power Potential: 339.05 m³/s³
+  Mean Wind Speed: 6.95 m/s
+  Distance to Nearest Turbine: 393.0 km
+
+Rank #741:
+  Latitude:  26.214286°
+  Longitude: -100.397959°
+  Power Potential: 338.96 m³/s³
+  Mean Wind Speed: 6.91 m/s
+  Distance to Nearest Turbine: 20.0 km
+
+Rank #742:
+  Latitude:  30.071429°
+  Longitude: -96.948980°
+  Power Potential: 338.90 m³/s³
+  Mean Wind Speed: 6.94 m/s
+  Distance to Nearest Turbine: 502.2 km
+
+Rank #743:
+  Latitude:  36.285714°
+  Longitude: -102.785714°
+  Power Potential: 338.88 m³/s³
+  Mean Wind Speed: 6.99 m/s
+  Distance to Nearest Turbine: 129.2 km
+
+Rank #744:
+  Latitude:  34.357143°
+  Longitude: -101.724490°
+  Power Potential: 338.77 m³/s³
+  Mean Wind Speed: 7.11 m/s
+  Distance to Nearest Turbine: 111.2 km
+
+Rank #745:
+  Latitude:  35.214286°
+  Longitude: -104.377551°
+  Power Potential: 338.77 m³/s³
+  Mean Wind Speed: 6.99 m/s
+  Distance to Nearest Turbine: 164.8 km
+
+Rank #746:
+  Latitude:  34.357143°
+  Longitude: -96.153061°
+  Power Potential: 338.61 m³/s³
+  Mean Wind Speed: 7.00 m/s
+  Distance to Nearest Turbine: 317.4 km
+
+Rank #747:
+  Latitude:  29.000000°
+  Longitude: -100.663265°
+  Power Potential: 338.52 m³/s³
+  Mean Wind Speed: 6.96 m/s
+  Distance to Nearest Turbine: 290.2 km
+
+Rank #748:
+  Latitude:  36.071429°
+  Longitude: -96.683673°
+  Power Potential: 338.52 m³/s³
+  Mean Wind Speed: 6.92 m/s
+  Distance to Nearest Turbine: 414.0 km
+
+Rank #749:
+  Latitude:  29.428571°
+  Longitude: -95.357143°
+  Power Potential: 338.38 m³/s³
+  Mean Wind Speed: 6.93 m/s
+  Distance to Nearest Turbine: 399.7 km
+
+Rank #750:
+  Latitude:  32.214286°
+  Longitude: -102.785714°
+  Power Potential: 338.13 m³/s³
+  Mean Wind Speed: 6.93 m/s
+  Distance to Nearest Turbine: 234.9 km
 
 ================================================================================
 STATISTICAL SUMMARY
