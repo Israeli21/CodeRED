@@ -54,7 +54,7 @@ st.markdown("""
 
 st.markdown("""
     <div style="text-align: center; padding: 2rem 0;">
-        <h1 style="font-size: 3rem; margin: 0; font-weight: 900; color: #047857;">Energy Optimizer</h1>
+        <h1 style="font-size: 3rem; margin: 0; font-weight: 900; color: #047857;">Wind Energy Optimizer</h1>
         <p style="color: #10b981; font-size: 1.3rem;">Calculate Revenue for Your Renewable Energy Project</p>
     </div>
     """, unsafe_allow_html=True)
@@ -71,7 +71,7 @@ def load_wind_data():
         st.error(f"Wind data file not found at {csv_path}")
         return None
 
-@st.cache_data(show_spinner="Loading location names...")
+@st.cache_data(show_spinner="Loading locations...")
 def get_location_name(lat, lon):
     try:
         geocoder = Nominatim(user_agent="renewweb_analyzer")
@@ -101,8 +101,20 @@ def get_valid_locations(df_sorted, count=5):
     return pd.DataFrame(valid_rows)
 
 
+
+st.markdown("""
+<div style='padding: 1.5rem; background-color: #ecfdf5; border-left: 6px solid #10b981; border-radius: 0.5rem;'>
+    <h3 style='color: #047857;'>Planning Your Wind Energy Investment?</h3>
+    <p style='font-size: 1.1rem; color: #065f46;'>
+        Looking to invest in wind-powered renewable energy? Simply provide your desired turbine configuration — including cost, number of units, and efficiency — and we'll help you identify the most optimal locations for maximum revenue, ROI, and payback time.
+    </p>
+</div>
+""", unsafe_allow_html=True)
+
+st.divider()
+
 st.subheader("Wind Turbine Configuration")
-    
+
 col1, col2 = st.columns(2)
     
 with col1:
@@ -326,7 +338,7 @@ if "show_results" in st.session_state and st.session_state.show_results:
                         st.session_state.latitude = float(row['lat'])
                         st.session_state.longitude = float(row['lon'])
                         st.session_state.show_map = True
-                        st.switch_page("pages/SiteMap.py")
+                        st.switch_page("pages/Map.py")
             
             st.divider()
             
@@ -350,7 +362,7 @@ if "show_results" in st.session_state and st.session_state.show_results:
                         st.session_state.latitude = float(row['lat'])
                         st.session_state.longitude = float(row['lon'])
                         st.session_state.show_map = True
-                        st.switch_page("pages/SiteMap.py")
+                        st.switch_page("pages/Map.py")
             
             st.divider()
             
