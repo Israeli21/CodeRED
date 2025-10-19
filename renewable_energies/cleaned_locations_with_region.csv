@@ -1,0 +1,101 @@
+city,state_name,lat,lng,Region
+New York,New York,40.6943,-73.9249,Northeast
+Los Angeles,California,34.1141,-118.4068,West
+Chicago,Illinois,41.8375,-87.6866,Midwest
+Miami,Florida,25.784,-80.2101,South
+Houston,Texas,29.786,-95.3885,South
+Dallas,Texas,32.7935,-96.7667,South
+Philadelphia,Pennsylvania,40.0077,-75.1339,Northeast
+Atlanta,Georgia,33.7628,-84.422,South
+Washington,District of Columbia,38.9047,-77.0163,South (DC Outlier)
+Boston,Massachusetts,42.3188,-71.0852,Northeast
+Phoenix,Arizona,33.5722,-112.0892,West
+Detroit,Michigan,42.3834,-83.1024,Midwest
+Seattle,Washington,47.6211,-122.3244,West
+San Francisco,California,37.7558,-122.4449,West
+San Diego,California,32.8313,-117.1222,West
+Minneapolis,Minnesota,44.9635,-93.2678,Midwest
+Tampa,Florida,27.9945,-82.4447,South
+Brooklyn,New York,40.6501,-73.9496,Northeast
+Denver,Colorado,39.762,-104.8758,West
+Queens,New York,40.7498,-73.7976,Northeast
+Riverside,California,33.9381,-117.3949,West
+Las Vegas,Nevada,36.2333,-115.2654,West
+Baltimore,Maryland,39.3051,-76.6144,South
+St. Louis,Missouri,38.6359,-90.2451,Midwest
+Portland,Oregon,45.5371,-122.65,West
+San Antonio,Texas,29.4632,-98.5238,South
+Sacramento,California,38.5677,-121.4685,West
+Austin,Texas,30.3005,-97.7522,South
+Orlando,Florida,28.4773,-81.337,South
+San Juan,Puerto Rico,18.3985,-66.061,Unknown
+San Jose,California,37.3012,-121.848,West
+Indianapolis,Indiana,39.7771,-86.1458,Midwest
+Pittsburgh,Pennsylvania,40.4397,-79.9763,Northeast
+Cincinnati,Ohio,39.1413,-84.506,Midwest
+Manhattan,New York,40.7834,-73.9662,Northeast
+Kansas City,Missouri,39.1238,-94.5541,Midwest
+Cleveland,Ohio,41.4764,-81.6805,Midwest
+Columbus,Ohio,39.9862,-82.9855,Midwest
+Bronx,New York,40.8501,-73.8662,Northeast
+Charlotte,North Carolina,35.2083,-80.8303,South
+Virginia Beach,Virginia,36.7335,-76.0435,South
+Jacksonville,Florida,30.3322,-81.6749,South
+Milwaukee,Wisconsin,43.0642,-87.9675,Midwest
+Providence,Rhode Island,41.823,-71.4187,Northeast
+Nashville,Tennessee,36.1715,-86.7842,South
+Salt Lake City,Utah,40.7776,-111.9311,West
+Raleigh,North Carolina,35.8324,-78.6429,South
+Richmond,Virginia,37.5295,-77.4756,South
+Memphis,Tennessee,35.1087,-89.9663,South
+Oklahoma City,Oklahoma,35.4676,-97.5136,South
+Hartford,Connecticut,41.7661,-72.6834,Northeast
+Louisville,Kentucky,38.1663,-85.6485,South
+Buffalo,New York,42.9018,-78.8487,Northeast
+Fort Worth,Texas,32.7817,-97.3474,South
+Bridgeport,Connecticut,41.1918,-73.1954,Northeast
+New Orleans,Louisiana,30.0687,-89.9288,South
+Tucson,Arizona,32.1541,-110.8787,West
+El Paso,Texas,31.8476,-106.43,South
+Omaha,Nebraska,41.2627,-96.0529,Midwest
+McAllen,Texas,26.2252,-98.2467,South
+Birmingham,Alabama,33.5279,-86.7971,South
+Albuquerque,New Mexico,35.1054,-106.6465,West
+Tulsa,Oklahoma,36.1283,-95.9042,South
+Charleston,South Carolina,32.8168,-79.9687,South
+Fresno,California,36.783,-119.7939,West
+Rochester,New York,43.168,-77.6162,Northeast
+Dayton,Ohio,39.7805,-84.2003,Midwest
+Cape Coral,Florida,26.6443,-81.9957,South
+Provo,Utah,40.2457,-111.6457,West
+Colorado Springs,Colorado,38.8674,-104.7605,West
+Mission Viejo,California,33.6096,-117.6551,West
+Allentown,Pennsylvania,40.5961,-75.4756,Northeast
+Baton Rouge,Louisiana,30.442,-91.1311,South
+Ogden,Utah,41.2279,-111.9682,West
+Knoxville,Tennessee,35.9692,-83.9496,South
+Grand Rapids,Michigan,42.9619,-85.6562,Midwest
+Columbia,South Carolina,34.0378,-80.9036,South
+Albany,New York,42.6664,-73.7987,Northeast
+Bakersfield,California,35.3529,-119.0359,West
+New Haven,Connecticut,41.3113,-72.9246,Northeast
+Des Moines,Iowa,41.5725,-93.6105,Midwest
+Palm Bay,Florida,27.9631,-80.6593,South
+Akron,Ohio,41.0798,-81.5219,Midwest
+Concord,California,37.9722,-122.0016,West
+Mesa,Arizona,33.4015,-111.7178,West
+Wichita,Kansas,37.6895,-97.3443,Midwest
+Harrisburg,Pennsylvania,40.2752,-76.8843,Northeast
+Staten Island,New York,40.5834,-74.1496,Northeast
+Toledo,Ohio,41.6638,-83.5827,Midwest
+Worcester,Massachusetts,42.2705,-71.8079,Northeast
+Port St. Lucie,Florida,27.2796,-80.3884,South
+Little Rock,Arkansas,34.7256,-92.3577,South
+Madison,Wisconsin,43.0822,-89.393,Midwest
+Spokane,Washington,47.6671,-117.433,West
+Long Beach,California,33.7977,-118.167,West
+Denton,Texas,33.2175,-97.1418,South
+Reno,Nevada,39.5497,-119.8483,West
+Boise,Idaho,43.6005,-116.2308,West
+Bonita Springs,Florida,26.3558,-81.7859,South
+Kissimmee,Florida,28.3041,-81.4169,South
