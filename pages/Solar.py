@@ -2,6 +2,10 @@ import streamlit as st
 import pandas as pd
 import requests
 import time
+import os
+from dotenv import load_dotenv
+# Load .env file
+load_dotenv()
 
 
 def calculate_solar_financials(irr, panels,
@@ -38,7 +42,7 @@ def calculate_solar_financials(irr, panels,
         "ROI (%)": roi_percent
     }
 
-st.title("☀️ Top 5 US Locations for Solar Energy")
+st.title("Top 5 US Locations for Solar Energy")
 
 # --- LOAD CITIES FROM CSV ---
 @st.cache_data
@@ -61,11 +65,14 @@ budget = st.number_input(
     step=500
 )
 
-# Your API key
-api_key = "TeVSdN0qrq07P3SYpVvcr8xcjvN4gVwXlk4uKmyD"
+# Get API key
+api_key = os.getenv("NREL_API_KEY")
+
+if not api_key:
+    st.error("API key not found! Please check your .env file.")
 
 # Load the CSV
-csv_path = "renewable_energies/cleaned_locations_with_region.csv"
+csv_path = "renewable_energies/cleaned_locations_with_region_new.csv"
 cities_df = load_cities_from_csv(csv_path)
 
 if cities_df is not None:
@@ -104,10 +111,10 @@ if cities_df is not None:
     selected_cities_df = selected_cities_df.head(max_cities)
 
     # Display selected cities
-    with st.expander(f"📍 View {len(selected_cities_df)} selected cities"):
+    with st.expander(f"View {len(selected_cities_df)} selected cities"):
         st.dataframe(selected_cities_df)
 
-    if st.button("🔍 Find Top 5 Solar Locations"):
+    if st.button("Analyze Location & ROI"):
         st.write("Fetching data from NREL API...")
 
         results = []
@@ -169,7 +176,7 @@ if cities_df is not None:
             st.dataframe(df.head(5), width='stretch')
 
             # ROI Calculations
-            st.subheader("💰 ROI Analysis Based on Your Budget")
+            st.subheader("ROI Analysis Based on Your Budget")
             roi_results = []
             panel_cost = 250
             install_cost = 250
@@ -201,7 +208,7 @@ if cities_df is not None:
             # Highlight the best location for the budget
             best = roi_df.iloc[0]
             st.success(
-                f"🏆 Best Location for a ${budget} Budget: **{best['City']}**, **{best['State']}** with {int(best['Number of Panels'])} panels")
+                f"Best Location for a ${budget} Budget: **{best['City']}**, **{best['State']}** with {int(best['Number of Panels'])} panels")
 
             # Download results
             st.download_button(
