@@ -8,3 +8,14 @@ pip install folium streamlit-folium geopy
 
 
 streamlit run .\Home.py
+
+
+👥 Collaborators
+
+Israel Trejo
+
+Andrea Davila Figueroa
+
+Ali Akram
+
+Naim Momin
