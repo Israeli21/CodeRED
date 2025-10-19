@@ -38,15 +38,12 @@ st.divider()
 
 # Check if location was passed from Analyzer
 if "selected_location" in st.session_state and st.session_state.show_map:
-    # Pre-populate with location from Analyzer
-    location_from_analyzer = st.session_state.selected_location
-    st.session_state.latitude = 31.5 if location_from_analyzer == "West Texas" else (34.0 if location_from_analyzer == "Arizona Desert" else (36.0 if location_from_analyzer == "Southern Nevada" else (35.5 if location_from_analyzer == "Central California" else 40.0)))
-    st.session_state.longitude = -102.5 if location_from_analyzer == "West Texas" else (-111.0 if location_from_analyzer == "Arizona Desert" else (-115.0 if location_from_analyzer == "Southern Nevada" else (-119.5 if location_from_analyzer == "Central California" else -100.0)))
-    st.session_state.location_name = location_from_analyzer
+    # Coordinates are already set in session state from the analyzer page
+    # Just mark that we've processed the show_map flag
     st.session_state.show_map = False
 
-# Input section (hidden if location from Analyzer)
-if "selected_location" not in st.session_state:
+# Input section (only show if no coordinates in session state)
+if "latitude" not in st.session_state or "longitude" not in st.session_state:
     col1, col2, col3 = st.columns([2, 2, 1])
 
     with col1:
@@ -93,8 +90,6 @@ if "selected_location" not in st.session_state:
             st.session_state.latitude = latitude_input
             st.session_state.longitude = longitude_input
             st.session_state.location_name = f"({latitude_input:.4f}, {longitude_input:.4f})"
-else:
-    input_type = "from_analyzer"
 
 # Get coordinates from session state
 latitude = st.session_state.get("latitude")
@@ -113,7 +108,7 @@ if latitude is not None and longitude is not None:
     with col2:
         st.metric("Longitude", f"{longitude:.4f}")
     with col3:
-        st.metric("Location", location_name if input_type == "City & State" else "Custom")
+        st.metric("Location", location_name)
     
     st.divider()
     
@@ -149,4 +144,3 @@ if latitude is not None and longitude is not None:
     st_folium(m, use_container_width=True, height=800)
     
     st.divider()
-    
