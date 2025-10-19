@@ -2,6 +2,11 @@ import streamlit as st
 import pandas as pd
 import requests
 import time
+import os
+from dotenv import load_dotenv
+
+# Load .env file
+load_dotenv()
 
 
 def calculate_solar_financials(irr, panels,
@@ -54,18 +59,21 @@ def load_cities_from_csv(file_path):
 
 # Ask user for budget
 budget = st.number_input(
-    "💰 Enter your total solar installation budget ($)",
+    "Enter your total solar installation budget ($)",
     min_value=1000,
     max_value=100000,
     value=5000,
     step=500
 )
 
-# Your API key
-api_key = "TeVSdN0qrq07P3SYpVvcr8xcjvN4gVwXlk4uKmyD"
+# Get API key
+api_key = os.getenv("NREL_API_KEY")
+
+if not api_key:
+    st.error("API key not found! Please check your .env file.")
 
 # Load the CSV
-csv_path = "renewable_energies/cleaned_locations_with_region.csv"
+csv_path = "renewable_energies/cleaned_locations_with_region_new.csv"
 cities_df = load_cities_from_csv(csv_path)
 
 if cities_df is not None:
@@ -75,10 +83,13 @@ if cities_df is not None:
 
     # Get unique regions
     if 'Region' in cities_df.columns:
-        regions_list = ['All'] + sorted(cities_df['Region'].unique().tolist())
+        regions_list = ['All'] + sorted(
+            cities_df['Region'].dropna().unique().tolist()
+        )
     else:
-        # If no Region column, use State
-        regions_list = ['All'] + sorted(cities_df['State'].unique().tolist())
+        regions_list = ['All'] + sorted(
+            cities_df['State'].dropna().unique().tolist()
+        )
         cities_df['Region'] = cities_df['State']  # Use state as region
 
     # --- Streamlit selection ---
@@ -96,7 +107,7 @@ if cities_df is not None:
     max_cities = st.slider(
         "Maximum cities to analyze (to avoid rate limits)",
         min_value=5,
-        max_value=min(50, len(selected_cities_df)),
+        max_value=min(1000, len(selected_cities_df)),
         value=min(15, len(selected_cities_df))
     )
 
@@ -107,7 +118,7 @@ if cities_df is not None:
     with st.expander(f"📍 View {len(selected_cities_df)} selected cities"):
         st.dataframe(selected_cities_df)
 
-    if st.button("🔍 Find Top 5 Solar Locations"):
+    if st.button("Analyze Location"):
         st.write("Fetching data from NREL API...")
 
         results = []
@@ -169,7 +180,7 @@ if cities_df is not None:
             st.dataframe(df.head(5), width='stretch')
 
             # ROI Calculations
-            st.subheader("💰 ROI Analysis Based on Your Budget")
+            st.subheader("ROI Analysis Based on Your Budget")
             roi_results = []
             panel_cost = 250
             install_cost = 250
@@ -201,7 +212,7 @@ if cities_df is not None:
             # Highlight the best location for the budget
             best = roi_df.iloc[0]
             st.success(
-                f"🏆 Best Location for a ${budget} Budget: **{best['City']}**, **{best['State']}** with {int(best['Number of Panels'])} panels")
+                f"Best Location for a ${budget} Budget: **{best['City']}**, **{best['State']}** with {int(best['Number of Panels'])} panels")
 
             # Download results
             st.download_button(
