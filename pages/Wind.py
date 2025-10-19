@@ -71,86 +71,80 @@ def load_wind_data():
         st.error(f"Wind data file not found at {csv_path}")
         return None
 
-# Function to get location name from coordinates
 @st.cache_data(show_spinner="Loading location names...")
 def get_location_name(lat, lon):
     try:
         geocoder = Nominatim(user_agent="renewweb_analyzer")
-        # Use exact coordinates without any rounding
         location = geocoder.reverse(f"{lat}, {lon}", language='en', timeout=10)
         if location and location.raw.get('address'):
             address = location.raw['address']
-            # Try to get state, fall back to country
-            state = address.get('state', address.get('country', 'Unknown'))
-            return state
-        return f"({lat:.4f}, {lon:.4f})"
-    except Exception as e:
-        # Return coordinates with more precision if geocoding fails
-        return f"({lat:.4f}, {lon:.4f})"
+            state = address.get('state', None)
+            country = address.get('country', None)
 
-# Step 1: Select Renewable Energy Source
-st.subheader("Step 1: Select Renewable Energy Source")
+            if state:
+                return state, True  # Valid location with state
+            elif country:
+                return country, True  # At least a country found
+        return None, False  # Invalid location
+    except Exception:
+        return None, False  # On error
 
-renewable_source = st.selectbox(
-    "Choose your renewable energy source:",
-    options=["Select an option", "Wind"],
-    index=0,
-    help="Select the type of renewable energy you want to build"
-)
+def get_valid_locations(df_sorted, count=5):
+    valid_rows = []
+    for idx, row in df_sorted.iterrows():
+        location_name, is_valid = get_location_name(row['lat'], row['lon'])
+        if is_valid:
+            row['Location'] = location_name
+            valid_rows.append(row)
+        if len(valid_rows) >= count:
+            break
+    return pd.DataFrame(valid_rows)
 
-st.divider()
 
-# Step 2: Dynamic inputs based on source selection
-if renewable_source == "Select an option":
-    st.info("Please select a renewable energy source to continue")
-    if "show_results" in st.session_state:
-        del st.session_state.show_results
-
-elif renewable_source == "Wind":
-    st.subheader("Step 2: Wind Turbine Configuration")
+st.subheader("Wind Turbine Configuration")
     
-    col1, col2 = st.columns(2)
+col1, col2 = st.columns(2)
     
-    with col1:
-        cost_per_unit = st.number_input(
-            "Cost per Wind Turbine ($M)",
-            min_value=1.5,
-            max_value=10.0,
-            value=1.5,
-            step=0.5,
-            help="Select the construction cost per wind turbine in millions"
-        )
-    
-    with col2:
-        num_units = st.number_input(
-            "Number of Wind Turbines",
-            min_value=1,
-            max_value=1000,
-            value=10,
-            step=1,
-            help="How many wind turbines do you want to build?"
-        )
-    
-    efficiency_value = st.slider(
-        "Turbine Efficiency (%)",
-        min_value=10,
-        max_value=100,
-        value=50,
-        step=1,
-        help="Select the efficiency rating of the turbines (10-100%)"
+with col1:
+    cost_per_unit = st.number_input(
+        "Cost per Wind Turbine ($M)",
+        min_value=1.5,
+        max_value=10.0,
+        value=1.5,
+        step=0.5,
+        help="Select the construction cost per wind turbine in millions"
     )
-    efficiency = f"{efficiency_value}%"
     
-    st.divider()
+with col2:
+    num_units = st.number_input(
+        "Number of Wind Turbines",
+        min_value=1,
+        max_value=1000,
+        value=10,
+        step=1,
+        help="How many wind turbines do you want to build?"
+    )
     
-    if st.button("GENERATE REVENUE CALCULATIONS", use_container_width=True, type="primary"):
-        wind_df = load_wind_data()
-        st.session_state.renewable_source = "Wind"
-        st.session_state.cost_per_unit = cost_per_unit
-        st.session_state.num_units = num_units
-        st.session_state.efficiency = efficiency
-        st.session_state.wind_df = wind_df
-        st.session_state.show_results = True
+efficiency_value = st.slider(
+    "Turbine Efficiency (%)",
+    min_value=10,
+    max_value=100,
+    value=50,
+    step=1,
+    help="Select the efficiency rating of the turbines (10-100%)"
+)
+efficiency = f"{efficiency_value}%"
+    
+st.divider()
+    
+if st.button("GENERATE REVENUE CALCULATIONS", use_container_width=True, type="primary"):
+    wind_df = load_wind_data()
+    st.session_state.renewable_source = "Wind"
+    st.session_state.cost_per_unit = cost_per_unit
+    st.session_state.num_units = num_units
+    st.session_state.efficiency = efficiency
+    st.session_state.wind_df = wind_df
+    st.session_state.show_results = True
 
 # Display results if generated
 if "show_results" in st.session_state and st.session_state.show_results:
@@ -169,25 +163,46 @@ if "show_results" in st.session_state and st.session_state.show_results:
         energy_price = 0.05  # $/kWh
         om_cost_per_mw_year = 45000  # $/MW/year
         
-        # Apply calculations to each row in the wind data
+        
+        
+        
         def calculate_wind_metrics(row, num_turbines, capacity_factor, cost_per_unit_millions):
-            total_capacity_mw = num_turbines * turbine_capacity_mw
-            annual_energy_kwh = num_turbines * turbine_capacity_mw * annual_hours * capacity_factor * 1000
-            annual_revenue = annual_energy_kwh * energy_price
-            om_cost = total_capacity_mw * om_cost_per_mw_year
+            total_capacity_mw = float(num_turbines) * float(turbine_capacity_mw)
+
+            # Use wind quality as a multiplier — you can choose either:
+    
+            # Option A: Based on mean wind speed (cubed is more realistic for turbines)
+            wind_multiplier = (float(row['mean_wind_speed']) / 8.0) ** 3  # Normalize to 8 m/s
+
+            # Option B: Based on power_potential (already in a relevant scale)
+            # wind_multiplier = float(row['power_potential']) / 600.0  # Normalize around median
+
+            annual_energy_kwh = (
+                float(num_turbines)
+                * float(turbine_capacity_mw)
+                * float(annual_hours)
+                * float(capacity_factor)
+                * wind_multiplier
+                * 1000.0
+            )
+
+            annual_revenue = float(annual_energy_kwh) * float(energy_price)
+            om_cost = float(total_capacity_mw) * float(om_cost_per_mw_year)
             annual_profit = annual_revenue - om_cost
-            total_cost = cost_per_unit_millions * 1e6 * num_turbines
-            roi_percent = (annual_profit / total_cost * 100) if total_cost > 0 else 0
+            total_cost = float(cost_per_unit_millions) * 1e6 * float(num_turbines)
+    
+            roi_percent = (annual_profit / total_cost * 100.0) if total_cost > 0 else 0
             payback_years = (total_cost / annual_profit) if annual_profit > 0 else float('inf')
-            
+
             return {
-                'Annual Energy (MWh)': annual_energy_kwh / 1e6,
+             'Annual Energy (MWh)': annual_energy_kwh / 1e6,
                 'Annual Revenue ($M)': annual_revenue / 1e6,
                 'Annual Profit ($M)': annual_profit / 1e6,
                 'ROI (%)': roi_percent,
                 'Payback (years)': payback_years
             }
-        
+
+
         # Calculate metrics for all locations (without location names initially)
         results = []
         for idx, row in wind_df.iterrows():
@@ -264,19 +279,27 @@ if "show_results" in st.session_state and st.session_state.show_results:
             df_top5 = df_filtered.nsmallest(5, sort_column).reset_index(drop=True)
             df_bottom5 = df_filtered.nlargest(5, sort_column).reset_index(drop=True)
         else:
-            df_top5 = df_filtered.nlargest(5, sort_column).reset_index(drop=True)
-            df_bottom5 = df_filtered.nsmallest(5, sort_column).reset_index(drop=True)
+            # Pre-sort
+            df_sorted_top = df_filtered.sort_values(by=sort_column, ascending=use_smallest).reset_index(drop=True)
+            df_sorted_bottom = df_filtered.sort_values(by=sort_column, ascending=not use_smallest).reset_index(drop=True)
+
+            # Get only valid location rows (up to 5)
+            df_top5 = get_valid_locations(df_sorted_top, count=5)
+            df_bottom5 = get_valid_locations(df_sorted_bottom, count=5)
         
         # NOW get location names only for the top 5 and bottom 5 using EXACT coordinates
         for idx in df_top5.index:
             exact_lat = df_top5.at[idx, 'lat']
             exact_lon = df_top5.at[idx, 'lon']
-            df_top5.at[idx, 'Location'] = get_location_name(exact_lat, exact_lon)
+            location_name, _ = get_location_name(exact_lat, exact_lon)
+            df_top5.at[idx, 'Location'] = location_name if location_name else f"({exact_lat:.2f}, {exact_lon:.2f})"
+
         
         for idx in df_bottom5.index:
             exact_lat = df_bottom5.at[idx, 'lat']
             exact_lon = df_bottom5.at[idx, 'lon']
-            df_bottom5.at[idx, 'Location'] = get_location_name(exact_lat, exact_lon)
+            location_name, _ = get_location_name(exact_lat, exact_lon)
+            df_bottom5.at[idx, 'Location'] = location_name if location_name else f"({exact_lat:.2f}, {exact_lon:.2f})"
         
         if len(df_top5) == 0:
             st.warning("No locations found for the selected range")
@@ -287,12 +310,12 @@ if "show_results" in st.session_state and st.session_state.show_results:
             st.subheader(f"Top 5 Locations by {sort_by} ({len(df_top5)} results)")
             
             for idx, row in df_top5.iterrows():
-                with st.expander(f"{idx+1}. {row['Location']} - ${row['Annual Revenue ($M)']:.1f}M Revenue / {row['ROI (%)']:.1f}% ROI"):
-                    st.markdown(f"<p style='font-size: 1.15rem;'><strong>Annual Energy:</strong> {row['Annual Energy (MWh)']:,.0f} MWh/yr</p>", unsafe_allow_html=True)
-                    st.markdown(f"<p style='font-size: 1.15rem;'><strong>Annual Revenue:</strong> ${row['Annual Revenue ($M)']:.2f}M</p>", unsafe_allow_html=True)
-                    st.markdown(f"<p style='font-size: 1.15rem;'><strong>Annual Profit:</strong> ${row['Annual Profit ($M)']:.2f}M</p>", unsafe_allow_html=True)
-                    st.markdown(f"<p style='font-size: 1.15rem;'><strong>ROI:</strong> {row['ROI (%)']:.1f}%</p>", unsafe_allow_html=True)
-                    st.markdown(f"<p style='font-size: 1.15rem;'><strong>Payback Period:</strong> {row['Payback (years)']:.1f} years</p>", unsafe_allow_html=True)
+                with st.expander(f"{idx+1}. {row['Location']} - ${row['Annual Revenue ($M)']:.5f}M Revenue / {row['ROI (%)']:.5f}% ROI"):
+                    st.markdown(f"<p style='font-size: 1.15rem;'><strong>Annual Energy:</strong> {row['Annual Energy (MWh)']:,.5f} MWh/yr</p>", unsafe_allow_html=True)
+                    st.markdown(f"<p style='font-size: 1.15rem;'><strong>Annual Revenue:</strong> ${row['Annual Revenue ($M)']:.5f}M</p>", unsafe_allow_html=True)
+                    st.markdown(f"<p style='font-size: 1.15rem;'><strong>Annual Profit:</strong> ${row['Annual Profit ($M)']:.5f}M</p>", unsafe_allow_html=True)
+                    st.markdown(f"<p style='font-size: 1.15rem;'><strong>ROI:</strong> {row['ROI (%)']:.5f}%</p>", unsafe_allow_html=True)
+                    st.markdown(f"<p style='font-size: 1.15rem;'><strong>Payback Period:</strong> {row['Payback (years)']:.5f} years</p>", unsafe_allow_html=True)
                     
                     if st.button("VIEW ON MAP", key=f"map_top_{idx}", use_container_width=True):
                         # Store full precision coordinates
@@ -311,12 +334,12 @@ if "show_results" in st.session_state and st.session_state.show_results:
             st.subheader(f"Bottom 5 Locations by {sort_by} ({len(df_bottom5)} results)")
             
             for idx, row in df_bottom5.iterrows():
-                with st.expander(f"{idx+1}. {row['Location']} - ${row['Annual Revenue ($M)']:.1f}M Revenue / {row['ROI (%)']:.1f}% ROI"):
-                    st.markdown(f"<p style='font-size: 1.15rem;'><strong>Annual Energy:</strong> {row['Annual Energy (MWh)']:,.0f} MWh/yr</p>", unsafe_allow_html=True)
-                    st.markdown(f"<p style='font-size: 1.15rem;'><strong>Annual Revenue:</strong> ${row['Annual Revenue ($M)']:.2f}M</p>", unsafe_allow_html=True)
-                    st.markdown(f"<p style='font-size: 1.15rem;'><strong>Annual Profit:</strong> ${row['Annual Profit ($M)']:.2f}M</p>", unsafe_allow_html=True)
-                    st.markdown(f"<p style='font-size: 1.15rem;'><strong>ROI:</strong> {row['ROI (%)']:.1f}%</p>", unsafe_allow_html=True)
-                    st.markdown(f"<p style='font-size: 1.15rem;'><strong>Payback Period:</strong> {row['Payback (years)']:.1f} years</p>", unsafe_allow_html=True)
+                with st.expander(f"{idx+1}. {row['Location']} - ${row['Annual Revenue ($M)']:.5f}M Revenue / {row['ROI (%)']:.5f}% ROI"):
+                    st.markdown(f"<p style='font-size: 1.15rem;'><strong>Annual Energy:</strong> {row['Annual Energy (MWh)']:,.5f} MWh/yr</p>", unsafe_allow_html=True)
+                    st.markdown(f"<p style='font-size: 1.15rem;'><strong>Annual Revenue:</strong> ${row['Annual Revenue ($M)']:.5f}M</p>", unsafe_allow_html=True)
+                    st.markdown(f"<p style='font-size: 1.15rem;'><strong>Annual Profit:</strong> ${row['Annual Profit ($M)']:.5f}M</p>", unsafe_allow_html=True)
+                    st.markdown(f"<p style='font-size: 1.15rem;'><strong>ROI:</strong> {row['ROI (%)']:.5f}%</p>", unsafe_allow_html=True)
+                    st.markdown(f"<p style='font-size: 1.15rem;'><strong>Payback Period:</strong> {row['Payback (years)']:.5f} years</p>", unsafe_allow_html=True)
                     
                     if st.button("VIEW ON MAP", key=f"map_bottom_{idx}", use_container_width=True):
                         # Store full precision coordinates
