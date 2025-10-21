@@ -5,3 +5,17 @@ python -m venv venv
 
 pip install streamlit pandas scikit-learn xgboost plotly requests joblib python-dotenv
 pip install folium streamlit-folium geopy
+
+
+streamlit run .\Home.py
+
+
+👥 Collaborators
+
+Israel Trejo
+
+Andrea Davila Figueroa
+
+Ali Akram
+
+Naim Momin
